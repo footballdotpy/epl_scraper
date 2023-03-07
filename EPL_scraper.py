@@ -20,13 +20,11 @@ errors = []
 start = 74911
 stop = 75163 + 1
 
-# ids = [74933, 75142]
-
 for match_id in range(start, stop):
     base_url = f'https://www.premierleague.com/match/{match_id}'
     option = Options()
     option.headless = False
-    driver = webdriver.Chrome("C:/Users/paulc/Documents/Football Data project/DroppingOddsScraper/chromedriver.exe",
+    driver = webdriver.Chrome("#########",
                               options=option)
     driver.get(base_url)
 
