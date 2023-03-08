@@ -1,0 +1,252 @@
+date,venue,home_team,away_team,ht_home_score,ht_away_score,home_score,away_score,home_possession_%,away_possession_%,home_shots_on_target,away_shots_on_target,home_shots,away_shots,home_touches,away_touches,home_passes,away_passes,home_tackles,away_tackles,home_clearances,away_clearances,home_corners,away_corners,home_offsides,away_offsides,home_yellow_cards,away_yellow_cards,home_red_cards,away_red_cards,home_fouls,away_fouls,referee
+05/08/2022,"Selhurst Park, London",Crystal Palace,Arsenal,0,1,0,2,0.56,0.43,2,2,10,10,770,652,562,438,18,29,19,24,3,5,1,2,1,2,0,0,16,11,Anthony Taylor
+06/08/2022,"Craven Cottage, London",Fulham,Liverpool,1,0,2,2,0.33,0.66,3,4,9,11,499,811,294,612,25,11,30,14,4,4,4,4,2,0,0,0,7,9,Andy Madley
+06/08/2022,"Vitality Stadium, Bournemouth",Bournemouth,Aston Villa,1,0,2,0,0.34,0.65,3,2,7,15,501,770,301,571,20,10,36,8,5,5,1,4,3,3,0,0,18,16,Peter Bankes
+06/08/2022,"Elland Road, Leeds",Leeds United,Wolverhampton Wanderers,1,1,2,1,0.4,0.59,4,6,12,15,551,773,355,546,21,16,22,16,6,4,0,1,2,0,0,0,13,9,Robert Jones
+06/08/2022,"Goodison Park, Liverpool",Everton,Chelsea,0,1,0,1,0.37,0.62,4,6,8,15,533,778,335,566,24,19,27,16,4,16,0,2,3,2,0,0,14,11,Craig Pawson
+06/08/2022,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Southampton,2,1,4,1,0.57,0.42,8,2,18,10,733,596,554,410,24,14,18,19,10,2,2,0,3,0,0,0,11,6,Andre Marriner
+06/08/2022,"St. James' Park, Newcastle",Newcastle United,Nottingham Forest,0,0,2,0,0.61,0.38,10,0,23,5,675,504,469,294,19,15,14,36,11,1,2,0,0,3,0,0,9,14,Simon Hooper
+07/08/2022,"London Stadium, London",West Ham United,Manchester City,0,1,0,2,0.24,0.75,1,2,6,14,391,967,263,833,14,6,17,11,1,4,4,1,0,1,0,0,8,4,Michael Oliver
+07/08/2022,"Old Trafford, Manchester",Manchester United,Brighton & Hove Albion,0,2,1,2,0.62,0.37,5,4,17,15,732,509,548,326,12,14,10,24,6,2,3,1,4,1,0,0,7,12,Paul Tierney
+07/08/2022,"King Power Stadium, Leicester",Leicester City,Brentford,1,0,2,2,0.55,0.44,5,3,14,8,750,604,580,457,13,10,12,16,5,6,2,2,0,0,0,0,6,5,Jarred Gillett
+13/08/2022,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Fulham,0,0,0,0,0.59,0.4,1,3,7,9,691,525,496,328,18,19,14,22,5,3,1,0,3,3,0,0,7,14,John Brooks
+13/08/2022,"Villa Park, Birmingham",Aston Villa,Everton,1,0,2,1,0.57,0.42,4,4,12,15,699,549,517,378,15,16,16,17,5,8,2,3,4,1,0,0,9,7,Michael Oliver
+13/08/2022,"St. Mary's Stadium, Southampton",Southampton,Leeds United,0,0,2,2,0.42,0.57,4,5,14,13,549,661,332,454,17,27,17,20,2,5,1,1,1,3,0,0,10,12,Tony Harrington
+13/08/2022,"Amex Stadium, Falmer",Brighton & Hove Albion,Newcastle United,0,0,0,0,0.54,0.45,7,1,13,4,542,508,374,314,18,12,19,32,7,3,1,4,2,3,0,0,8,6,Graham Scott
+13/08/2022,"Emirates Stadium, London",Arsenal,Leicester City,2,0,4,2,0.49,0.5,7,2,19,6,621,611,462,472,8,12,11,16,6,2,2,3,1,1,0,0,15,9,Darren England
+13/08/2022,"Gtech Community Stadium, Brentford",Brentford,Manchester United,4,0,4,0,0.33,0.66,7,4,13,15,421,699,255,525,6,12,13,22,8,2,1,2,0,4,0,0,6,15,Stuart Attwell
+13/08/2022,"Etihad Stadium, Manchester",Manchester City,Bournemouth,3,0,4,0,0.66,0.33,7,1,19,3,842,464,696,353,8,10,4,20,11,1,2,1,0,3,0,0,9,9,David Coote
+14/08/2022,"Stamford Bridge, London",Chelsea,Tottenham Hotspur,1,0,2,2,0.63,0.36,3,5,16,10,806,557,597,340,28,25,5,32,8,5,2,1,3,0,0,0,9,9,Anthony Taylor
+14/08/2022,"The City Ground, Nottingham",Nottingham Forest,West Ham United,1,0,1,0,0.43,0.56,6,5,13,19,497,585,288,381,16,16,29,17,6,7,3,2,4,1,0,0,10,11,Robert Jones
+15/08/2022,"Anfield, Liverpool",Liverpool,Crystal Palace,0,1,1,1,0.72,0.27,4,3,24,7,951,495,741,274,20,23,8,38,4,2,3,2,2,4,1,0,7,8,Paul Tierney
+20/08/2022,"King Power Stadium, Leicester",Leicester City,Southampton,0,0,1,2,0.62,0.38,1,3,6,9,758,525,556,335,15,19,20,22,2,5,0,1,2,3,0,0,11,13,Michael Salisbury
+20/08/2022,"Vitality Stadium, Bournemouth",Bournemouth,Arsenal,0,2,0,3,0.41,0.58,1,6,6,14,576,773,411,580,22,14,11,20,3,4,1,3,2,1,0,0,12,10,Craig Pawson
+20/08/2022,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Wolverhampton Wanderers,0,0,1,0,0.49,0.5,4,3,11,20,661,652,472,477,18,18,17,17,8,6,2,0,2,2,0,0,10,8,Simon Hooper
+20/08/2022,"Goodison Park, Liverpool",Everton,Nottingham Forest,0,0,1,1,0.48,0.51,8,5,19,14,606,614,412,444,13,22,15,20,6,2,4,1,3,2,0,0,6,9,Andre Marriner
+20/08/2022,"Selhurst Park, London",Crystal Palace,Aston Villa,1,1,3,1,0.5,0.49,9,5,17,13,639,612,448,428,14,26,11,8,4,2,1,1,2,1,0,0,16,14,Andy Madley
+20/08/2022,"Craven Cottage, London",Fulham,Brentford,2,1,3,2,0.43,0.56,9,5,18,13,498,592,311,417,12,12,22,9,6,3,5,7,3,2,0,0,13,7,Peter Bankes
+21/08/2022,"London Stadium, London",West Ham United,Brighton & Hove Albion,0,1,0,2,0.49,0.5,3,2,13,11,633,655,467,485,8,17,12,16,5,4,3,1,2,0,0,0,10,7,Anthony Taylor
+21/08/2022,"Elland Road, Leeds",Leeds United,Chelsea,2,0,3,0,0.39,0.6,6,3,12,14,514,719,318,494,26,22,14,12,4,6,1,7,0,1,0,1,16,15,Stuart Attwell
+21/08/2022,"St. James' Park, Newcastle",Newcastle United,Manchester City,2,1,3,3,0.31,0.68,6,10,12,21,440,794,275,608,13,9,22,13,5,5,2,1,4,2,1,0,14,7,Jarred Gillett
+22/08/2022,"Old Trafford, Manchester",Manchester United,Liverpool,1,0,2,1,0.29,0.7,5,5,13,17,478,835,273,645,24,13,34,7,6,8,2,2,3,1,0,0,11,7,Michael Oliver
+27/08/2022,"Stamford Bridge, London",Chelsea,Leicester City,0,0,2,1,0.45,0.54,4,5,7,17,624,710,446,524,18,17,25,14,3,11,3,1,1,2,1,0,10,7,Paul Tierney
+27/08/2022,"Amex Stadium, Falmer",Brighton & Hove Albion,Leeds United,0,0,1,0,0.42,0.57,4,2,13,10,542,659,353,475,14,22,8,16,5,3,2,1,2,3,0,0,10,14,Michael Salisbury
+27/08/2022,"St. Mary's Stadium, Southampton",Southampton,Manchester United,0,0,0,1,0.48,0.51,5,6,17,11,571,594,364,404,17,14,10,36,5,3,1,1,0,3,0,0,4,14,Andy Madley
+27/08/2022,"Etihad Stadium, Manchester",Manchester City,Crystal Palace,0,2,4,2,0.74,0.25,5,2,18,2,920,412,770,265,12,9,3,27,6,1,2,1,1,2,0,0,14,8,Darren England
+27/08/2022,"Gtech Community Stadium, Brentford",Brentford,Everton,0,1,1,1,0.57,0.42,5,7,20,14,708,592,514,385,14,22,12,37,8,5,0,2,2,2,0,0,8,8,John Brooks
+27/08/2022,"Emirates Stadium, London",Arsenal,Fulham,0,0,2,1,0.72,0.28,8,3,22,11,793,425,595,223,15,24,5,30,9,2,1,0,2,3,0,0,6,12,Jarred Gillett
+27/08/2022,"Anfield, Liverpool",Liverpool,Bournemouth,5,0,9,0,0.69,0.3,12,2,19,5,849,455,681,303,12,20,3,17,8,1,3,0,0,1,0,0,6,5,Stuart Attwell
+28/08/2022,"The City Ground, Nottingham",Nottingham Forest,Tottenham Hotspur,0,1,0,2,0.55,0.44,1,7,17,18,756,653,568,462,21,12,7,25,6,1,1,3,6,1,0,0,11,13,Craig Pawson
+28/08/2022,"Villa Park, Birmingham",Aston Villa,West Ham United,0,0,0,1,0.57,0.42,3,2,9,7,771,606,582,419,17,13,13,29,3,2,2,1,2,0,0,0,10,10,David Coote
+28/08/2022,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Newcastle United,1,0,1,1,0.36,0.63,4,6,10,21,469,662,265,458,22,15,36,13,4,13,3,1,2,1,0,0,10,11,Peter Bankes
+30/08/2022,"Selhurst Park, London",Crystal Palace,Brentford,0,0,1,1,0.49,0.51,4,3,13,9,667,664,472,482,21,14,26,5,4,6,1,0,1,2,0,0,11,8,Simon Hooper
+30/08/2022,"Craven Cottage, London",Fulham,Brighton & Hove Albion,0,0,2,1,0.39,0.6,3,4,10,7,545,736,344,533,26,23,22,11,3,3,0,2,2,1,0,0,9,11,Thomas Bramall
+30/08/2022,"Elland Road, Leeds",Leeds United,Everton,0,1,1,1,0.69,0.3,5,2,14,7,898,527,644,292,25,28,12,35,10,2,2,2,3,3,0,0,10,9,Darren England
+30/08/2022,"St. Mary's Stadium, Southampton",Southampton,Chelsea,2,1,2,1,0.32,0.67,7,4,9,10,478,805,259,561,19,26,29,26,5,3,0,3,2,1,0,0,15,10,Michael Oliver
+31/08/2022,"Vitality Stadium, Bournemouth",Bournemouth,Wolverhampton Wanderers,0,0,0,0,0.34,0.65,2,4,5,17,519,795,320,603,24,26,27,13,2,5,0,3,2,1,0,0,12,12,Anthony Taylor
+31/08/2022,"London Stadium, London",West Ham United,Tottenham Hotspur,0,1,1,1,0.38,0.61,4,3,14,12,534,779,369,621,13,7,22,17,3,4,1,0,2,5,0,0,10,10,Peter Bankes
+31/08/2022,"Anfield, Liverpool",Liverpool,Newcastle United,0,1,2,1,0.71,0.28,6,2,23,5,823,447,625,256,7,23,4,42,13,0,2,2,0,2,0,0,9,10,Andre Marriner
+31/08/2022,"Etihad Stadium, Manchester",Manchester City,Nottingham Forest,3,0,6,0,0.74,0.25,9,1,17,8,924,407,785,261,13,14,6,24,10,1,2,2,0,1,0,0,9,7,Paul Tierney
+31/08/2022,"Emirates Stadium, London",Arsenal,Aston Villa,1,0,2,1,0.58,0.41,9,3,22,4,699,524,504,352,10,16,10,24,10,3,1,1,2,3,0,0,10,14,Robert Jones
+01/09/2022,"King Power Stadium, Leicester",Leicester City,Manchester United,0,1,0,1,0.53,0.46,2,2,10,9,782,684,595,513,21,15,16,10,1,3,0,2,1,3,0,0,7,15,Craig Pawson
+03/09/2022,"Goodison Park, Liverpool",Everton,Liverpool,0,0,0,0,0.39,0.61,3,8,14,23,497,682,302,469,19,15,32,16,7,9,3,2,2,2,0,0,7,11,Anthony Taylor
+03/09/2022,"Villa Park, Birmingham",Aston Villa,Manchester City,0,0,1,1,0.27,0.72,1,4,3,13,420,895,287,763,15,13,15,8,1,4,5,3,2,0,0,0,7,6,Simon Hooper
+03/09/2022,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Southampton,1,0,1,0,0.5,0.49,2,1,7,12,630,593,432,406,14,20,26,18,5,6,1,0,4,2,0,0,10,14,John Brooks
+03/09/2022,"The City Ground, Nottingham",Nottingham Forest,Bournemouth,2,0,2,3,0.52,0.47,3,3,11,8,665,626,486,442,13,12,17,29,4,6,1,1,2,1,0,0,13,10,Michael Oliver
+03/09/2022,"Stamford Bridge, London",Chelsea,West Ham United,0,0,2,1,0.68,0.31,3,3,8,6,826,485,661,308,16,14,12,28,10,3,1,1,4,2,0,0,6,11,Andy Madley
+03/09/2022,"St. James' Park, Newcastle",Newcastle United,Crystal Palace,0,0,0,0,0.51,0.48,6,9,23,19,599,604,359,362,18,23,18,35,13,5,2,1,2,2,0,0,19,12,Michael Salisbury
+03/09/2022,"Gtech Community Stadium, Brentford",Brentford,Leeds United,2,1,5,2,0.31,0.68,8,6,14,17,429,693,218,488,24,24,21,13,2,6,1,1,2,2,0,0,8,9,Robert Jones
+03/09/2022,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Fulham,1,0,2,1,0.51,0.48,10,3,23,9,659,629,475,433,19,18,17,19,10,3,3,0,3,4,0,0,9,6,Stuart Attwell
+04/09/2022,"Old Trafford, Manchester",Manchester United,Arsenal,1,0,3,1,0.39,0.6,6,3,10,16,472,630,310,465,17,14,24,6,2,5,4,0,3,3,0,0,13,9,Paul Tierney
+04/09/2022,"Amex Stadium, Falmer",Brighton & Hove Albion,Leicester City,2,2,5,2,0.53,0.46,11,4,23,6,676,610,493,436,17,13,5,27,10,1,2,3,1,1,0,0,6,8,Tony Harrington
+16/09/2022,"The City Ground, Nottingham",Nottingham Forest,Fulham,1,0,2,3,0.4,0.59,3,7,11,15,540,721,375,555,10,12,22,14,2,10,2,1,2,4,0,0,11,10,Jarred Gillett
+16/09/2022,"Villa Park, Birmingham",Aston Villa,Southampton,1,0,1,0,0.52,0.47,3,1,11,7,645,624,420,376,35,28,21,26,6,3,1,0,3,1,0,0,13,13,Tony Harrington
+17/09/2022,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Manchester City,0,2,0,3,0.4,0.59,1,7,6,16,588,796,422,622,19,19,11,10,5,7,0,1,2,1,1,0,7,9,Anthony Taylor
+17/09/2022,"St. James' Park, Newcastle",Newcastle United,Bournemouth,0,0,1,1,0.72,0.27,7,3,20,10,839,448,643,245,16,18,9,35,8,1,3,1,2,2,0,0,10,11,Craig Pawson
+17/09/2022,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Leicester City,2,2,6,2,0.43,0.56,11,7,16,19,652,795,482,632,14,16,8,11,6,1,1,0,1,2,0,0,9,9,Simon Hooper
+18/09/2022,"Gtech Community Stadium, Brentford",Brentford,Arsenal,0,2,0,3,0.36,0.63,2,7,5,13,487,754,321,592,21,12,16,19,3,3,3,1,0,2,0,0,10,10,David Coote
+18/09/2022,"Goodison Park, Liverpool",Everton,West Ham United,0,0,1,0,0.53,0.46,2,4,7,14,676,575,464,388,18,18,28,17,5,14,1,1,3,1,0,0,8,11,Michael Oliver
+01/10/2022,"Craven Cottage, London",Fulham,Newcastle United,0,3,1,4,0.31,0.68,1,10,3,19,423,770,281,605,13,15,14,14,1,8,4,7,2,0,1,0,9,10,Darren England
+01/10/2022,"Vitality Stadium, Bournemouth",Bournemouth,Brentford,0,0,0,0,0.42,0.58,1,4,7,13,540,703,375,530,14,20,20,19,7,8,1,2,1,2,0,0,11,10,Thomas Bramall
+01/10/2022,"Selhurst Park, London",Crystal Palace,Chelsea,1,1,1,2,0.36,0.64,3,3,7,13,515,801,348,635,18,16,14,12,5,2,1,0,1,3,0,0,11,13,Chris Kavanagh
+01/10/2022,"London Stadium, London",West Ham United,Wolverhampton Wanderers,1,0,2,0,0.39,0.6,5,4,18,15,538,759,372,564,22,12,27,6,1,6,2,1,2,2,0,0,8,6,Paul Tierney
+01/10/2022,"St. Mary's Stadium, Southampton",Southampton,Everton,0,0,1,2,0.54,0.45,6,5,22,12,670,594,445,380,22,23,17,26,7,6,0,1,2,2,0,0,11,10,Andre Marriner
+01/10/2022,"Anfield, Liverpool",Liverpool,Brighton & Hove Albion,1,2,3,3,0.53,0.46,7,6,15,6,753,661,530,460,14,23,16,26,9,2,1,0,1,1,0,0,9,13,Andy Madley
+01/10/2022,"Emirates Stadium, London",Arsenal,Tottenham Hotspur,1,1,3,1,0.64,0.35,9,3,22,7,750,468,565,307,14,16,15,26,5,2,1,3,2,1,0,1,10,10,Anthony Taylor
+02/10/2022,"Elland Road, Leeds",Leeds United,Aston Villa,0,0,0,0,0.43,0.56,1,7,6,19,553,663,375,479,12,16,23,7,2,9,0,2,3,2,1,0,23,12,Stuart Attwell
+02/10/2022,"Etihad Stadium, Manchester",Manchester City,Manchester United,4,0,6,3,0.53,0.46,10,8,22,12,703,603,551,476,14,14,9,10,5,1,1,0,0,3,0,0,3,9,Michael Oliver
+03/10/2022,"King Power Stadium, Leicester",Leicester City,Nottingham Forest,3,0,4,0,0.51,0.48,7,3,17,10,664,625,492,464,11,13,17,15,6,6,3,4,2,4,0,0,13,12,Robert Jones
+08/10/2022,"Vitality Stadium, Bournemouth",Bournemouth,Leicester City,0,1,2,1,0.44,0.55,4,5,10,9,635,734,424,551,13,32,12,23,7,2,3,0,1,2,0,0,8,16,Michael Salisbury
+08/10/2022,"Amex Stadium, Falmer",Brighton & Hove Albion,Tottenham Hotspur,0,1,0,1,0.58,0.41,4,3,14,8,865,655,694,489,17,15,7,19,6,2,2,3,1,2,0,0,9,14,Tony Harrington
+08/10/2022,"St. James' Park, Newcastle",Newcastle United,Brentford,2,0,5,1,0.54,0.45,6,3,16,6,566,496,389,320,15,10,21,15,9,5,1,3,0,1,0,0,14,9,John Brooks
+08/10/2022,"Stamford Bridge, London",Chelsea,Wolverhampton Wanderers,1,0,3,0,0.57,0.42,7,2,20,8,768,612,591,431,26,13,12,17,4,2,3,0,2,0,0,0,8,8,Simon Hooper
+08/10/2022,"Etihad Stadium, Manchester",Manchester City,Southampton,2,0,4,0,0.65,0.34,8,0,21,5,909,559,744,393,15,19,6,20,9,1,1,1,0,1,0,0,4,8,Andy Madley
+09/10/2022,"Goodison Park, Liverpool",Everton,Manchester United,1,2,1,2,0.39,0.6,2,4,11,12,556,765,375,609,9,15,9,25,5,4,1,4,2,1,0,0,7,13,David Coote
+09/10/2022,"Selhurst Park, London",Crystal Palace,Leeds United,1,1,2,1,0.54,0.45,5,4,13,10,666,555,418,345,18,29,19,12,5,3,2,2,3,3,0,0,13,23,Paul Tierney
+09/10/2022,"Emirates Stadium, London",Arsenal,Liverpool,2,1,3,2,0.44,0.56,7,3,11,8,574,670,386,488,16,15,31,19,4,3,3,6,1,2,0,0,11,11,Michael Oliver
+09/10/2022,"London Stadium, London",West Ham United,Fulham,1,1,3,1,0.5,0.49,8,2,17,8,648,662,485,486,12,14,11,17,4,2,1,2,1,3,0,0,9,7,Chris Kavanagh
+10/10/2022,"The City Ground, Nottingham",Nottingham Forest,Aston Villa,1,1,1,1,0.39,0.6,3,2,6,12,527,698,333,506,14,20,23,8,1,4,0,3,3,3,0,0,13,19,Anthony Taylor
+14/10/2022,"Gtech Community Stadium, Brentford",Brentford,Brighton & Hove Albion,1,0,2,0,0.27,0.72,3,7,7,21,444,798,235,611,12,25,29,9,2,11,0,3,3,1,0,0,12,15,Michael Salisbury
+15/10/2022,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Nottingham Forest,0,0,1,0,0.58,0.42,2,2,9,10,615,482,435,313,17,16,23,21,4,5,2,1,2,2,0,0,17,13,Thomas Bramall
+15/10/2022,"Craven Cottage, London",Fulham,Bournemouth,1,2,2,2,0.68,0.31,4,6,19,10,773,453,585,268,12,14,8,46,5,6,1,0,2,0,0,0,9,11,Graham Scott
+15/10/2022,"King Power Stadium, Leicester",Leicester City,Crystal Palace,0,0,0,0,0.53,0.46,5,1,14,8,759,700,579,514,25,13,12,25,9,2,2,1,2,2,0,0,18,13,Andy Madley
+15/10/2022,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Everton,0,0,2,0,0.61,0.38,7,0,21,4,734,518,583,367,8,15,6,25,7,1,0,0,1,4,0,0,12,13,Paul Tierney
+16/10/2022,"Old Trafford, Manchester",Manchester United,Newcastle United,0,0,0,0,0.63,0.37,2,2,15,9,676,476,512,301,18,13,9,19,4,4,2,0,3,1,0,0,13,11,Craig Pawson
+16/10/2022,"Anfield, Liverpool",Liverpool,Manchester City,0,0,1,0,0.36,0.63,2,6,13,16,601,907,407,702,23,20,27,15,5,6,3,0,3,1,0,0,10,7,Anthony Taylor
+16/10/2022,"Elland Road, Leeds",Leeds United,Arsenal,0,1,0,1,0.47,0.53,4,4,16,9,610,701,428,500,25,17,5,17,6,3,4,0,0,2,0,0,10,11,Chris Kavanagh
+16/10/2022,"Villa Park, Birmingham",Aston Villa,Chelsea,0,1,0,2,0.41,0.58,7,4,18,8,542,717,353,548,24,9,6,22,7,1,3,1,0,3,0,0,12,11,Robert Jones
+16/10/2022,"St. Mary's Stadium, Southampton",Southampton,West Ham United,1,0,1,1,0.39,0.6,8,4,10,25,540,700,323,488,14,22,34,19,4,14,1,0,1,1,0,0,7,3,Peter Bankes
+18/10/2022,"Selhurst Park, London",Crystal Palace,Wolverhampton Wanderers,0,1,2,1,0.51,0.48,4,4,14,10,663,625,449,428,23,29,15,16,4,2,0,4,3,1,0,0,14,18,David Coote
+18/10/2022,"Amex Stadium, Falmer",Brighton & Hove Albion,Nottingham Forest,0,0,0,0,0.7,0.29,7,0,19,3,805,435,623,260,11,13,8,24,9,1,1,0,3,1,0,0,10,14,Darren England
+19/10/2022,"Vitality Stadium, Bournemouth",Bournemouth,Southampton,0,1,0,1,0.53,0.46,3,3,15,9,719,656,529,464,13,23,10,24,7,3,2,0,1,3,0,0,8,13,John Brooks
+19/10/2022,"St. James' Park, Newcastle",Newcastle United,Everton,1,0,1,0,0.49,0.5,4,0,16,1,576,597,392,412,18,18,9,19,8,2,0,3,2,4,0,0,9,12,Tony Harrington
+19/10/2022,"Gtech Community Stadium, Brentford",Brentford,Chelsea,0,0,0,0,0.33,0.66,5,5,8,14,503,850,317,656,19,17,25,21,6,2,2,0,0,0,0,0,7,7,Jarred Gillett
+19/10/2022,"Anfield, Liverpool",Liverpool,West Ham United,1,0,1,0,0.53,0.46,7,3,22,8,775,682,600,510,13,15,15,18,8,3,1,0,0,0,0,0,9,8,Stuart Attwell
+19/10/2022,"Old Trafford, Manchester",Manchester United,Tottenham Hotspur,0,0,2,0,0.51,0.48,10,2,28,9,765,703,583,528,17,10,15,10,8,3,4,0,1,0,0,0,7,7,Simon Hooper
+20/10/2022,"King Power Stadium, Leicester",Leicester City,Leeds United,2,0,2,0,0.46,0.53,1,2,5,14,663,721,461,518,26,30,19,14,2,9,4,2,2,1,0,0,15,11,Peter Bankes
+20/10/2022,"Craven Cottage, London",Fulham,Aston Villa,1,0,3,0,0.6,0.39,8,6,18,12,651,479,482,311,12,14,14,12,9,7,0,3,0,2,0,1,11,11,Michael Oliver
+22/10/2022,"Stamford Bridge, London",Chelsea,Manchester United,0,0,1,1,0.47,0.52,2,6,6,13,585,632,414,464,10,18,18,16,6,4,2,3,1,4,0,0,8,10,Stuart Attwell
+22/10/2022,"Etihad Stadium, Manchester",Manchester City,Brighton & Hove Albion,2,0,3,1,0.48,0.51,4,2,10,8,593,624,446,471,14,16,12,11,6,3,0,4,1,3,0,0,11,12,Craig Pawson
+22/10/2022,"Goodison Park, Liverpool",Everton,Crystal Palace,1,0,3,0,0.45,0.54,6,2,9,9,581,648,382,456,26,20,16,17,3,4,1,2,3,4,0,0,16,14,Simon Hooper
+22/10/2022,"The City Ground, Nottingham",Nottingham Forest,Liverpool,0,0,1,0,0.24,0.75,7,7,10,15,427,896,227,691,19,14,38,7,2,11,3,0,2,1,0,0,14,8,Paul Tierney
+23/10/2022,"St. Mary's Stadium, Southampton",Southampton,Arsenal,0,1,1,1,0.4,0.59,3,3,10,12,533,719,358,541,21,16,17,25,9,4,4,3,2,1,0,0,11,8,Robert Jones
+23/10/2022,"Elland Road, Leeds",Leeds United,Fulham,1,1,2,3,0.57,0.42,5,5,14,11,680,567,488,355,22,16,7,16,3,6,4,4,1,1,0,0,12,8,Anthony Taylor
+23/10/2022,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Newcastle United,0,2,1,2,0.52,0.47,5,5,17,13,656,620,457,409,17,15,17,16,6,7,3,4,4,2,0,0,12,6,Jarred Gillett
+23/10/2022,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Leicester City,0,2,0,4,0.6,0.39,6,4,21,5,728,517,537,347,11,23,7,22,9,2,3,3,2,1,0,0,10,12,Michael Oliver
+23/10/2022,"Villa Park, Birmingham",Aston Villa,Brentford,3,0,4,0,0.45,0.54,11,3,19,12,532,602,329,397,20,20,25,12,7,6,0,1,1,0,0,0,14,11,Darren England
+24/10/2022,"London Stadium, London",West Ham United,Bournemouth,1,0,2,0,0.54,0.45,4,3,20,5,694,610,497,432,22,21,9,23,5,0,1,0,0,2,0,0,9,11,David Coote
+29/10/2022,"Selhurst Park, London",Crystal Palace,Southampton,1,0,1,0,0.44,0.55,3,4,12,14,601,703,402,497,23,20,33,21,8,4,5,3,3,3,0,0,13,12,Michael Salisbury
+29/10/2022,"Gtech Community Stadium, Brentford",Brentford,Wolverhampton Wanderers,0,0,1,1,0.57,0.42,3,4,12,13,612,496,419,304,17,17,18,28,3,6,0,1,3,3,0,1,10,17,Robert Madley
+29/10/2022,"Vitality Stadium, Bournemouth",Bournemouth,Tottenham Hotspur,1,0,2,3,0.3,0.69,4,7,6,23,474,831,292,631,18,16,39,10,2,19,0,3,1,2,0,0,10,5,Anthony Taylor
+29/10/2022,"King Power Stadium, Leicester",Leicester City,Manchester City,0,0,0,1,0.35,0.64,5,5,10,15,532,833,385,691,12,7,14,6,3,10,0,2,0,0,0,0,5,10,Robert Jones
+29/10/2022,"Craven Cottage, London",Fulham,Everton,0,0,0,0,0.56,0.43,6,4,24,9,652,559,463,370,12,15,8,33,13,4,0,5,2,1,0,0,10,8,John Brooks
+29/10/2022,"St. James' Park, Newcastle",Newcastle United,Aston Villa,1,0,4,0,0.59,0.4,7,0,20,3,691,521,520,356,15,19,7,14,3,0,2,3,1,1,0,0,11,11,Paul Tierney
+29/10/2022,"Amex Stadium, Falmer",Brighton & Hove Albion,Chelsea,3,0,4,1,0.41,0.59,9,7,19,15,545,707,349,513,18,8,21,16,8,7,0,0,1,2,0,0,16,6,Andy Madley
+29/10/2022,"Anfield, Liverpool",Liverpool,Leeds United,1,1,1,2,0.69,0.31,10,6,22,14,918,555,679,304,17,21,15,47,14,4,0,0,0,1,0,0,9,3,Michael Oliver
+30/10/2022,"Old Trafford, Manchester",Manchester United,West Ham United,1,0,1,0,0.53,0.47,3,5,16,13,671,609,490,412,18,13,32,19,5,10,1,2,1,3,0,0,12,10,William Cavanagh
+30/10/2022,"Emirates Stadium, London",Arsenal,Nottingham Forest,1,0,5,0,0.69,0.3,10,2,24,5,801,453,618,275,14,25,11,30,9,4,1,2,0,1,0,0,9,8,Simon Hooper
+05/11/2022,"Goodison Park, Liverpool",Everton,Leicester City,0,1,0,2,0.48,0.51,2,8,12,22,661,710,482,527,14,13,19,25,8,3,0,1,0,0,0,0,9,5,David Coote
+05/11/2022,"Elland Road, Leeds",Leeds United,Bournemouth,1,2,4,3,0.6,0.39,4,6,18,9,654,508,443,290,26,15,14,32,13,3,0,0,2,2,0,0,16,10,Tony Harrington
+05/11/2022,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Brighton & Hove Albion,2,2,2,3,0.28,0.71,5,8,8,19,406,821,256,653,18,14,18,13,4,9,1,1,2,0,1,0,15,11,Graham Scott
+05/11/2022,"Etihad Stadium, Manchester",Manchester City,Fulham,1,1,2,1,0.7,0.29,5,2,16,4,881,444,717,295,16,15,4,21,9,0,3,0,2,4,1,0,6,11,Darren England
+05/11/2022,"The City Ground, Nottingham",Nottingham Forest,Brentford,1,1,2,2,0.47,0.52,7,2,15,6,606,658,419,477,18,12,17,30,3,3,0,2,2,2,0,0,10,11,Andre Marriner
+06/11/2022,"Stamford Bridge, London",Chelsea,Arsenal,0,0,0,1,0.44,0.55,1,2,5,14,538,666,360,452,24,17,19,22,4,6,3,0,5,2,0,0,19,13,Michael Oliver
+06/11/2022,"London Stadium, London",West Ham United,Crystal Palace,1,1,1,2,0.42,0.58,2,6,5,15,573,750,419,591,16,13,15,9,2,5,4,0,1,1,0,0,10,7,Paul Tierney
+06/11/2022,"Villa Park, Birmingham",Aston Villa,Manchester United,2,1,3,1,0.41,0.58,4,3,6,8,574,695,401,543,16,15,24,5,3,5,0,3,3,3,0,0,6,12,Anthony Taylor
+06/11/2022,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Liverpool,0,2,1,2,0.46,0.53,5,6,14,13,727,810,518,616,15,14,12,33,5,3,1,2,0,0,0,0,10,8,Andy Madley
+06/11/2022,"St. Mary's Stadium, Southampton",Southampton,Newcastle United,0,1,1,4,0.55,0.44,5,4,16,7,675,557,468,380,21,15,17,25,8,2,4,1,1,0,0,0,7,10,Stuart Attwell
+12/11/2022,"The City Ground, Nottingham",Nottingham Forest,Crystal Palace,0,0,1,0,0.31,0.68,2,0,9,8,444,797,284,633,21,11,25,13,1,5,3,0,1,4,0,0,11,13,John Brooks
+12/11/2022,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Arsenal,0,0,0,2,0.37,0.62,2,4,11,14,505,740,348,579,17,10,23,8,6,4,3,1,3,2,0,0,5,6,Stuart Attwell
+12/11/2022,"St. James' Park, Newcastle",Newcastle United,Chelsea,0,0,1,0,0.48,0.51,3,2,10,5,635,668,451,471,23,23,13,20,5,3,3,0,5,2,0,0,14,11,Robert Jones
+12/11/2022,"Etihad Stadium, Manchester",Manchester City,Brentford,1,1,1,2,0.74,0.25,6,8,29,10,812,407,622,216,9,11,12,46,10,2,2,2,2,2,0,0,9,7,Peter Bankes
+12/11/2022,"London Stadium, London",West Ham United,Leicester City,0,1,0,2,0.53,0.46,6,6,18,9,677,623,483,422,18,19,9,26,7,2,2,0,3,1,0,0,9,8,Jarred Gillett
+12/11/2022,"Anfield, Liverpool",Liverpool,Southampton,3,1,3,1,0.59,0.4,7,5,15,9,838,619,670,445,12,16,14,18,6,0,0,2,0,2,0,0,8,8,Simon Hooper
+12/11/2022,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Leeds United,1,2,4,3,0.54,0.45,8,5,14,12,738,656,545,464,12,19,9,24,9,2,0,1,1,1,0,1,8,7,Michael Salisbury
+12/11/2022,"Vitality Stadium, Bournemouth",Bournemouth,Everton,2,0,3,0,0.35,0.64,9,3,16,15,481,730,305,542,15,30,22,6,3,5,1,1,2,0,0,0,12,8,Craig Pawson
+13/11/2022,"Amex Stadium, Falmer",Brighton & Hove Albion,Aston Villa,1,1,1,2,0.65,0.34,2,2,7,8,714,481,526,293,14,23,7,34,11,4,3,1,2,7,0,0,14,11,Chris Kavanagh
+13/11/2022,"Craven Cottage, London",Fulham,Manchester United,0,1,1,2,0.52,0.47,7,9,14,14,652,621,461,433,18,12,11,37,10,3,1,2,1,1,0,0,9,10,Paul Tierney
+26/12/2022,"Selhurst Park, London",Crystal Palace,Fulham,0,1,0,3,0.36,0.63,0,11,4,23,552,815,368,633,15,16,36,3,1,7,1,2,1,0,2,0,12,15,Andy Madley
+26/12/2022,"King Power Stadium, Leicester",Leicester City,Newcastle United,0,3,0,3,0.6,0.39,2,5,8,12,775,586,575,380,24,12,13,21,5,5,3,1,0,0,0,0,9,6,Jarred Gillett
+26/12/2022,"St. Mary's Stadium, Southampton",Southampton,Brighton & Hove Albion,0,2,1,3,0.33,0.66,4,4,14,7,515,843,329,680,16,21,17,12,4,2,0,1,1,2,0,0,9,10,Robert Jones
+26/12/2022,"Gtech Community Stadium, Brentford",Brentford,Tottenham Hotspur,1,0,2,2,0.39,0.6,5,8,9,15,526,736,335,511,16,18,24,20,6,5,1,5,3,1,0,0,11,10,David Coote
+26/12/2022,"Emirates Stadium, London",Arsenal,West Ham United,0,1,3,1,0.66,0.33,5,4,16,8,827,478,657,331,15,14,13,22,7,5,3,0,0,2,0,0,13,17,Michael Oliver
+26/12/2022,"Goodison Park, Liverpool",Everton,Wolverhampton Wanderers,1,1,1,2,0.58,0.41,6,4,12,7,709,555,520,363,17,19,16,19,2,2,1,2,1,6,0,0,9,22,Craig Pawson
+26/12/2022,"Villa Park, Birmingham",Aston Villa,Liverpool,0,2,1,3,0.48,0.51,6,9,12,16,653,697,471,514,12,19,14,23,0,6,3,3,0,0,0,0,7,12,Paul Tierney
+27/12/2022,"Stamford Bridge, London",Chelsea,Bournemouth,2,0,2,0,0.6,0.39,5,4,15,9,740,535,563,357,17,17,24,15,6,8,3,0,0,0,0,0,8,10,Simon Hooper
+27/12/2022,"Old Trafford, Manchester",Manchester United,Nottingham Forest,2,0,3,0,0.65,0.34,8,3,17,8,812,512,631,314,18,17,20,24,9,9,1,2,3,1,0,0,13,4,Anthony Taylor
+28/12/2022,"Elland Road, Leeds",Leeds United,Manchester City,0,1,1,3,0.31,0.69,1,9,9,26,485,865,307,698,13,13,19,10,3,5,0,1,3,3,0,0,11,14,Stuart Attwell
+30/12/2022,"London Stadium, London",West Ham United,Brentford,0,2,0,2,0.63,0.36,5,6,20,9,757,522,570,348,12,16,10,35,8,1,0,0,1,0,0,0,9,5,Darren England
+30/12/2022,"Anfield, Liverpool",Liverpool,Leicester City,2,1,2,1,0.57,0.43,5,2,21,7,779,640,588,448,18,14,10,20,4,5,2,5,0,1,0,0,8,15,Craig Pawson
+31/12/2022,"Craven Cottage, London",Fulham,Southampton,1,0,2,1,0.62,0.37,2,3,8,9,792,548,579,342,19,21,23,16,4,4,1,0,0,1,0,0,8,13,Graham Scott
+31/12/2022,"Vitality Stadium, Bournemouth",Bournemouth,Crystal Palace,0,2,0,2,0.58,0.41,2,6,6,15,683,556,455,317,17,30,17,22,2,7,1,1,4,1,0,0,17,11,Andre Marriner
+31/12/2022,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Manchester United,0,0,0,1,0.45,0.54,3,6,10,16,590,672,394,484,16,17,11,21,7,5,1,2,1,3,0,0,11,11,Robert Jones
+31/12/2022,"Etihad Stadium, Manchester",Manchester City,Everton,1,0,1,1,0.73,0.26,3,1,16,2,825,405,662,238,13,13,7,35,7,1,3,2,3,4,0,0,13,14,Andy Madley
+31/12/2022,"St. James' Park, Newcastle",Newcastle United,Leeds United,0,0,0,0,0.59,0.41,5,1,16,8,640,499,419,297,16,32,11,23,9,3,3,0,3,5,0,0,13,19,Simon Hooper
+31/12/2022,"Amex Stadium, Falmer",Brighton & Hove Albion,Arsenal,0,2,2,4,0.67,0.32,5,7,9,14,765,441,597,288,8,19,5,24,7,4,5,0,3,3,0,0,7,11,Anthony Taylor
+01/01/2023,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Aston Villa,0,0,0,2,0.59,0.4,2,4,6,13,747,591,579,403,14,18,9,21,5,3,1,0,4,3,0,0,15,10,John Brooks
+01/01/2023,"The City Ground, Nottingham",Nottingham Forest,Chelsea,0,1,1,1,0.27,0.72,5,2,12,7,432,867,256,697,18,16,15,18,1,2,2,2,2,2,0,0,16,14,Peter Bankes
+02/01/2023,"Gtech Community Stadium, Brentford",Brentford,Liverpool,2,0,3,1,0.27,0.73,7,6,10,16,432,857,237,652,17,9,37,15,4,9,7,4,1,3,0,0,5,8,Stuart Attwell
+03/01/2023,"Old Trafford, Manchester",Manchester United,Bournemouth,1,0,3,0,0.59,0.41,6,4,18,7,731,578,579,405,9,18,11,19,6,5,0,2,0,3,0,0,13,0,Michael Salisbury
+03/01/2023,"Goodison Park, Liverpool",Everton,Brighton & Hove Albion,0,1,1,4,0.48,0.51,4,8,10,19,662,675,478,512,16,15,15,13,5,2,1,0,3,1,0,0,8,10,Andre Marriner
+03/01/2023,"Emirates Stadium, London",Arsenal,Newcastle United,0,0,0,0,0.66,0.33,4,1,17,8,703,446,536,253,13,23,17,29,5,5,1,4,4,5,0,0,10,16,Andy Madley
+03/01/2023,"King Power Stadium, Leicester",Leicester City,Fulham,0,1,0,1,0.61,0.38,6,2,15,11,746,570,560,350,17,13,15,32,6,3,0,1,2,6,0,0,12,11,Darren Bond
+04/01/2023,"Villa Park, Birmingham",Aston Villa,Wolverhampton Wanderers,0,1,1,1,0.56,0.44,4,3,13,10,678,578,491,383,11,29,19,35,7,8,1,4,1,3,0,0,6,12,Jarred Gillett
+04/01/2023,"St. Mary's Stadium, Southampton",Southampton,Nottingham Forest,0,1,0,1,0.62,0.37,0,1,8,11,673,479,468,283,14,22,17,33,6,2,1,0,2,2,0,0,14,17,Thomas Bramall
+04/01/2023,"Selhurst Park, London",Crystal Palace,Tottenham Hotspur,0,0,0,4,0.46,0.53,4,6,19,14,665,751,472,545,22,22,10,28,10,4,1,2,1,2,0,0,11,8,Michael Oliver
+04/01/2023,"Elland Road, Leeds",Leeds United,West Ham United,1,1,2,2,0.63,0.36,6,2,14,15,701,466,476,275,19,19,21,18,8,1,3,3,3,1,0,0,11,18,David Coote
+05/01/2023,"Stamford Bridge, London",Chelsea,Manchester City,0,0,0,1,0.47,0.52,2,3,8,12,726,805,553,612,28,19,14,14,3,2,2,1,2,0,0,0,9,9,Paul Tierney
+12/01/2023,"Craven Cottage, London",Fulham,Chelsea,1,0,2,1,0.47,0.52,3,10,8,20,666,708,449,505,11,18,22,20,5,7,3,3,4,3,0,1,12,16,David Coote
+13/01/2023,"Villa Park, Birmingham",Aston Villa,Leeds United,1,0,2,1,0.53,0.46,5,4,11,16,665,605,428,357,28,27,28,7,0,11,2,5,2,2,0,0,12,18,Michael Oliver
+14/01/2023,"Old Trafford, Manchester",Manchester United,Manchester City,0,0,2,1,0.29,0.7,4,1,8,5,444,878,310,737,15,6,26,5,1,2,6,2,3,0,0,0,15,5,Stuart Attwell
+14/01/2023,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,West Ham United,0,0,1,0,0.58,0.41,4,4,17,16,754,566,548,369,15,11,35,17,4,3,4,1,0,2,0,0,10,7,Simon Hooper
+14/01/2023,"Goodison Park, Liverpool",Everton,Southampton,1,0,1,2,0.52,0.47,4,5,12,13,590,543,395,369,10,18,18,33,6,4,3,2,0,3,0,0,7,18,John Brooks
+14/01/2023,"Gtech Community Stadium, Brentford",Brentford,Bournemouth,1,0,2,0,0.49,0.5,4,2,12,7,622,637,426,435,20,19,19,31,5,3,2,1,1,1,0,0,5,9,Jarred Gillett
+14/01/2023,"The City Ground, Nottingham",Nottingham Forest,Leicester City,0,0,2,0,0.38,0.61,5,1,15,6,552,738,345,547,14,12,27,15,3,5,2,1,1,2,0,0,11,12,Paul Tierney
+14/01/2023,"Amex Stadium, Falmer",Brighton & Hove Albion,Liverpool,0,0,3,0,0.6,0.39,9,2,16,6,825,594,650,420,16,19,7,24,7,1,4,2,1,3,0,0,9,15,Darren England
+15/01/2023,"St. James' Park, Newcastle",Newcastle United,Fulham,0,0,1,0,0.62,0.37,5,0,20,5,636,450,449,270,18,17,12,27,10,5,2,3,1,3,0,0,6,14,Robert Jones
+15/01/2023,"Stamford Bridge, London",Chelsea,Crystal Palace,0,0,1,0,0.62,0.37,5,5,15,10,816,572,579,335,33,24,23,26,11,7,3,1,2,5,0,0,10,17,Peter Bankes
+15/01/2023,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Arsenal,0,2,0,2,0.5,0.49,7,5,17,14,654,654,461,456,17,13,21,29,4,3,1,2,4,2,0,0,16,15,Craig Pawson
+18/01/2023,"Selhurst Park, London",Crystal Palace,Manchester United,0,1,1,1,0.39,0.6,5,4,10,15,635,831,399,626,24,32,18,18,3,3,0,1,1,2,0,0,9,10,Robert Jones
+19/01/2023,"Etihad Stadium, Manchester",Manchester City,Tottenham Hotspur,0,2,4,2,0.57,0.42,6,3,16,9,751,588,583,424,15,16,12,27,8,3,0,1,1,2,0,0,10,14,Simon Hooper
+21/01/2023,"Selhurst Park, London",Crystal Palace,Newcastle United,0,0,0,0,0.39,0.6,1,7,6,16,524,712,316,488,29,19,30,22,3,15,0,1,4,2,0,0,13,7,Craig Pawson
+21/01/2023,"King Power Stadium, Leicester",Leicester City,Brighton & Hove Albion,1,1,2,2,0.36,0.63,2,4,9,13,522,804,369,637,16,11,18,8,5,6,0,2,0,1,0,0,9,9,Thomas Bramall
+21/01/2023,"Anfield, Liverpool",Liverpool,Chelsea,0,0,0,0,0.47,0.52,3,2,15,11,697,776,477,540,18,21,15,32,5,5,5,1,3,1,0,0,16,9,Michael Oliver
+21/01/2023,"London Stadium, London",West Ham United,Everton,2,0,2,0,0.32,0.67,4,2,11,5,544,893,346,729,17,19,50,12,4,9,1,2,1,1,0,0,9,6,Stuart Attwell
+21/01/2023,"Vitality Stadium, Bournemouth",Bournemouth,Nottingham Forest,1,0,1,1,0.42,0.57,4,5,16,20,548,686,359,472,11,22,29,20,4,6,2,2,1,2,0,0,10,7,Andy Madley
+21/01/2023,"St. Mary's Stadium, Southampton",Southampton,Aston Villa,0,0,0,1,0.36,0.63,5,5,8,16,515,755,322,566,25,19,24,9,2,2,3,0,1,2,0,0,19,9,Michael Salisbury
+22/01/2023,"Etihad Stadium, Manchester",Manchester City,Wolverhampton Wanderers,1,0,3,0,0.55,0.45,7,1,13,10,746,634,587,478,8,15,16,20,5,7,1,0,1,2,0,0,10,10,David Coote
+22/01/2023,"Elland Road, Leeds",Leeds United,Brentford,0,0,0,0,0.58,0.41,5,0,9,6,695,547,501,346,17,14,18,23,2,3,1,1,2,2,0,0,10,18,Peter Bankes
+22/01/2023,"Emirates Stadium, London",Arsenal,Manchester United,1,1,3,2,0.57,0.42,5,4,25,6,712,605,520,396,21,21,10,36,12,4,1,4,1,2,0,0,8,9,Anthony Taylor
+23/01/2023,"Craven Cottage, London",Fulham,Tottenham Hotspur,0,1,0,1,0.52,0.47,5,3,10,10,707,643,485,446,19,23,14,31,3,8,2,0,1,3,0,0,10,10,Paul Tierney
+03/02/2023,"Stamford Bridge, London",Chelsea,Fulham,0,0,0,0,0.66,0.33,3,4,12,10,874,545,662,313,24,19,14,20,6,2,3,0,1,4,0,0,16,12,Stuart Attwell
+04/02/2023,"St. James' Park, Newcastle",Newcastle United,West Ham United,1,1,1,1,0.62,0.37,2,1,8,10,732,512,557,329,13,19,23,21,4,2,0,2,2,1,0,0,11,13,Peter Bankes
+04/02/2023,"Goodison Park, Liverpool",Everton,Arsenal,0,0,1,0,0.29,0.7,4,3,12,15,430,823,252,639,18,14,20,12,7,5,3,0,4,1,0,0,13,8,David Coote
+04/02/2023,"Gtech Community Stadium, Brentford",Brentford,Southampton,2,0,3,0,0.48,0.51,4,6,14,14,579,620,396,427,13,15,18,29,4,4,1,2,1,2,0,0,10,9,Darren Bond
+04/02/2023,"Villa Park, Birmingham",Aston Villa,Leicester City,2,3,2,4,0.63,0.36,4,5,19,9,739,525,564,333,9,23,7,29,11,3,2,8,0,3,0,0,10,10,Darren England
+04/02/2023,"Old Trafford, Manchester",Manchester United,Crystal Palace,1,0,2,1,0.53,0.46,5,3,14,10,669,609,487,426,21,16,16,15,5,5,1,4,1,2,1,0,9,9,Andre Marriner
+04/02/2023,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Liverpool,2,0,3,0,0.41,0.58,6,4,12,22,583,747,407,544,16,10,39,7,2,7,1,2,1,1,0,0,9,7,Paul Tierney
+04/02/2023,"Amex Stadium, Falmer",Brighton & Hove Albion,Bournemouth,0,0,1,0,0.71,0.28,6,2,20,12,850,462,682,264,17,20,4,24,7,3,0,1,3,1,0,0,14,7,Craig Pawson
+05/02/2023,"The City Ground, Nottingham",Nottingham Forest,Leeds United,1,0,1,0,0.3,0.69,2,4,6,10,478,804,253,585,26,19,25,10,0,2,2,3,4,2,0,0,15,14,Robert Jones
+05/02/2023,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Manchester City,1,0,1,0,0.35,0.64,3,5,12,15,478,741,303,556,14,19,24,13,4,6,2,1,2,3,1,0,19,14,Andy Madley
+08/02/2023,"Old Trafford, Manchester",Manchester United,Leeds United,0,1,2,2,0.65,0.34,7,2,24,8,870,550,615,326,19,30,14,30,6,5,1,0,1,3,0,0,7,11,Simon Hooper
+11/02/2023,"Emirates Stadium, London",Arsenal,Brentford,0,0,1,1,0.69,0.31,7,2,23,9,774,435,590,267,10,12,16,34,7,4,1,1,0,2,0,0,9,9,Peter Bankes
+11/02/2023,"Selhurst Park, London",Crystal Palace,Brighton & Hove Albion,0,0,1,1,0.25,0.74,1,7,6,17,434,893,240,705,19,23,22,17,1,6,3,2,4,1,0,0,10,11,Michael Oliver
+11/02/2023,"London Stadium, London",West Ham United,Chelsea,1,1,1,1,0.28,0.71,2,4,10,12,435,847,247,660,23,21,25,17,5,6,3,4,1,1,0,0,9,11,Craig Pawson
+11/02/2023,"St. Mary's Stadium, Southampton",Southampton,Wolverhampton Wanderers,1,0,1,2,0.4,0.59,2,2,17,11,536,701,329,492,16,21,15,31,5,2,0,3,2,3,0,1,12,14,Jarred Gillett
+11/02/2023,"Craven Cottage, London",Fulham,Nottingham Forest,1,0,2,0,0.5,0.5,3,1,16,10,585,570,396,408,10,10,17,18,5,4,1,3,0,1,0,0,9,11,Andy Madley
+11/02/2023,"Vitality Stadium, Bournemouth",Bournemouth,Newcastle United,1,1,1,1,0.33,0.66,5,7,11,15,501,790,276,566,20,15,29,15,4,6,2,5,2,3,0,0,8,10,Stuart Attwell
+11/02/2023,"King Power Stadium, Leicester",Leicester City,Tottenham Hotspur,3,1,4,1,0.48,0.51,7,4,15,11,638,647,454,468,27,10,8,10,1,5,2,2,5,2,0,0,14,9,Michael Salisbury
+12/02/2023,"Elland Road, Leeds",Leeds United,Manchester United,0,0,0,2,0.33,0.67,6,5,16,11,460,738,251,544,23,30,14,17,7,3,3,3,2,1,0,0,10,13,Paul Tierney
+12/02/2023,"Etihad Stadium, Manchester",Manchester City,Aston Villa,3,0,3,1,0.67,0.32,9,2,17,6,750,446,620,304,7,7,4,15,8,4,1,4,1,2,0,0,13,14,Robert Jones
+13/02/2023,"Anfield, Liverpool",Liverpool,Everton,1,0,2,0,0.59,0.4,6,1,15,6,791,586,585,403,21,18,11,21,3,3,4,2,1,3,0,0,8,16,Simon Hooper
+15/02/2023,"Emirates Stadium, London",Arsenal,Manchester City,1,1,1,3,0.63,0.36,1,6,10,9,684,463,524,303,13,17,7,13,1,2,0,3,2,4,0,0,11,15,Anthony Taylor
+18/02/2023,"The City Ground, Nottingham",Nottingham Forest,Manchester City,0,1,1,1,0.27,0.73,1,6,4,23,408,847,252,676,13,10,37,5,0,10,2,0,1,0,0,0,8,6,Graham Scott
+18/02/2023,"St. James' Park, Newcastle",Newcastle United,Liverpool,0,2,0,2,0.37,0.62,4,7,14,13,539,766,350,605,10,14,22,20,6,7,3,0,1,1,1,0,3,8,Anthony Taylor
+18/02/2023,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Bournemouth,0,0,0,1,0.68,0.31,4,1,15,5,822,502,616,291,16,9,13,48,12,2,2,0,3,3,0,0,12,10,Michael Salisbury
+18/02/2023,"Stamford Bridge, London",Chelsea,Southampton,0,1,0,1,0.61,0.38,5,5,17,8,734,536,504,320,17,31,5,27,8,2,3,1,3,6,0,0,16,25,David Coote
+18/02/2023,"Gtech Community Stadium, Brentford",Brentford,Crystal Palace,0,0,1,1,0.58,0.41,5,4,12,10,715,561,517,360,12,15,12,37,2,6,3,2,2,2,0,0,10,8,Paul Tierney
+18/02/2023,"Villa Park, Birmingham",Aston Villa,Arsenal,2,1,2,4,0.33,0.66,5,5,7,20,489,769,293,571,25,18,25,6,2,9,0,2,2,2,0,0,13,4,Simon Hooper
+18/02/2023,"Goodison Park, Liverpool",Everton,Leeds United,0,0,1,0,0.5,0.5,6,0,15,8,631,614,399,400,23,24,19,18,6,4,1,0,2,3,0,0,8,6,Andy Madley
+18/02/2023,"Amex Stadium, Falmer",Brighton & Hove Albion,Fulham,0,0,0,1,0.65,0.34,7,2,21,5,756,461,593,316,10,13,3,19,10,2,4,0,0,5,0,0,12,14,Darren England
+19/02/2023,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,West Ham United,0,0,2,0,0.57,0.43,6,1,16,6,738,591,544,403,19,18,28,17,4,7,0,0,2,1,0,0,16,10,Michael Oliver
+19/02/2023,"Old Trafford, Manchester",Manchester United,Leicester City,1,0,3,0,0.56,0.43,8,3,26,19,796,640,572,433,23,26,22,14,6,6,0,1,0,2,0,0,9,9,Stuart Attwell
+24/02/2023,"Craven Cottage, London",Fulham,Wolverhampton Wanderers,0,1,1,1,0.5,0.49,5,2,10,8,655,635,448,442,20,19,15,16,3,3,1,1,2,0,0,0,12,17,Michael Oliver
+25/02/2023,"King Power Stadium, Leicester",Leicester City,Arsenal,0,0,0,1,0.34,0.65,0,2,1,10,488,766,315,613,12,11,20,11,0,8,4,4,0,1,0,0,14,9,Craig Pawson
+25/02/2023,"Selhurst Park, London",Crystal Palace,Liverpool,0,0,0,0,0.36,0.63,0,4,6,12,546,820,345,644,16,14,23,15,5,3,4,1,2,5,0,0,11,14,Darren England
+25/02/2023,"Vitality Stadium, Bournemouth",Bournemouth,Manchester City,0,3,1,4,0.34,0.66,2,5,13,20,572,933,377,750,15,26,12,16,4,6,1,2,2,2,0,0,10,9,Paul Tierney
+25/02/2023,"Elland Road, Leeds",Leeds United,Southampton,0,0,1,0,0.6,0.39,4,2,14,8,742,563,520,345,23,27,12,30,9,2,2,3,2,4,0,0,15,13,Peter Bankes
+25/02/2023,"London Stadium, London",West Ham United,Nottingham Forest,0,0,4,0,0.49,0.5,5,3,18,8,591,626,409,435,13,15,15,24,12,3,1,1,0,0,0,0,8,5,Jarred Gillett
+25/02/2023,"Goodison Park, Liverpool",Everton,Aston Villa,0,0,0,2,0.46,0.53,5,5,15,9,572,629,353,433,20,16,15,27,5,1,1,0,2,1,0,0,12,12,Anthony Taylor
+26/02/2023,"Tottenham Hotspur Stadium, London",Tottenham Hotspur,Chelsea,0,0,2,0,0.41,0.58,3,2,8,10,604,800,410,596,27,19,22,23,4,4,0,2,2,3,0,0,10,10,Stuart Attwell
+01/03/2023,"Emirates Stadium, London",Arsenal,Everton,2,0,4,0,0.73,0.26,5,5,15,8,912,427,748,274,7,12,10,23,5,1,4,2,0,2,0,0,5,12,Michael Oliver
+01/03/2023,"Anfield, Liverpool",Liverpool,Wolverhampton Wanderers,0,0,2,0,0.56,0.43,6,1,15,4,713,600,528,402,12,21,5,18,5,2,1,3,2,3,0,0,13,14,Paul Tierney
+04/03/2023,"Villa Park, Birmingham",Aston Villa,Crystal Palace,1,0,1,0,0.58,0.41,1,0,8,3,680,523,526,364,13,22,11,7,2,4,0,5,2,3,0,1,14,17,Craig Pawson
+04/03/2023,"Etihad Stadium, Manchester",Manchester City,Newcastle United,1,0,2,0,0.56,0.43,3,2,11,5,694,568,539,410,13,11,24,17,8,4,0,1,2,4,0,0,8,13,Simon Hooper
+04/03/2023,"Stamford Bridge, London",Chelsea,Leeds United,0,0,1,0,0.57,0.42,3,2,13,11,787,630,579,425,26,23,13,13,5,7,2,2,2,0,0,0,11,7,Michael Oliver
+04/03/2023,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Tottenham Hotspur,0,0,1,0,0.46,0.53,5,6,8,21,595,641,421,473,18,5,30,10,4,8,3,1,1,1,0,0,11,18,Tim Robinson
+04/03/2023,"St. Mary's Stadium, Southampton",Southampton,Leicester City,1,0,1,0,0.34,0.65,5,0,11,11,543,827,330,615,21,22,20,10,3,4,4,2,4,2,0,0,12,11,Robert Jones
+04/03/2023,"Emirates Stadium, London",Arsenal,Bournemouth,0,1,3,2,0.8,0.19,9,4,31,4,931,402,740,184,17,16,5,60,17,1,0,0,0,2,0,0,6,8,Chris Kavanagh
+04/03/2023,"Amex Stadium, Falmer",Brighton & Hove Albion,West Ham United,1,0,4,0,0.65,0.34,9,2,20,3,870,520,708,368,20,11,5,20,7,3,0,0,0,3,0,0,6,8,Stuart Attwell
+05/03/2023,"The City Ground, Nottingham",Nottingham Forest,Everton,1,2,2,2,0.57,0.42,4,3,10,10,714,572,472,361,24,21,19,28,3,3,0,0,3,5,0,0,11,17,John Brooks
+05/03/2023,"Anfield, Liverpool",Liverpool,Manchester United,1,0,7,0,0.59,0.4,8,4,18,8,669,504,468,314,17,15,11,25,4,3,0,4,2,3,0,0,13,14,Andy Madley
+06/03/2023,"Gtech Community Stadium, Brentford",Brentford,Fulham,1,1,3,2,0.36,0.63,6,5,14,9,478,694,274,483,22,12,26,22,2,3,3,1,0,3,0,0,12,17,Anthony Taylor
