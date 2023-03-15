@@ -66,7 +66,7 @@ for match_id in match_ids:
     base_url = f'https://www.premierleague.com/match/{match_id}'
     option = Options()
     option.headless = True
-    driver = webdriver.Chrome("C:/Users/paulc/Documents/Football Data project/DroppingOddsScraper/chromedriver.exe",
+    driver = webdriver.Chrome("#############################",
                               options=option)
 
     driver.get(base_url)
