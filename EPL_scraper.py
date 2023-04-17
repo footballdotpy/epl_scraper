@@ -172,6 +172,14 @@ for match_id in ids:
              home_stats['offsides'], away_stats['offsides'], home_stats['yellow_cards'], away_stats['yellow_cards'],
              home_stats['red_cards'], away_stats['red_cards'], home_stats['fouls_conceded'],
              away_stats['fouls_conceded'], referee]
+    
+     # check if both home_shots and away_shots are zero
+    if home_stats['shots'] == 0 and away_stats['shots'] == 0:
+        errors.append(match_id)
+        print("Game has not scraped correctly")
+        sleep(3)
+
+        continue
 
     dataframe.append(match)
     print("Scraped the match:", match_id, 'Successfully')
