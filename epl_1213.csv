@@ -1,0 +1,381 @@
+date,season,venue,home_team,away_team,ht_home_score,ht_away_score,home_score,away_score,home_possession_%,away_possession_%,home_shots_on_target,away_shots_on_target,home_shots,away_shots,home_touches,away_touches,home_passes,away_passes,home_tackles,away_tackles,home_clearances,away_clearances,home_corners,away_corners,home_offsides,away_offsides,home_yellow_cards,away_yellow_cards,home_red_cards,away_red_cards,home_fouls,away_fouls,referee
+18/08/2012,12/13,"Boleyn Ground, London",West Ham,Aston Villa,1,0,1,0,0.34,0.65,2,2,8,13,480,759,277,566,18,24,37,37,6,4,0,2,0,1,0,0,17,9,Mike Dean
+18/08/2012,12/13,"Emirates Stadium, London",Arsenal,Sunderland,0,0,0,0,0.7,0.29,3,2,23,4,899,474,703,294,16,28,7,34,7,0,2,1,0,0,0,0,12,9,Chris Foy
+18/08/2012,12/13,"The Hawthorns, West Bromwich",West Brom,Liverpool,1,0,3,0,0.4,0.59,6,2,18,16,508,711,349,523,19,15,10,29,7,3,2,4,1,4,0,1,11,12,Phil Dowd
+18/08/2012,12/13,"Madejski Stadium, Reading",Reading,Stoke,0,1,1,1,0.52,0.47,2,3,10,11,520,467,299,264,13,17,57,43,4,3,1,3,2,4,0,1,11,17,Kevin Friend
+18/08/2012,12/13,"Loftus Road, London",Queens Park Rangers,Swansea,0,1,0,5,0.49,0.5,4,6,21,13,610,632,423,434,19,19,15,43,5,3,0,2,2,2,0,0,12,16,Lee Probert
+18/08/2012,12/13,"Craven Cottage, London",Fulham,Norwich City,2,0,5,0,0.59,0.4,9,2,15,9,734,527,568,376,11,16,28,24,6,3,2,1,0,0,0,0,12,11,Michael Oliver
+18/08/2012,12/13,"St James' Park, Newcastle",Newcastle United,Tottenham,0,0,2,1,0.51,0.48,3,4,7,15,603,568,405,373,18,17,35,31,3,5,3,2,2,2,0,0,13,9,Martin Atkinson
+19/08/2012,12/13,"DW Stadium, Wigan",Wigan Athletic,Chelsea,0,2,0,2,0.52,0.48,4,4,15,6,643,639,473,456,23,17,6,29,7,1,0,2,2,2,0,0,17,11,Mike Jones
+19/08/2012,12/13,"Etihad Stadium, Manchester",Man City,Southampton,1,0,3,2,0.64,0.35,8,2,23,10,884,569,689,374,19,26,16,31,7,3,2,1,1,2,0,0,4,7,Howard Webb
+20/08/2012,12/13,"Goodison Park, Liverpool",Everton,Manchester United,0,0,1,0,0.3,0.69,7,4,18,14,485,850,275,646,19,15,42,33,6,8,0,1,1,2,0,0,13,11,Andre Marriner
+22/08/2012,12/13,"Stamford Bridge, London",Chelsea,Reading,1,2,4,2,0.71,0.28,6,4,27,7,856,419,651,234,13,10,28,38,1,5,0,0,0,2,0,0,13,14,Lee Mason
+25/08/2012,12/13,"Villa Park, Birmingham",Aston Villa,Everton,0,3,1,3,0.39,0.6,3,6,9,21,496,699,321,507,18,14,22,31,1,9,2,3,1,0,1,0,12,12,Michael Oliver
+25/08/2012,12/13,"Stamford Bridge, London",Chelsea,Newcastle United,2,0,2,0,0.52,0.47,6,3,12,11,667,641,513,451,17,18,22,27,2,3,1,3,1,0,0,0,8,11,Phil Dowd
+25/08/2012,12/13,"Old Trafford, Manchester",Manchester United,Fulham,3,1,3,2,0.59,0.4,7,6,20,16,804,608,614,409,25,24,20,34,8,8,1,0,0,1,0,0,12,7,Kevin Friend
+25/08/2012,12/13,"Carrow Road, Norwich",Norwich City,Queens Park Rangers,1,1,1,1,0.55,0.44,3,3,15,8,542,503,360,290,22,11,23,50,6,2,2,5,0,2,0,0,17,13,Mark Clattenburg
+25/08/2012,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Wigan Athletic,0,0,0,2,0.49,0.5,6,4,16,13,653,668,451,484,12,27,21,28,10,3,0,2,0,0,0,0,11,9,Anthony Taylor
+25/08/2012,12/13,"White Hart Lane, London",Tottenham,West Brom,0,0,1,1,0.59,0.41,7,6,22,13,689,533,487,343,22,17,28,22,7,5,2,3,1,3,0,0,9,6,Mike Dean
+25/08/2012,12/13,"Liberty Stadium, Swansea",Swansea,West Ham,2,0,3,0,0.62,0.37,5,5,12,9,808,523,629,376,20,28,35,18,5,4,4,2,2,4,0,0,14,19,Martin Atkinson
+26/08/2012,12/13,"bet365 Stadium, Stoke",Stoke,Arsenal,0,0,0,0,0.33,0.66,1,2,6,17,457,747,240,517,28,28,42,31,0,11,2,1,2,0,0,0,10,9,Lee Mason
+26/08/2012,12/13,"Anfield, Liverpool",Liverpool,Man City,1,0,2,2,0.48,0.51,3,3,17,11,658,694,462,484,18,26,20,41,4,4,0,1,1,0,0,0,10,8,Andre Marriner
+01/09/2012,12/13,"The Hawthorns, West Bromwich",West Brom,Everton,0,0,2,0,0.44,0.55,5,2,12,13,529,639,366,451,10,21,22,41,6,3,5,1,1,4,0,0,12,16,Jonathan Moss
+01/09/2012,12/13,"Etihad Stadium, Manchester",Man City,Queens Park Rangers,1,0,3,1,0.59,0.4,7,4,18,11,832,605,634,421,19,22,31,29,8,3,3,0,2,1,0,0,12,3,Chris Foy
+01/09/2012,12/13,"Liberty Stadium, Swansea",Swansea,Sunderland,1,2,2,2,0.63,0.36,7,2,15,4,815,507,622,354,21,31,28,19,8,0,0,0,1,1,1,0,13,7,Roger East
+01/09/2012,12/13,"White Hart Lane, London",Tottenham,Norwich City,0,0,1,1,0.61,0.38,5,4,15,12,708,506,510,308,20,17,40,32,4,2,4,0,1,0,1,0,7,12,Mark Halsey
+01/09/2012,12/13,"DW Stadium, Wigan",Wigan Athletic,Stoke,1,1,2,2,0.68,0.31,3,7,13,19,715,422,540,228,13,20,24,20,2,1,1,5,1,2,0,0,15,11,Martin Atkinson
+01/09/2012,12/13,"Boleyn Ground, London",West Ham,Fulham,3,0,3,0,0.45,0.54,6,9,16,15,659,757,453,554,26,21,33,18,6,6,1,2,0,0,0,0,12,5,Anthony Taylor
+02/09/2012,12/13,"St James' Park, Newcastle",Newcastle United,Aston Villa,0,1,1,1,0.51,0.48,4,5,17,13,615,566,389,364,11,29,31,25,10,6,3,0,1,4,0,0,6,21,Lee Probert
+02/09/2012,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Manchester United,1,1,2,3,0.45,0.54,4,7,15,20,680,782,487,587,21,16,27,33,4,7,2,2,1,0,0,0,8,4,Mike Dean
+02/09/2012,12/13,"Anfield, Liverpool",Liverpool,Arsenal,0,1,0,2,0.53,0.47,4,5,19,11,757,719,544,491,25,32,17,36,10,2,3,1,2,2,0,0,12,7,Howard Webb
+15/09/2012,12/13,"Stadium of Light, Sunderland",Sunderland,Liverpool,1,0,1,1,0.34,0.65,1,6,7,23,496,809,306,611,25,27,20,19,2,7,1,1,1,2,0,0,18,12,Martin Atkinson
+15/09/2012,12/13,"Loftus Road, London",Queens Park Rangers,Chelsea,0,0,0,0,0.52,0.47,3,4,12,12,669,602,451,401,33,22,43,19,2,4,3,1,0,2,0,0,18,18,Andre Marriner
+15/09/2012,12/13,"bet365 Stadium, Stoke",Stoke,Man City,1,1,1,1,0.33,0.66,2,8,4,15,494,781,287,585,22,20,32,24,6,5,2,1,0,1,0,0,13,12,Mark Clattenburg
+15/09/2012,12/13,"Old Trafford, Manchester",Manchester United,Wigan Athletic,0,0,4,0,0.52,0.47,5,1,20,7,627,562,424,388,20,19,20,25,5,5,1,0,2,2,0,0,10,14,Michael Oliver
+15/09/2012,12/13,"Craven Cottage, London",Fulham,West Brom,2,0,3,0,0.63,0.37,10,5,23,10,847,533,638,373,14,18,14,23,5,4,3,1,0,0,0,1,7,10,Roger East
+15/09/2012,12/13,"Villa Park, Birmingham",Aston Villa,Swansea,1,0,2,0,0.42,0.57,8,3,16,10,552,694,327,474,18,19,24,61,10,4,2,1,3,1,0,0,13,4,Lee Mason
+15/09/2012,12/13,"Emirates Stadium, London",Arsenal,Southampton,4,1,6,1,0.5,0.5,9,3,23,10,778,758,567,574,21,27,19,29,8,3,0,0,0,0,0,0,4,7,Kevin Friend
+15/09/2012,12/13,"Carrow Road, Norwich",Norwich City,West Ham,0,0,0,0,0.48,0.51,9,3,25,14,561,573,365,373,15,16,33,42,8,5,3,3,0,1,0,0,12,14,Chris Foy
+16/09/2012,12/13,"Madejski Stadium, Reading",Reading,Tottenham,0,1,1,3,0.42,0.57,2,8,6,23,527,679,314,479,18,21,20,44,7,4,1,1,0,1,0,0,5,12,Howard Webb
+17/09/2012,12/13,"Goodison Park, Liverpool",Everton,Newcastle United,1,0,2,2,0.58,0.41,6,3,18,11,631,510,406,294,17,22,40,56,3,3,3,3,3,3,0,0,18,13,Mike Jones
+22/09/2012,12/13,"Stamford Bridge, London",Chelsea,Stoke,0,0,1,0,0.59,0.4,4,3,19,13,652,524,466,306,18,20,16,43,13,3,2,2,2,1,0,0,14,18,Michael Oliver
+22/09/2012,12/13,"Liberty Stadium, Swansea",Swansea,Everton,0,2,0,3,0.48,0.51,4,11,18,31,583,611,393,414,16,11,33,31,8,3,1,3,4,1,1,0,23,9,Anthony Taylor
+22/09/2012,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Aston Villa,0,1,4,1,0.6,0.39,7,2,16,11,734,525,492,314,25,20,39,36,1,4,5,3,1,3,0,0,6,15,Jonathan Moss
+22/09/2012,12/13,"Boleyn Ground, London",West Ham,Sunderland,0,1,1,1,0.61,0.38,4,1,24,5,681,505,454,291,23,28,29,48,10,1,1,1,2,1,0,0,13,13,Lee Mason
+22/09/2012,12/13,"DW Stadium, Wigan",Wigan Athletic,Fulham,0,1,1,2,0.63,0.36,5,7,19,12,750,509,581,320,16,9,17,34,8,7,4,0,0,3,0,0,7,13,Lee Probert
+22/09/2012,12/13,"The Hawthorns, West Bromwich",West Brom,Reading,0,0,1,0,0.52,0.47,4,1,11,10,631,599,440,382,11,14,27,33,9,1,1,1,1,0,0,0,15,7,Chris Foy
+23/09/2012,12/13,"White Hart Lane, London",Tottenham,Queens Park Rangers,0,1,2,1,0.43,0.56,8,4,20,9,580,655,336,459,19,18,57,31,10,9,2,3,0,2,0,0,8,12,Phil Dowd
+23/09/2012,12/13,"St James' Park, Newcastle",Newcastle United,Norwich City,1,0,1,0,0.52,0.47,6,3,18,10,642,553,430,368,17,15,45,33,4,5,3,1,1,1,0,0,11,20,Neil Swarbrick
+23/09/2012,12/13,"Anfield, Liverpool",Liverpool,Manchester United,0,0,1,2,0.52,0.48,6,3,14,8,657,636,459,420,23,29,19,44,7,3,0,1,1,2,1,0,14,7,Mark Halsey
+23/09/2012,12/13,"Etihad Stadium, Manchester",Man City,Arsenal,1,0,1,1,0.41,0.58,6,4,15,11,637,869,433,638,38,23,22,27,9,4,1,1,1,0,0,0,12,8,Mike Dean
+29/09/2012,12/13,"Goodison Park, Liverpool",Everton,Southampton,3,1,3,1,0.52,0.47,8,5,22,10,723,652,482,441,16,26,25,33,10,3,6,2,0,0,0,0,4,7,Lee Probert
+29/09/2012,12/13,"Old Trafford, Manchester",Manchester United,Tottenham,0,2,2,3,0.74,0.25,7,3,16,10,897,483,701,243,24,28,20,73,9,5,2,2,0,0,0,0,7,9,Chris Foy
+29/09/2012,12/13,"Carrow Road, Norwich",Norwich City,Liverpool,0,2,2,5,0.32,0.67,4,5,16,16,475,901,320,700,21,11,17,30,5,5,2,5,1,0,0,0,11,6,Mike Jones
+29/09/2012,12/13,"Madejski Stadium, Reading",Reading,Newcastle United,0,0,2,2,0.47,0.52,5,2,16,9,579,663,348,409,21,22,30,80,6,3,3,1,0,3,0,0,8,9,Andre Marriner
+29/09/2012,12/13,"Stadium of Light, Sunderland",Sunderland,Wigan Athletic,0,0,1,0,0.49,0.5,1,3,10,10,578,559,382,404,16,21,22,27,8,1,2,0,2,5,0,1,22,17,Howard Webb
+29/09/2012,12/13,"Emirates Stadium, London",Arsenal,Chelsea,1,1,1,2,0.51,0.48,4,3,16,10,690,664,470,459,30,26,19,28,6,5,4,3,2,3,0,0,14,14,Martin Atkinson
+29/09/2012,12/13,"bet365 Stadium, Stoke",Stoke,Swansea,2,0,2,0,0.39,0.61,5,3,12,10,517,737,313,519,24,20,29,47,6,8,0,1,1,1,0,0,18,10,Jonathan Moss
+29/09/2012,12/13,"Craven Cottage, London",Fulham,Man City,1,1,1,2,0.28,0.71,3,7,7,23,466,888,276,726,15,13,28,16,2,4,1,2,0,1,0,0,8,12,Mark Halsey
+30/09/2012,12/13,"Villa Park, Birmingham",Aston Villa,West Brom,0,0,1,1,0.57,0.42,3,3,21,14,634,547,422,322,19,26,16,54,11,4,3,3,1,1,0,0,8,12,Anthony Taylor
+01/10/2012,12/13,"Loftus Road, London",Queens Park Rangers,West Ham,0,2,1,2,0.5,0.49,7,5,13,18,610,584,355,334,19,21,73,51,4,13,1,1,1,8,1,0,10,22,Mark Clattenburg
+06/10/2012,12/13,"The Hawthorns, West Bromwich",West Brom,Queens Park Rangers,2,1,3,2,0.44,0.55,5,3,14,13,555,666,382,463,22,17,23,25,2,5,3,4,2,2,0,0,17,14,Mike Jones
+06/10/2012,12/13,"Stamford Bridge, London",Chelsea,Norwich City,3,1,4,1,0.68,0.31,9,2,23,8,899,495,731,317,11,17,15,37,10,2,2,1,0,0,0,0,7,3,Anthony Taylor
+06/10/2012,12/13,"Boleyn Ground, London",West Ham,Arsenal,1,1,1,3,0.31,0.68,3,7,9,21,456,803,266,606,15,21,49,27,4,16,1,1,3,2,0,0,12,8,Phil Dowd
+06/10/2012,12/13,"DW Stadium, Wigan",Wigan Athletic,Everton,2,1,2,2,0.46,0.53,3,7,11,17,529,583,340,401,16,8,41,20,7,6,2,1,2,5,0,0,15,16,Kevin Friend
+06/10/2012,12/13,"Etihad Stadium, Manchester",Man City,Sunderland,1,0,3,0,0.6,0.39,9,4,28,8,739,536,529,339,15,17,29,30,15,4,2,3,0,3,0,0,12,11,Lee Probert
+06/10/2012,12/13,"Liberty Stadium, Swansea",Swansea,Reading,0,2,2,2,0.71,0.28,10,5,26,9,803,440,600,224,16,19,36,43,11,3,2,5,1,3,0,0,9,11,Mike Dean
+07/10/2012,12/13,"Anfield, Liverpool",Liverpool,Stoke,0,0,0,0,0.62,0.37,2,2,18,6,733,500,525,296,13,25,32,42,5,5,0,2,0,6,0,0,9,18,Lee Mason
+07/10/2012,12/13,"St James' Park, Newcastle",Newcastle United,Manchester United,0,2,0,3,0.45,0.54,2,8,15,13,638,729,422,529,11,32,23,53,8,6,0,2,4,4,0,0,15,12,Howard Webb
+07/10/2012,12/13,"White Hart Lane, London",Tottenham,Aston Villa,0,0,2,0,0.55,0.44,6,3,22,8,687,550,455,360,18,17,46,27,8,0,1,3,1,3,0,0,11,10,Neil Swarbrick
+07/10/2012,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Fulham,1,0,2,2,0.41,0.58,4,3,14,13,573,735,365,521,22,12,43,40,8,8,0,0,4,0,0,0,14,7,Mark Clattenburg
+20/10/2012,12/13,"Liberty Stadium, Swansea",Swansea,Wigan Athletic,0,0,2,1,0.47,0.52,8,6,20,11,620,648,427,486,14,14,15,27,9,2,1,4,2,3,0,0,14,12,Mike Jones
+20/10/2012,12/13,"The Hawthorns, West Bromwich",West Brom,Man City,0,0,1,2,0.43,0.56,4,8,17,24,507,636,353,451,17,10,22,32,6,9,0,1,4,3,0,1,13,16,Mark Clattenburg
+20/10/2012,12/13,"Boleyn Ground, London",West Ham,Southampton,0,0,4,1,0.38,0.61,6,2,11,11,475,667,283,472,24,18,43,28,6,3,3,6,0,2,0,0,11,13,Neil Swarbrick
+20/10/2012,12/13,"Anfield, Liverpool",Liverpool,Reading,1,0,1,0,0.56,0.43,7,3,27,10,729,584,497,366,22,22,35,22,6,5,3,3,1,1,0,0,13,6,Roger East
+20/10/2012,12/13,"Old Trafford, Manchester",Manchester United,Stoke,2,1,4,2,0.64,0.36,7,3,16,9,803,485,625,336,11,17,39,15,3,4,3,0,1,1,0,0,9,10,Anthony Taylor
+20/10/2012,12/13,"Craven Cottage, London",Fulham,Aston Villa,0,0,1,0,0.5,0.49,5,1,19,12,678,652,455,451,8,18,36,40,6,4,2,2,1,2,0,0,7,12,Chris Foy
+20/10/2012,12/13,"Carrow Road, Norwich",Norwich City,Arsenal,1,0,1,0,0.28,0.72,3,5,7,14,436,862,244,669,26,14,31,23,2,10,4,4,4,0,0,0,13,10,Lee Probert
+20/10/2012,12/13,"White Hart Lane, London",Tottenham,Chelsea,0,1,2,4,0.42,0.57,10,7,26,10,587,709,344,493,21,20,44,37,7,4,1,5,3,2,0,0,8,9,Mike Dean
+21/10/2012,12/13,"Loftus Road, London",Queens Park Rangers,Everton,1,1,1,1,0.57,0.43,5,3,15,16,664,522,431,329,15,19,29,31,5,4,4,3,2,0,0,1,12,18,Jonathan Moss
+21/10/2012,12/13,"Stadium of Light, Sunderland",Sunderland,Newcastle United,0,1,1,1,0.65,0.34,2,5,21,11,689,474,451,241,26,24,23,59,8,4,3,0,0,4,0,1,14,16,Martin Atkinson
+27/10/2012,12/13,"Etihad Stadium, Manchester",Man City,Swansea,0,0,1,0,0.53,0.46,4,2,11,9,775,710,599,503,21,17,20,25,3,0,2,5,1,2,0,0,8,10,Martin Atkinson
+27/10/2012,12/13,"Villa Park, Birmingham",Aston Villa,Norwich City,1,0,1,1,0.41,0.58,4,4,7,17,524,655,330,452,16,13,45,28,3,8,2,8,1,0,1,0,12,6,Phil Dowd
+27/10/2012,12/13,"DW Stadium, Wigan",Wigan Athletic,West Ham,1,0,2,1,0.54,0.45,7,4,16,15,616,532,424,334,15,19,42,22,6,6,3,1,3,4,0,0,11,17,Jonathan Moss
+27/10/2012,12/13,"bet365 Stadium, Stoke",Stoke,Sunderland,0,0,0,0,0.52,0.47,4,0,16,7,593,560,390,359,14,22,17,38,7,3,2,0,2,2,0,0,12,7,Mark Halsey
+27/10/2012,12/13,"Madejski Stadium, Reading",Reading,Fulham,1,0,3,3,0.34,0.65,8,6,15,19,480,811,288,612,11,15,30,43,6,8,1,0,1,1,0,0,6,17,Mike Jones
+27/10/2012,12/13,"Emirates Stadium, London",Arsenal,Queens Park Rangers,0,0,1,0,0.66,0.33,9,2,22,6,809,508,599,294,21,21,14,32,5,2,1,7,1,2,0,1,16,9,Anthony Taylor
+28/10/2012,12/13,"Stamford Bridge, London",Chelsea,Manchester United,1,2,2,3,0.48,0.51,8,5,15,15,618,665,421,457,21,26,13,45,8,6,1,4,1,2,2,0,14,12,Mark Clattenburg
+28/10/2012,12/13,"St James' Park, Newcastle",Newcastle United,West Brom,1,0,2,1,0.5,0.49,5,4,13,11,623,611,403,404,19,23,35,35,6,4,3,7,3,2,0,0,13,7,Chris Foy
+28/10/2012,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Tottenham,0,2,1,2,0.52,0.47,2,4,15,12,659,661,473,448,19,15,14,61,2,3,3,5,0,3,0,0,15,10,Lee Mason
+28/10/2012,12/13,"Goodison Park, Liverpool",Everton,Liverpool,2,2,2,2,0.56,0.43,4,3,16,13,625,534,399,314,20,23,15,53,9,5,3,3,4,3,0,0,17,19,Andre Marriner
+03/11/2012,12/13,"Boleyn Ground, London",West Ham,Man City,0,0,0,0,0.35,0.65,0,5,6,22,479,770,283,570,23,9,50,30,3,7,2,3,3,0,0,0,11,12,Howard Webb
+03/11/2012,12/13,"Craven Cottage, London",Fulham,Everton,1,0,2,2,0.4,0.59,4,9,9,27,569,723,343,492,26,21,38,15,5,9,0,1,3,1,0,0,17,10,Neil Swarbrick
+03/11/2012,12/13,"Carrow Road, Norwich",Norwich City,Stoke,1,0,1,0,0.43,0.56,4,4,14,9,558,685,348,471,21,13,43,37,9,1,2,2,1,5,0,0,12,15,Andre Marriner
+03/11/2012,12/13,"Stadium of Light, Sunderland",Sunderland,Aston Villa,0,0,0,1,0.55,0.44,0,3,12,9,611,551,409,336,20,20,26,60,6,7,5,2,2,3,0,0,9,17,Mike Jones
+03/11/2012,12/13,"Liberty Stadium, Swansea",Swansea,Chelsea,0,0,1,1,0.52,0.47,2,5,10,11,667,611,481,442,19,22,32,21,8,6,3,2,4,1,0,0,12,10,Kevin Friend
+03/11/2012,12/13,"Old Trafford, Manchester",Manchester United,Arsenal,1,0,2,1,0.47,0.52,6,2,14,7,704,758,532,596,22,10,26,29,6,1,5,1,5,2,0,1,15,15,Mike Dean
+03/11/2012,12/13,"White Hart Lane, London",Tottenham,Wigan Athletic,0,0,0,1,0.51,0.48,5,3,13,7,627,593,401,406,16,16,40,29,9,2,3,3,1,1,0,0,13,12,Martin Atkinson
+04/11/2012,12/13,"Anfield, Liverpool",Liverpool,Newcastle United,0,1,1,1,0.65,0.34,6,3,23,11,746,512,522,276,27,26,13,58,14,3,1,1,0,1,0,1,11,14,Anthony Taylor
+04/11/2012,12/13,"Loftus Road, London",Queens Park Rangers,Reading,0,1,1,1,0.56,0.43,6,3,23,19,594,533,356,279,25,15,41,44,8,8,3,4,0,2,0,0,11,17,Michael Oliver
+05/11/2012,12/13,"The Hawthorns, West Bromwich",West Brom,Southampton,1,0,2,0,0.43,0.56,3,3,17,10,588,701,381,501,21,23,31,21,8,6,3,3,1,0,0,0,7,11,Mark Halsey
+10/11/2012,12/13,"Emirates Stadium, London",Arsenal,Fulham,2,2,3,3,0.56,0.43,6,5,14,11,750,636,557,439,23,14,18,37,8,6,1,5,1,2,0,0,11,12,Phil Dowd
+10/11/2012,12/13,"Goodison Park, Liverpool",Everton,Sunderland,0,1,2,1,0.62,0.37,6,3,18,9,739,528,537,326,16,18,27,45,6,2,1,2,1,3,0,0,14,15,Lee Mason
+10/11/2012,12/13,"Madejski Stadium, Reading",Reading,Norwich City,0,0,0,0,0.49,0.5,2,1,9,11,536,551,316,348,11,20,31,49,10,3,4,3,0,1,0,0,9,17,Chris Foy
+10/11/2012,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Swansea,0,0,1,1,0.48,0.51,4,3,16,7,643,685,449,489,19,15,17,54,10,6,2,2,2,2,0,0,13,13,Andre Marriner
+10/11/2012,12/13,"bet365 Stadium, Stoke",Stoke,Queens Park Rangers,0,0,1,0,0.45,0.54,2,2,12,18,516,640,340,425,19,11,23,45,5,5,2,1,2,3,0,0,13,18,Martin Atkinson
+10/11/2012,12/13,"DW Stadium, Wigan",Wigan Athletic,West Brom,1,2,1,2,0.65,0.34,4,4,14,9,749,478,553,277,21,21,19,34,5,8,1,3,1,4,0,0,12,14,Neil Swarbrick
+10/11/2012,12/13,"Villa Park, Birmingham",Aston Villa,Manchester United,1,0,2,3,0.3,0.69,3,5,8,20,491,875,283,670,17,14,47,37,5,6,0,3,1,1,0,0,14,8,Kevin Friend
+11/11/2012,12/13,"Etihad Stadium, Manchester",Man City,Tottenham,0,1,2,1,0.61,0.38,5,2,14,7,678,482,482,277,17,19,22,38,8,2,8,0,1,2,0,0,16,7,Michael Oliver
+11/11/2012,12/13,"St James' Park, Newcastle",Newcastle United,West Ham,0,1,0,1,0.49,0.5,8,3,16,11,597,626,366,385,21,24,33,67,11,3,1,1,1,2,0,0,10,14,Mike Dean
+11/11/2012,12/13,"Stamford Bridge, London",Chelsea,Liverpool,1,0,1,1,0.43,0.56,3,3,15,9,607,723,386,507,35,31,24,15,4,7,1,7,1,3,0,0,12,13,Howard Webb
+17/11/2012,12/13,"Loftus Road, London",Queens Park Rangers,Southampton,0,2,1,3,0.46,0.53,5,10,12,20,651,711,406,467,32,28,40,27,4,13,1,1,1,0,0,0,13,8,Mike Dean
+17/11/2012,12/13,"Etihad Stadium, Manchester",Man City,Aston Villa,1,0,5,0,0.66,0.33,10,2,26,11,810,479,621,298,15,26,17,32,9,4,1,4,0,1,0,0,9,7,Jonathan Moss
+17/11/2012,12/13,"Emirates Stadium, London",Arsenal,Tottenham,3,1,5,2,0.65,0.34,7,3,13,7,763,488,584,298,15,18,23,46,6,6,4,2,1,2,0,1,13,13,Howard Webb
+17/11/2012,12/13,"Anfield, Liverpool",Liverpool,Wigan Athletic,0,0,3,0,0.48,0.51,6,2,22,10,627,639,418,447,23,20,13,25,10,5,1,2,0,3,0,0,9,11,Kevin Friend
+17/11/2012,12/13,"Madejski Stadium, Reading",Reading,Everton,0,1,2,1,0.39,0.6,3,7,14,21,448,619,247,402,14,14,33,36,7,13,2,4,3,2,0,0,12,13,Martin Atkinson
+17/11/2012,12/13,"The Hawthorns, West Bromwich",West Brom,Chelsea,1,1,2,1,0.35,0.64,5,7,9,19,521,811,342,608,23,13,41,18,0,12,2,1,0,0,0,0,7,13,Michael Oliver
+17/11/2012,12/13,"St James' Park, Newcastle",Newcastle United,Swansea,0,0,1,2,0.52,0.48,9,7,32,16,673,650,439,406,18,23,30,60,5,4,2,2,1,3,0,0,10,8,Phil Dowd
+17/11/2012,12/13,"Carrow Road, Norwich",Norwich City,Manchester United,0,0,1,0,0.37,0.62,4,6,11,14,547,776,354,581,11,17,41,30,0,12,3,1,0,1,0,0,10,7,Anthony Taylor
+18/11/2012,12/13,"Craven Cottage, London",Fulham,Sunderland,0,0,1,3,0.49,0.5,7,6,20,11,661,678,480,499,15,12,32,27,4,4,4,2,1,3,1,0,10,13,Lee Probert
+19/11/2012,12/13,"Boleyn Ground, London",West Ham,Stoke,0,1,1,1,0.58,0.42,5,2,15,8,669,541,430,327,14,16,46,66,12,4,1,3,1,0,0,0,9,9,Chris Foy
+24/11/2012,12/13,"bet365 Stadium, Stoke",Stoke,Fulham,1,0,1,0,0.4,0.59,2,2,16,9,539,710,323,489,19,17,38,47,7,2,2,2,1,1,0,0,18,11,Michael Oliver
+24/11/2012,12/13,"Villa Park, Birmingham",Aston Villa,Arsenal,0,0,0,0,0.37,0.62,4,1,9,12,538,804,346,596,15,19,20,27,7,6,3,3,1,0,0,0,8,10,Lee Mason
+24/11/2012,12/13,"Goodison Park, Liverpool",Everton,Norwich City,1,0,1,1,0.57,0.42,7,4,14,9,613,483,443,312,10,13,34,32,4,2,3,9,1,3,0,0,12,19,Mike Jones
+24/11/2012,12/13,"Old Trafford, Manchester",Manchester United,Queens Park Rangers,0,0,3,1,0.62,0.37,7,3,17,11,832,588,651,386,22,22,18,31,9,7,2,2,1,1,0,0,6,10,Lee Probert
+24/11/2012,12/13,"DW Stadium, Wigan",Wigan Athletic,Reading,0,1,3,2,0.66,0.33,9,5,18,17,718,452,484,226,20,15,36,42,9,5,5,1,2,0,0,0,16,11,Howard Webb
+24/11/2012,12/13,"Stadium of Light, Sunderland",Sunderland,West Brom,0,2,2,4,0.49,0.51,10,6,20,14,622,652,428,469,17,20,16,32,7,2,2,1,3,3,0,0,12,16,Mike Dean
+25/11/2012,12/13,"White Hart Lane, London",Tottenham,West Ham,1,0,3,1,0.59,0.4,9,4,28,12,670,484,453,306,10,17,42,27,4,2,1,2,1,2,0,0,9,10,Andre Marriner
+25/11/2012,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Newcastle United,1,0,2,0,0.49,0.5,8,3,18,8,582,596,339,332,31,28,49,42,4,3,2,6,2,2,0,0,12,13,Martin Atkinson
+25/11/2012,12/13,"Liberty Stadium, Swansea",Swansea,Liverpool,0,0,0,0,0.49,0.5,2,9,18,21,759,750,522,533,29,15,32,23,7,6,0,3,1,0,0,0,7,10,Jonathan Moss
+25/11/2012,12/13,"Stamford Bridge, London",Chelsea,Man City,0,0,0,0,0.42,0.57,1,5,6,9,617,731,381,519,24,31,42,34,6,11,3,1,0,3,0,0,10,17,Chris Foy
+27/11/2012,12/13,"Villa Park, Birmingham",Aston Villa,Reading,0,0,1,0,0.55,0.44,5,3,16,12,641,556,372,292,22,11,71,63,8,3,2,3,1,0,0,0,11,6,Lee Probert
+27/11/2012,12/13,"Stadium of Light, Sunderland",Sunderland,Queens Park Rangers,0,0,0,0,0.5,0.49,4,5,14,15,664,642,444,430,21,23,25,26,5,8,3,1,1,3,0,0,10,15,Andre Marriner
+28/11/2012,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Norwich City,1,1,1,1,0.57,0.42,2,5,10,11,721,575,498,361,26,17,30,34,3,6,2,3,1,1,0,0,11,7,Mark Clattenburg
+28/11/2012,12/13,"DW Stadium, Wigan",Wigan Athletic,Man City,0,0,0,2,0.45,0.54,1,6,9,17,593,682,411,502,20,21,18,25,6,6,1,1,1,1,0,0,13,13,Mark Halsey
+28/11/2012,12/13,"bet365 Stadium, Stoke",Stoke,Newcastle United,0,0,2,1,0.52,0.47,5,6,13,9,605,586,366,344,24,25,30,62,7,2,3,0,2,2,0,0,13,14,Howard Webb
+28/11/2012,12/13,"Liberty Stadium, Swansea",Swansea,West Brom,3,1,3,1,0.64,0.35,4,1,13,6,869,521,679,366,16,21,32,22,5,2,6,2,0,4,0,0,11,16,Lee Mason
+28/11/2012,12/13,"Goodison Park, Liverpool",Everton,Arsenal,1,1,1,1,0.42,0.57,9,3,14,11,610,774,383,526,30,23,30,38,6,6,6,0,2,1,0,0,15,9,Michael Oliver
+28/11/2012,12/13,"Stamford Bridge, London",Chelsea,Fulham,0,0,0,0,0.59,0.4,3,4,17,9,773,623,582,405,14,26,8,55,10,2,4,2,3,0,0,0,10,12,Anthony Taylor
+28/11/2012,12/13,"Old Trafford, Manchester",Manchester United,West Ham,1,0,1,0,0.66,0.33,7,1,22,10,847,501,646,305,12,14,53,32,5,5,2,1,1,1,0,0,9,11,Mike Jones
+28/11/2012,12/13,"White Hart Lane, London",Tottenham,Liverpool,2,0,2,1,0.35,0.65,7,5,16,17,538,765,307,556,37,18,55,13,1,12,0,1,1,2,0,0,8,18,Phil Dowd
+01/12/2012,12/13,"Emirates Stadium, London",Arsenal,Swansea,0,0,0,2,0.52,0.47,5,7,10,14,780,725,608,561,14,22,14,22,8,5,0,6,1,0,0,0,12,10,Mark Clattenburg
+01/12/2012,12/13,"Boleyn Ground, London",West Ham,Chelsea,0,1,3,1,0.42,0.57,9,7,16,15,562,690,338,494,23,15,43,38,14,5,3,3,1,2,0,0,15,10,Martin Atkinson
+01/12/2012,12/13,"The Hawthorns, West Bromwich",West Brom,Stoke,0,0,0,1,0.57,0.42,5,2,15,5,659,537,452,333,17,22,36,34,5,5,4,2,0,3,0,0,9,15,Kevin Friend
+01/12/2012,12/13,"Madejski Stadium, Reading",Reading,Manchester United,3,4,3,4,0.41,0.58,7,6,12,11,584,778,397,586,19,19,16,41,6,1,0,2,1,1,0,0,10,12,Mark Halsey
+01/12/2012,12/13,"Craven Cottage, London",Fulham,Tottenham,0,0,0,3,0.45,0.54,2,6,8,10,641,755,459,553,20,22,14,46,2,1,2,2,0,2,0,0,10,10,Chris Foy
+01/12/2012,12/13,"Anfield, Liverpool",Liverpool,Southampton,1,0,1,0,0.63,0.36,8,1,23,9,774,544,555,302,19,34,20,37,10,4,3,0,2,0,0,0,14,9,Michael Oliver
+01/12/2012,12/13,"Etihad Stadium, Manchester",Man City,Everton,1,1,1,1,0.59,0.4,4,4,10,9,740,552,546,380,15,12,31,34,5,2,1,0,2,1,0,0,18,12,Lee Probert
+01/12/2012,12/13,"Loftus Road, London",Queens Park Rangers,Aston Villa,1,1,1,1,0.54,0.45,8,2,17,7,682,606,447,389,20,21,38,47,11,4,9,4,1,2,0,0,5,6,Howard Webb
+02/12/2012,12/13,"Carrow Road, Norwich",Norwich City,Sunderland,2,1,2,1,0.49,0.5,3,5,8,16,620,633,441,440,14,15,39,24,2,6,3,4,0,2,0,0,11,17,Phil Dowd
+03/12/2012,12/13,"St James' Park, Newcastle",Newcastle United,Wigan Athletic,2,0,3,0,0.5,0.49,8,1,18,10,643,631,471,457,16,17,28,15,4,4,2,1,1,3,0,1,13,15,Mike Jones
+08/12/2012,12/13,"Liberty Stadium, Swansea",Swansea,Norwich City,0,3,3,4,0.66,0.33,5,7,20,9,840,493,661,320,11,18,33,26,6,2,1,1,2,1,0,0,12,10,Howard Webb
+08/12/2012,12/13,"Villa Park, Birmingham",Aston Villa,Stoke,0,0,0,0,0.56,0.43,2,0,13,2,670,547,460,351,20,12,53,31,3,2,3,3,0,0,0,1,9,15,Roger East
+08/12/2012,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Reading,0,0,1,0,0.65,0.34,5,2,18,6,686,446,465,231,22,15,31,41,7,4,2,4,0,0,0,0,12,13,Jonathan Moss
+08/12/2012,12/13,"Stadium of Light, Sunderland",Sunderland,Chelsea,0,2,1,3,0.45,0.54,5,5,12,14,549,668,352,456,19,26,25,45,11,1,0,2,1,3,0,0,11,16,Mark Halsey
+08/12/2012,12/13,"DW Stadium, Wigan",Wigan Athletic,Queens Park Rangers,1,1,2,2,0.56,0.43,8,4,15,8,641,542,409,323,31,25,18,40,11,4,4,3,0,1,0,0,8,12,Phil Dowd
+08/12/2012,12/13,"Emirates Stadium, London",Arsenal,West Brom,1,0,2,0,0.59,0.41,3,1,19,8,701,524,494,331,24,21,17,30,7,4,6,5,2,3,0,0,13,12,Mike Jones
+09/12/2012,12/13,"Boleyn Ground, London",West Ham,Liverpool,2,1,2,3,0.38,0.61,4,4,11,17,557,754,308,535,27,22,37,39,2,5,5,1,1,2,0,0,12,12,Lee Probert
+09/12/2012,12/13,"Goodison Park, Liverpool",Everton,Tottenham,0,0,2,1,0.49,0.5,4,5,20,12,603,626,398,403,22,22,27,48,4,5,4,0,3,2,0,0,12,11,Kevin Friend
+09/12/2012,12/13,"Etihad Stadium, Manchester",Man City,Manchester United,0,2,2,3,0.56,0.43,9,3,18,10,698,575,481,372,16,28,20,37,8,2,4,4,4,3,0,0,12,9,Martin Atkinson
+10/12/2012,12/13,"Craven Cottage, London",Fulham,Newcastle United,1,0,2,1,0.45,0.54,7,8,16,20,635,714,401,475,25,19,43,41,5,4,0,1,0,0,0,0,14,11,Lee Mason
+11/12/2012,12/13,"Stadium of Light, Sunderland",Sunderland,Reading,2,0,3,0,0.49,0.5,8,3,16,15,611,589,384,386,21,19,60,26,6,8,3,2,2,1,0,0,10,12,Neil Swarbrick
+15/12/2012,12/13,"Old Trafford, Manchester",Manchester United,Sunderland,2,0,3,1,0.61,0.38,5,7,16,15,727,500,520,307,15,23,42,20,9,9,2,1,0,0,0,0,13,10,Chris Foy
+15/12/2012,12/13,"Anfield, Liverpool",Liverpool,Aston Villa,0,2,1,3,0.72,0.27,8,6,29,11,780,422,564,211,11,25,13,53,7,2,3,0,1,2,0,0,5,10,Neil Swarbrick
+15/12/2012,12/13,"St James' Park, Newcastle",Newcastle United,Man City,0,2,1,3,0.53,0.46,5,8,17,17,630,596,405,357,20,27,33,54,12,7,0,5,3,2,0,0,9,17,Andre Marriner
+15/12/2012,12/13,"Carrow Road, Norwich",Norwich City,Wigan Athletic,1,0,2,1,0.48,0.51,8,4,17,14,616,668,417,453,20,19,18,25,7,3,1,6,3,1,0,0,8,4,Lee Probert
+15/12/2012,12/13,"Loftus Road, London",Queens Park Rangers,Fulham,0,0,2,1,0.44,0.55,6,2,20,5,575,675,404,486,17,9,38,23,3,3,2,2,1,2,0,0,10,15,Martin Atkinson
+15/12/2012,12/13,"bet365 Stadium, Stoke",Stoke,Everton,0,1,1,1,0.48,0.51,5,2,13,10,530,550,328,338,14,25,26,41,4,8,1,1,1,0,0,0,13,13,Mark Halsey
+16/12/2012,12/13,"The Hawthorns, West Bromwich",West Brom,West Ham,0,0,0,0,0.55,0.44,4,2,20,12,623,531,394,323,12,18,39,53,8,2,2,0,3,3,0,0,14,10,Phil Dowd
+16/12/2012,12/13,"White Hart Lane, London",Tottenham,Swansea,0,0,1,0,0.49,0.5,8,0,29,3,691,664,476,481,19,19,33,19,9,3,1,5,3,3,0,0,13,8,Mike Dean
+17/12/2012,12/13,"Madejski Stadium, Reading",Reading,Arsenal,0,3,2,5,0.32,0.67,3,13,9,26,525,911,339,718,12,16,26,17,3,7,5,3,1,1,0,0,7,4,Anthony Taylor
+22/12/2012,12/13,"The Hawthorns, West Bromwich",West Brom,Norwich City,1,1,2,1,0.49,0.5,6,3,13,10,584,598,393,408,15,15,29,28,6,5,2,0,1,1,0,0,14,11,Martin Atkinson
+22/12/2012,12/13,"St James' Park, Newcastle",Newcastle United,Queens Park Rangers,0,0,1,0,0.58,0.41,4,3,21,4,643,528,411,303,11,20,36,48,10,3,2,6,3,2,0,0,9,16,Kevin Friend
+22/12/2012,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Sunderland,0,1,0,1,0.57,0.42,2,5,12,10,660,526,444,330,10,16,20,46,8,5,2,2,0,3,0,0,13,16,Howard Webb
+22/12/2012,12/13,"White Hart Lane, London",Tottenham,Stoke,0,0,0,0,0.63,0.36,5,1,22,4,682,484,433,254,24,25,44,54,11,4,1,2,2,5,0,0,8,12,Lee Mason
+22/12/2012,12/13,"Boleyn Ground, London",West Ham,Everton,1,0,1,2,0.37,0.62,2,7,6,18,458,653,270,452,11,14,40,37,3,5,3,6,1,0,1,1,13,8,Anthony Taylor
+22/12/2012,12/13,"DW Stadium, Wigan",Wigan Athletic,Arsenal,0,0,0,1,0.5,0.49,3,4,14,11,679,685,487,480,25,16,11,21,4,4,5,1,1,1,0,0,17,9,Jonathan Moss
+22/12/2012,12/13,"Anfield, Liverpool",Liverpool,Fulham,2,0,4,0,0.55,0.44,9,4,23,8,740,622,553,431,24,19,18,21,8,2,2,0,1,2,0,0,13,6,Mark Clattenburg
+22/12/2012,12/13,"Etihad Stadium, Manchester",Man City,Reading,0,0,1,0,0.73,0.26,3,1,21,5,867,409,677,235,8,15,24,36,12,3,0,1,2,3,0,0,12,16,Mike Dean
+23/12/2012,12/13,"Stamford Bridge, London",Chelsea,Aston Villa,3,0,8,0,0.56,0.43,15,1,26,7,737,613,559,420,14,19,18,27,8,4,3,5,0,0,0,0,6,11,Phil Dowd
+23/12/2012,12/13,"Liberty Stadium, Swansea",Swansea,Manchester United,1,1,1,1,0.4,0.59,9,7,14,20,586,752,390,574,16,14,44,18,3,6,3,0,2,4,0,0,11,16,Michael Oliver
+26/12/2012,12/13,"Villa Park, Birmingham",Aston Villa,Tottenham,0,0,0,4,0.4,0.59,1,9,4,21,569,707,343,486,17,14,48,18,2,16,4,1,1,0,0,0,12,7,Mark Clattenburg
+26/12/2012,12/13,"Craven Cottage, London",Fulham,Southampton,1,0,1,1,0.5,0.49,1,3,9,8,635,647,430,400,19,17,34,43,3,5,2,3,3,0,0,0,14,12,Phil Dowd
+26/12/2012,12/13,"Old Trafford, Manchester",Manchester United,Newcastle United,1,2,4,3,0.6,0.39,7,7,15,15,666,493,467,297,10,20,42,32,2,2,3,0,3,3,0,0,13,18,Mike Dean
+26/12/2012,12/13,"bet365 Stadium, Stoke",Stoke,Liverpool,2,1,3,1,0.37,0.62,5,4,10,17,482,718,284,496,26,21,17,40,6,8,1,4,3,1,0,0,11,6,Howard Webb
+26/12/2012,12/13,"Goodison Park, Liverpool",Everton,Wigan Athletic,0,0,2,1,0.47,0.52,3,3,17,11,612,662,398,465,22,11,18,35,11,2,2,1,1,3,0,0,10,12,Lee Mason
+26/12/2012,12/13,"Carrow Road, Norwich",Norwich City,Chelsea,0,1,0,1,0.36,0.63,1,3,9,18,548,828,358,635,20,17,22,31,5,7,4,1,1,1,0,0,8,8,Jonathan Moss
+26/12/2012,12/13,"Madejski Stadium, Reading",Reading,Swansea,0,0,0,0,0.28,0.72,1,2,3,10,391,827,220,631,23,12,25,51,6,4,2,1,2,1,0,0,17,16,Mike Jones
+26/12/2012,12/13,"Loftus Road, London",Queens Park Rangers,West Brom,0,1,1,2,0.49,0.5,5,4,21,12,596,552,329,348,18,26,35,36,14,9,2,3,1,0,0,0,9,13,Chris Foy
+26/12/2012,12/13,"Stadium of Light, Sunderland",Sunderland,Man City,0,0,1,0,0.33,0.67,4,7,12,23,461,770,273,579,21,13,20,31,3,7,1,1,1,3,0,0,15,16,Kevin Friend
+29/12/2012,12/13,"Craven Cottage, London",Fulham,Swansea,0,1,1,2,0.59,0.4,6,7,23,10,719,558,500,327,13,18,16,58,9,8,1,0,2,1,0,0,14,12,Andre Marriner
+29/12/2012,12/13,"Old Trafford, Manchester",Manchester United,West Brom,1,0,2,0,0.58,0.42,7,1,17,14,719,542,492,348,17,15,49,33,9,6,1,0,1,0,0,0,10,8,Jonathan Moss
+29/12/2012,12/13,"Madejski Stadium, Reading",Reading,West Ham,1,0,1,0,0.33,0.66,2,3,3,13,423,621,214,417,18,23,52,21,2,2,5,3,3,4,0,0,18,10,Michael Oliver
+29/12/2012,12/13,"Carrow Road, Norwich",Norwich City,Man City,1,2,3,4,0.46,0.53,4,7,11,15,580,672,390,466,20,19,29,31,4,9,0,0,3,1,0,1,10,11,Mike Jones
+29/12/2012,12/13,"Villa Park, Birmingham",Aston Villa,Wigan Athletic,0,1,0,3,0.45,0.54,2,5,12,9,621,692,425,518,16,16,26,28,4,3,2,2,3,2,0,0,16,9,Kevin Friend
+29/12/2012,12/13,"Emirates Stadium, London",Arsenal,Newcastle United,1,1,7,3,0.44,0.55,10,7,16,11,604,711,411,519,24,18,26,20,5,6,2,1,0,1,0,0,9,11,Chris Foy
+29/12/2012,12/13,"bet365 Stadium, Stoke",Stoke,Southampton,1,3,3,3,0.54,0.45,5,5,13,8,591,539,348,284,14,21,34,68,7,4,2,4,1,2,1,0,6,9,Mark Clattenburg
+29/12/2012,12/13,"Stadium of Light, Sunderland",Sunderland,Tottenham,1,0,1,2,0.44,0.55,4,8,8,17,576,685,359,448,23,18,22,51,3,8,2,1,1,3,0,0,12,16,Martin Atkinson
+30/12/2012,12/13,"Goodison Park, Liverpool",Everton,Chelsea,1,1,1,2,0.48,0.52,6,5,14,17,586,622,349,411,14,16,41,49,7,7,5,4,2,3,0,0,14,12,Howard Webb
+30/12/2012,12/13,"Loftus Road, London",Queens Park Rangers,Liverpool,0,3,0,3,0.33,0.66,6,7,14,19,529,820,302,614,27,26,28,13,1,9,3,0,2,1,0,0,11,9,Anthony Taylor
+01/01/2013,12/13,"Liberty Stadium, Swansea",Swansea,Aston Villa,1,1,2,2,0.69,0.3,6,5,25,9,804,508,587,252,16,18,28,93,3,2,2,2,0,4,0,0,7,18,Mark Halsey
+01/01/2013,12/13,"Boleyn Ground, London",West Ham,Norwich City,2,0,2,1,0.5,0.49,5,2,16,8,602,597,384,388,13,14,49,42,11,3,1,5,0,0,0,0,17,8,Mark Clattenburg
+01/01/2013,12/13,"White Hart Lane, London",Tottenham,Reading,1,1,3,1,0.68,0.32,11,3,34,7,814,455,611,281,13,16,32,31,12,3,2,4,0,0,0,0,10,11,Howard Webb
+01/01/2013,12/13,"Etihad Stadium, Manchester",Man City,Stoke,1,0,3,0,0.61,0.38,6,1,20,5,750,523,567,346,13,22,22,39,7,2,0,1,2,2,0,0,6,10,Michael Oliver
+01/01/2013,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Arsenal,1,1,1,1,0.44,0.55,5,1,9,6,652,766,413,538,24,27,30,31,3,3,4,3,2,0,0,0,9,7,Lee Probert
+01/01/2013,12/13,"DW Stadium, Wigan",Wigan Athletic,Manchester United,0,2,0,4,0.52,0.47,0,7,8,15,687,627,517,449,20,21,19,17,1,6,2,4,1,1,0,0,13,6,Andre Marriner
+01/01/2013,12/13,"The Hawthorns, West Bromwich",West Brom,Fulham,0,1,1,2,0.44,0.55,4,3,18,10,592,723,380,504,17,26,23,40,10,5,2,2,0,0,0,0,14,9,Mike Dean
+02/01/2013,12/13,"St James' Park, Newcastle",Newcastle United,Everton,1,1,1,2,0.5,0.49,5,6,17,13,591,568,378,355,23,15,49,42,4,6,1,5,3,2,0,0,21,10,Martin Atkinson
+02/01/2013,12/13,"Stamford Bridge, London",Chelsea,Queens Park Rangers,0,0,0,1,0.63,0.36,2,3,26,7,741,500,529,297,10,19,21,26,14,2,1,4,1,1,0,0,13,8,Lee Mason
+02/01/2013,12/13,"Anfield, Liverpool",Liverpool,Sunderland,2,0,3,0,0.66,0.33,10,2,29,8,825,479,620,303,18,19,25,32,9,5,7,0,0,1,0,0,9,6,Phil Dowd
+12/01/2013,12/13,"Craven Cottage, London",Fulham,Wigan Athletic,1,0,1,1,0.49,0.5,2,7,12,16,663,643,443,466,13,23,26,28,6,8,2,0,0,1,0,0,9,17,Mark Clattenburg
+12/01/2013,12/13,"Villa Park, Birmingham",Aston Villa,Southampton,0,1,0,1,0.51,0.49,5,4,16,15,599,615,354,340,20,15,40,58,9,5,3,1,1,1,0,0,11,6,Mark Halsey
+12/01/2013,12/13,"Goodison Park, Liverpool",Everton,Swansea,0,0,0,0,0.55,0.44,5,3,18,4,712,619,513,424,11,17,25,50,7,1,3,1,1,4,0,0,13,10,Phil Dowd
+12/01/2013,12/13,"Carrow Road, Norwich",Norwich City,Newcastle United,0,0,0,0,0.54,0.45,2,2,12,8,673,603,455,378,20,17,25,74,5,4,4,0,0,1,0,0,5,9,Anthony Taylor
+12/01/2013,12/13,"bet365 Stadium, Stoke",Stoke,Chelsea,0,1,0,4,0.43,0.56,5,6,12,13,509,630,319,428,14,14,31,42,6,7,3,1,1,0,0,0,14,9,Andre Marriner
+12/01/2013,12/13,"Stadium of Light, Sunderland",Sunderland,West Ham,1,0,3,0,0.48,0.52,7,3,18,11,590,630,384,414,24,18,32,41,4,5,5,2,0,3,0,0,10,14,Neil Swarbrick
+12/01/2013,12/13,"Loftus Road, London",Queens Park Rangers,Tottenham,0,0,0,0,0.38,0.61,0,7,4,18,559,803,353,585,31,26,20,31,2,6,2,1,1,1,0,0,11,9,Lee Probert
+12/01/2013,12/13,"Madejski Stadium, Reading",Reading,West Brom,0,1,3,2,0.57,0.42,7,3,8,12,658,543,447,339,9,22,42,54,8,4,2,2,1,1,0,0,8,14,Kevin Friend
+13/01/2013,12/13,"Old Trafford, Manchester",Manchester United,Liverpool,1,0,2,1,0.46,0.54,5,3,15,13,615,689,404,487,25,31,28,28,3,1,1,1,1,4,0,0,14,16,Howard Webb
+13/01/2013,12/13,"Emirates Stadium, London",Arsenal,Man City,0,2,0,2,0.4,0.6,3,6,9,18,572,766,375,585,13,16,21,27,2,7,3,2,2,4,1,1,12,19,Mike Dean
+16/01/2013,12/13,"Stamford Bridge, London",Chelsea,Southampton,2,0,2,2,0.58,0.41,3,2,18,6,773,610,593,400,13,21,23,44,4,3,3,3,1,0,0,0,11,11,Michael Oliver
+19/01/2013,12/13,"Boleyn Ground, London",West Ham,Queens Park Rangers,0,1,1,1,0.69,0.3,9,2,23,9,696,461,458,204,13,30,13,70,12,2,2,5,1,0,0,0,7,12,Howard Webb
+19/01/2013,12/13,"Etihad Stadium, Manchester",Man City,Fulham,1,0,2,0,0.45,0.54,7,0,20,2,646,731,468,549,27,19,22,14,1,2,2,1,1,2,0,0,14,6,Jonathan Moss
+19/01/2013,12/13,"Anfield, Liverpool",Liverpool,Norwich City,2,0,5,0,0.67,0.32,9,1,18,4,875,481,694,318,12,21,20,28,9,4,2,1,1,1,0,0,10,8,Michael Oliver
+19/01/2013,12/13,"The Hawthorns, West Bromwich",West Brom,Aston Villa,0,2,2,2,0.57,0.42,6,6,29,15,580,503,374,264,17,16,27,44,8,8,2,3,3,3,0,0,8,10,Lee Probert
+19/01/2013,12/13,"Liberty Stadium, Swansea",Swansea,Stoke,0,0,3,1,0.56,0.43,3,2,15,10,726,561,515,402,14,12,48,22,7,6,2,0,0,0,0,0,11,10,Mike Dean
+19/01/2013,12/13,"DW Stadium, Wigan",Wigan Athletic,Sunderland,1,3,2,3,0.7,0.29,6,5,23,11,794,446,623,257,12,18,5,36,9,0,2,1,3,2,0,0,11,17,Anthony Taylor
+19/01/2013,12/13,"St James' Park, Newcastle",Newcastle United,Reading,1,0,1,2,0.55,0.44,7,2,16,7,674,583,445,369,14,19,48,43,6,2,4,1,2,3,0,0,10,10,Andre Marriner
+20/01/2013,12/13,"Stamford Bridge, London",Chelsea,Arsenal,2,0,2,1,0.5,0.49,7,6,14,12,643,647,415,394,38,24,30,30,3,9,5,5,2,1,0,0,10,11,Martin Atkinson
+20/01/2013,12/13,"White Hart Lane, London",Tottenham,Manchester United,0,1,1,1,0.51,0.49,8,2,25,5,624,620,384,390,19,16,31,40,9,4,1,7,2,4,0,0,8,14,Chris Foy
+21/01/2013,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Everton,0,0,0,0,0.53,0.46,4,5,16,9,696,608,450,387,21,20,40,26,10,6,1,3,2,1,0,0,14,11,Neil Swarbrick
+23/01/2013,12/13,"Emirates Stadium, London",Arsenal,West Ham,1,1,5,1,0.69,0.3,10,4,24,10,814,484,618,271,16,14,26,42,13,5,2,5,0,1,0,0,9,11,Andre Marriner
+29/01/2013,12/13,"Villa Park, Birmingham",Aston Villa,Newcastle United,0,2,1,2,0.51,0.48,5,3,12,12,606,569,359,327,17,20,70,65,3,4,2,2,5,2,0,0,15,11,Mike Dean
+29/01/2013,12/13,"bet365 Stadium, Stoke",Stoke,Wigan Athletic,1,0,2,2,0.36,0.63,3,6,10,13,467,713,299,530,13,8,18,19,0,1,1,4,1,1,0,0,12,10,Mike Jones
+29/01/2013,12/13,"Stadium of Light, Sunderland",Sunderland,Swansea,0,0,0,0,0.36,0.63,0,4,3,17,538,841,341,628,22,15,22,35,3,4,1,1,1,2,0,0,13,12,Andre Marriner
+29/01/2013,12/13,"Loftus Road, London",Queens Park Rangers,Man City,0,0,0,0,0.31,0.68,1,4,6,17,497,793,269,603,20,16,46,12,2,10,1,1,2,2,0,0,9,10,Phil Dowd
+30/01/2013,12/13,"Craven Cottage, London",Fulham,West Ham,1,0,3,1,0.44,0.56,5,4,18,12,586,644,313,377,37,23,73,48,2,8,2,2,2,0,0,0,8,11,Chris Foy
+30/01/2013,12/13,"Old Trafford, Manchester",Manchester United,Southampton,2,1,2,1,0.42,0.57,5,4,11,20,617,718,398,536,17,21,53,13,4,8,3,1,2,1,0,0,10,11,Lee Mason
+30/01/2013,12/13,"Madejski Stadium, Reading",Reading,Chelsea,0,1,2,2,0.32,0.67,2,4,5,15,450,762,271,596,16,14,50,28,0,6,4,5,1,2,0,0,8,21,Mark Halsey
+30/01/2013,12/13,"Emirates Stadium, London",Arsenal,Liverpool,0,1,2,2,0.61,0.38,6,5,19,13,825,599,599,373,23,28,19,40,8,6,1,3,3,1,0,0,9,11,Kevin Friend
+30/01/2013,12/13,"Goodison Park, Liverpool",Everton,West Brom,2,0,2,1,0.55,0.44,6,2,16,7,687,563,492,377,16,25,23,30,5,2,2,6,0,2,0,0,10,15,Michael Oliver
+30/01/2013,12/13,"Carrow Road, Norwich",Norwich City,Tottenham,1,0,1,1,0.41,0.58,1,4,9,13,522,678,324,445,28,14,34,53,3,6,3,0,4,1,0,0,15,15,Neil Swarbrick
+02/02/2013,12/13,"Emirates Stadium, London",Arsenal,Stoke,0,0,1,0,0.65,0.34,5,1,23,7,833,500,620,321,10,12,28,35,11,1,2,2,0,3,0,0,3,13,Chris Foy
+02/02/2013,12/13,"Boleyn Ground, London",West Ham,Swansea,0,0,1,0,0.35,0.64,7,3,16,10,523,789,302,560,14,21,62,44,5,3,2,4,1,1,0,0,7,10,Lee Probert
+02/02/2013,12/13,"DW Stadium, Wigan",Wigan Athletic,Southampton,1,0,2,2,0.45,0.54,3,2,7,17,636,742,386,471,24,23,31,30,8,5,3,2,0,2,0,0,7,17,Andre Marriner
+02/02/2013,12/13,"Loftus Road, London",Queens Park Rangers,Norwich City,0,0,0,0,0.49,0.5,5,6,16,13,595,564,332,342,25,24,46,36,10,8,2,1,2,5,0,0,6,22,Jonathan Moss
+02/02/2013,12/13,"Goodison Park, Liverpool",Everton,Aston Villa,1,2,3,3,0.68,0.31,8,3,21,8,646,460,426,204,18,18,29,92,15,2,5,5,1,4,0,0,7,23,Mike Jones
+02/02/2013,12/13,"Craven Cottage, London",Fulham,Manchester United,0,0,0,1,0.44,0.55,6,7,16,16,575,675,360,437,21,20,35,59,5,8,2,7,1,1,0,0,10,15,Kevin Friend
+02/02/2013,12/13,"St James' Park, Newcastle",Newcastle United,Chelsea,1,0,3,2,0.45,0.54,11,5,21,17,645,688,392,472,21,15,56,40,5,4,3,0,2,3,0,0,11,5,Howard Webb
+02/02/2013,12/13,"Madejski Stadium, Reading",Reading,Sunderland,1,1,2,1,0.48,0.51,3,6,11,12,551,547,332,352,12,24,42,41,6,8,0,0,1,3,0,0,13,15,Lee Mason
+03/02/2013,12/13,"The Hawthorns, West Bromwich",West Brom,Tottenham,0,0,0,1,0.3,0.69,3,7,5,21,438,830,263,610,20,11,30,29,2,17,6,2,1,0,1,0,10,8,Mark Clattenburg
+03/02/2013,12/13,"Etihad Stadium, Manchester",Man City,Liverpool,1,1,2,2,0.45,0.54,3,5,11,22,619,709,419,511,22,19,29,18,9,10,0,2,2,4,0,0,16,9,Anthony Taylor
+09/02/2013,12/13,"Liberty Stadium, Swansea",Swansea,Queens Park Rangers,2,0,4,1,0.62,0.37,9,4,15,18,797,537,599,354,17,17,23,17,5,2,3,0,1,3,0,0,9,11,Neil Swarbrick
+09/02/2013,12/13,"Stadium of Light, Sunderland",Sunderland,Arsenal,0,1,0,1,0.38,0.61,6,8,15,19,540,803,336,605,14,19,10,50,11,2,5,1,3,1,0,1,6,13,Anthony Taylor
+09/02/2013,12/13,"bet365 Stadium, Stoke",Stoke,Reading,0,0,2,1,0.58,0.41,6,2,12,7,617,539,411,311,19,11,28,56,11,3,0,2,2,0,0,0,10,5,Michael Oliver
+09/02/2013,12/13,"Stamford Bridge, London",Chelsea,Wigan Athletic,1,0,4,1,0.53,0.47,12,6,27,14,677,619,472,415,14,21,16,21,10,6,2,3,1,2,0,0,9,13,Mike Dean
+09/02/2013,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Man City,2,1,3,1,0.44,0.55,4,4,15,8,670,741,410,506,24,20,54,38,6,6,6,3,1,2,0,0,12,14,Martin Atkinson
+09/02/2013,12/13,"White Hart Lane, London",Tottenham,Newcastle United,1,1,2,1,0.54,0.45,5,3,18,10,673,591,426,350,28,15,56,45,11,5,4,2,0,2,0,0,6,11,Phil Dowd
+09/02/2013,12/13,"Carrow Road, Norwich",Norwich City,Fulham,0,0,0,0,0.43,0.56,4,1,15,7,579,726,407,541,14,24,21,33,3,4,2,0,2,2,0,0,10,16,Howard Webb
+10/02/2013,12/13,"Old Trafford, Manchester",Manchester United,Everton,2,0,2,0,0.47,0.53,6,2,11,11,659,692,434,490,20,22,42,22,7,6,4,1,0,2,0,0,13,11,Mark Halsey
+10/02/2013,12/13,"Villa Park, Birmingham",Aston Villa,West Ham,0,0,2,1,0.48,0.51,3,4,10,15,614,601,361,366,32,25,54,33,4,10,5,3,3,2,0,0,18,13,Mark Clattenburg
+11/02/2013,12/13,"Anfield, Liverpool",Liverpool,West Brom,0,0,0,2,0.58,0.41,7,3,25,5,741,589,529,377,19,24,24,32,13,5,4,1,1,4,0,0,10,11,Jonathan Moss
+17/02/2013,12/13,"Anfield, Liverpool",Liverpool,Swansea,1,0,5,0,0.54,0.45,10,2,35,3,730,643,555,459,14,16,8,35,10,1,1,3,0,1,0,0,7,9,Howard Webb
+23/02/2013,12/13,"The Hawthorns, West Bromwich",West Brom,Sunderland,1,0,2,1,0.58,0.41,6,5,19,13,677,545,487,317,22,12,28,40,5,5,0,3,2,1,0,0,14,10,Roger East
+23/02/2013,12/13,"Emirates Stadium, London",Arsenal,Aston Villa,1,0,2,1,0.63,0.36,7,3,26,8,821,556,599,339,19,17,20,49,12,3,3,3,1,2,0,0,7,10,Martin Atkinson
+23/02/2013,12/13,"Carrow Road, Norwich",Norwich City,Everton,0,1,2,1,0.44,0.55,5,3,10,15,588,709,397,502,17,19,26,45,7,5,2,2,1,1,0,0,17,10,Lee Mason
+23/02/2013,12/13,"Loftus Road, London",Queens Park Rangers,Manchester United,0,1,0,2,0.48,0.51,3,6,14,14,633,660,405,440,23,23,27,35,2,4,1,2,0,0,0,0,11,6,Anthony Taylor
+23/02/2013,12/13,"Craven Cottage, London",Fulham,Stoke,1,0,1,0,0.6,0.39,4,3,20,10,726,513,513,322,13,21,41,28,9,4,1,2,1,3,0,0,7,10,Lee Probert
+23/02/2013,12/13,"Madejski Stadium, Reading",Reading,Wigan Athletic,0,2,0,3,0.29,0.7,0,7,7,17,433,849,270,660,23,11,20,33,2,9,1,1,1,1,1,0,9,11,Phil Dowd
+24/02/2013,12/13,"Etihad Stadium, Manchester",Man City,Chelsea,0,0,2,0,0.47,0.53,6,2,15,9,627,666,416,461,20,17,48,25,6,6,2,1,3,1,0,0,20,5,Andre Marriner
+24/02/2013,12/13,"St James' Park, Newcastle",Newcastle United,Southampton,2,1,4,2,0.41,0.58,4,3,14,11,543,683,308,449,22,27,45,40,7,3,5,3,0,4,0,0,13,15,Chris Foy
+25/02/2013,12/13,"Boleyn Ground, London",West Ham,Tottenham,1,1,2,3,0.38,0.61,6,13,14,27,505,712,282,468,25,17,38,52,6,12,2,2,4,1,0,0,12,8,Howard Webb
+02/03/2013,12/13,"Liberty Stadium, Swansea",Swansea,Newcastle United,0,0,1,0,0.63,0.36,6,5,12,17,798,525,567,317,23,14,51,29,7,7,1,1,0,2,0,0,9,17,Craig Pawson
+02/03/2013,12/13,"bet365 Stadium, Stoke",Stoke,West Ham,0,1,0,1,0.52,0.47,2,3,9,12,538,553,331,305,25,21,31,61,4,2,2,3,1,2,0,0,12,12,Jonathan Moss
+02/03/2013,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Queens Park Rangers,1,1,1,2,0.67,0.33,7,3,21,7,800,502,562,275,22,14,25,45,6,3,3,1,1,3,0,0,7,16,Howard Webb
+02/03/2013,12/13,"Old Trafford, Manchester",Manchester United,Norwich City,1,0,4,0,0.65,0.35,7,0,19,1,838,512,665,361,11,21,18,17,7,3,3,2,0,4,0,0,5,14,Neil Swarbrick
+02/03/2013,12/13,"Goodison Park, Liverpool",Everton,Reading,1,0,3,1,0.6,0.4,12,5,21,14,677,490,432,270,16,19,51,33,9,10,1,4,1,1,0,0,8,8,Anthony Taylor
+02/03/2013,12/13,"Stamford Bridge, London",Chelsea,West Brom,1,0,1,0,0.52,0.47,9,3,24,7,658,585,470,419,18,18,21,20,9,7,2,1,1,2,0,0,12,17,Kevin Friend
+02/03/2013,12/13,"Stadium of Light, Sunderland",Sunderland,Fulham,1,2,2,2,0.49,0.5,5,5,18,10,614,650,406,439,21,19,16,45,7,3,3,1,1,3,0,0,9,14,Mark Halsey
+02/03/2013,12/13,"DW Stadium, Wigan",Wigan Athletic,Liverpool,0,3,0,4,0.52,0.47,6,6,14,8,723,682,523,480,20,25,11,30,4,3,0,4,2,2,0,0,12,15,Martin Atkinson
+03/03/2013,12/13,"White Hart Lane, London",Tottenham,Arsenal,2,0,2,1,0.39,0.6,4,2,11,11,517,697,328,504,21,14,35,19,4,6,5,2,3,1,0,0,21,13,Mark Clattenburg
+04/03/2013,12/13,"Villa Park, Birmingham",Aston Villa,Man City,0,1,0,1,0.47,0.52,1,8,10,20,631,670,416,475,16,24,29,32,6,5,3,1,2,0,0,0,12,14,Mike Dean
+09/03/2013,12/13,"The Hawthorns, West Bromwich",West Brom,Swansea,1,1,2,1,0.44,0.55,5,2,14,11,613,776,451,572,19,15,11,35,3,3,1,4,1,1,0,0,11,10,Lee Mason
+09/03/2013,12/13,"Carrow Road, Norwich",Norwich City,Southampton,0,0,0,0,0.4,0.59,2,5,6,15,497,660,280,413,21,23,27,42,1,7,5,2,2,3,0,0,9,11,Mark Clattenburg
+09/03/2013,12/13,"Madejski Stadium, Reading",Reading,Aston Villa,1,2,1,2,0.41,0.58,3,4,9,19,491,684,285,454,9,18,27,63,6,1,2,1,2,3,0,0,8,7,Jonathan Moss
+09/03/2013,12/13,"Loftus Road, London",Queens Park Rangers,Sunderland,1,1,3,1,0.49,0.5,6,2,15,9,592,580,351,349,31,20,51,42,4,5,0,0,0,2,0,0,4,19,Mike Jones
+10/03/2013,12/13,"Anfield, Liverpool",Liverpool,Tottenham,1,1,3,2,0.46,0.53,4,7,12,16,611,679,397,452,27,33,28,24,1,4,6,0,1,1,0,0,9,9,Michael Oliver
+10/03/2013,12/13,"St James' Park, Newcastle",Newcastle United,Stoke,0,0,2,1,0.56,0.43,4,4,16,8,623,521,399,313,19,21,42,31,14,4,1,3,1,1,0,0,10,14,Andre Marriner
+16/03/2013,12/13,"Old Trafford, Manchester",Manchester United,Reading,1,0,1,0,0.56,0.43,4,0,16,6,667,536,461,338,20,22,45,32,5,4,0,1,0,2,0,0,6,16,Lee Mason
+16/03/2013,12/13,"Villa Park, Birmingham",Aston Villa,Queens Park Rangers,1,1,3,2,0.6,0.39,6,7,13,21,653,494,467,313,14,22,23,29,9,6,0,0,3,2,0,0,17,10,Kevin Friend
+16/03/2013,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Liverpool,2,1,3,1,0.47,0.52,11,5,18,10,620,642,386,435,15,21,27,36,7,5,0,6,0,1,0,0,12,10,Phil Dowd
+16/03/2013,12/13,"bet365 Stadium, Stoke",Stoke,West Brom,0,0,0,0,0.48,0.51,1,4,17,9,529,565,342,376,18,9,21,41,7,1,2,2,2,2,0,0,15,11,Mike Dean
+16/03/2013,12/13,"Goodison Park, Liverpool",Everton,Man City,1,0,2,0,0.4,0.59,3,8,12,20,508,636,270,435,20,10,29,36,13,6,3,0,3,3,1,0,16,10,Lee Probert
+16/03/2013,12/13,"Liberty Stadium, Swansea",Swansea,Arsenal,0,0,0,2,0.56,0.43,0,6,9,16,804,629,618,454,16,13,28,8,3,7,3,1,1,1,0,0,3,8,Jonathan Moss
+17/03/2013,12/13,"DW Stadium, Wigan",Wigan Athletic,Newcastle United,1,0,2,1,0.49,0.5,4,2,16,9,618,653,417,427,21,21,21,29,7,3,1,6,1,2,0,0,9,12,Mark Halsey
+17/03/2013,12/13,"Stadium of Light, Sunderland",Sunderland,Norwich City,1,1,1,1,0.65,0.34,6,1,15,8,646,456,451,231,16,16,30,45,5,9,3,1,1,3,0,1,12,14,Chris Foy
+17/03/2013,12/13,"White Hart Lane, London",Tottenham,Fulham,0,0,0,1,0.59,0.4,3,2,15,7,729,570,503,344,13,20,36,40,5,5,1,4,1,1,0,0,10,8,Mike Jones
+17/03/2013,12/13,"Stamford Bridge, London",Chelsea,West Ham,1,0,2,0,0.63,0.36,11,5,24,13,737,494,539,282,13,17,31,44,5,5,1,0,0,2,0,0,5,14,Michael Oliver
+30/03/2013,12/13,"DW Stadium, Wigan",Wigan Athletic,Norwich City,0,0,1,0,0.52,0.47,3,0,14,7,599,540,391,345,20,18,49,28,10,3,4,4,1,2,0,0,14,12,Howard Webb
+30/03/2013,12/13,"Liberty Stadium, Swansea",Swansea,Tottenham,0,2,1,2,0.62,0.37,3,7,15,10,874,606,639,377,30,24,23,50,5,2,4,0,2,4,0,0,5,10,Anthony Taylor
+30/03/2013,12/13,"Boleyn Ground, London",West Ham,West Brom,2,0,3,1,0.39,0.6,5,7,14,19,519,643,291,471,13,17,64,17,5,3,3,2,1,1,0,1,11,14,Andre Marriner
+30/03/2013,12/13,"Stadium of Light, Sunderland",Sunderland,Manchester United,0,1,0,1,0.38,0.61,1,8,9,14,527,754,330,541,23,21,15,52,3,6,1,3,3,1,0,0,12,9,Kevin Friend
+30/03/2013,12/13,"Etihad Stadium, Manchester",Man City,Newcastle United,2,0,4,0,0.63,0.36,9,1,21,5,733,505,544,303,14,16,23,47,9,2,6,3,0,2,0,0,7,9,Neil Swarbrick
+30/03/2013,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Chelsea,2,1,2,1,0.5,0.49,4,2,12,9,671,639,438,426,20,19,33,30,7,7,3,3,2,1,0,0,13,8,Jonathan Moss
+30/03/2013,12/13,"Goodison Park, Liverpool",Everton,Stoke,1,0,1,0,0.54,0.46,6,3,18,11,619,553,397,330,15,26,43,37,4,3,1,2,1,3,0,0,13,18,Mike Jones
+30/03/2013,12/13,"Emirates Stadium, London",Arsenal,Reading,1,0,4,1,0.7,0.29,6,2,26,5,860,461,673,276,11,19,14,39,11,3,3,1,0,1,0,0,10,14,Chris Foy
+31/03/2013,12/13,"Villa Park, Birmingham",Aston Villa,Liverpool,1,0,1,2,0.46,0.53,4,7,10,23,678,745,452,538,27,21,19,29,7,8,3,6,1,1,0,0,9,9,Lee Mason
+01/04/2013,12/13,"Craven Cottage, London",Fulham,Queens Park Rangers,3,1,3,2,0.48,0.51,3,7,9,21,605,633,404,432,17,16,41,15,3,6,6,4,2,1,1,0,12,7,Lee Probert
+06/04/2013,12/13,"The Hawthorns, West Bromwich",West Brom,Arsenal,0,1,1,2,0.51,0.48,5,6,19,11,607,608,442,419,15,15,14,41,6,4,6,1,2,4,0,1,7,16,Howard Webb
+06/04/2013,12/13,"bet365 Stadium, Stoke",Stoke,Aston Villa,0,1,1,3,0.45,0.54,3,6,13,12,529,606,333,406,15,22,22,39,4,2,2,3,3,1,0,0,16,12,Mark Clattenburg
+06/04/2013,12/13,"Carrow Road, Norwich",Norwich City,Swansea,1,1,2,2,0.34,0.65,4,7,12,18,499,795,294,571,24,18,32,40,2,5,0,1,5,3,0,0,8,16,Michael Oliver
+06/04/2013,12/13,"Madejski Stadium, Reading",Reading,Southampton,0,1,0,2,0.39,0.6,2,4,10,13,563,787,312,520,28,22,20,50,8,4,1,6,0,0,0,0,6,11,Mike Jones
+07/04/2013,12/13,"Stamford Bridge, London",Chelsea,Sunderland,0,1,2,1,0.61,0.38,3,0,16,8,726,513,514,319,20,23,27,26,8,5,3,1,0,2,0,0,9,16,Neil Swarbrick
+07/04/2013,12/13,"Loftus Road, London",Queens Park Rangers,Wigan Athletic,0,0,1,1,0.32,0.67,1,7,9,18,491,774,264,589,29,21,23,26,2,10,3,2,2,3,1,0,9,12,Phil Dowd
+07/04/2013,12/13,"St James' Park, Newcastle",Newcastle United,Fulham,0,0,1,0,0.49,0.5,5,2,28,8,622,634,404,432,20,20,24,46,10,3,4,0,2,2,0,0,13,11,Kevin Friend
+07/04/2013,12/13,"Anfield, Liverpool",Liverpool,West Ham,0,0,0,0,0.65,0.35,8,1,20,11,811,541,597,315,18,29,18,47,12,2,4,0,0,1,0,0,8,5,Anthony Taylor
+07/04/2013,12/13,"White Hart Lane, London",Tottenham,Everton,1,1,2,2,0.61,0.38,7,4,20,9,791,541,516,309,19,34,44,44,7,6,2,2,1,1,0,0,17,8,Andre Marriner
+08/04/2013,12/13,"Old Trafford, Manchester",Manchester United,Man City,0,0,1,2,0.45,0.55,5,3,15,10,572,654,345,438,29,23,27,42,9,4,3,1,3,5,0,0,13,21,Mike Dean
+13/04/2013,12/13,"Madejski Stadium, Reading",Reading,Liverpool,0,0,0,0,0.39,0.6,2,11,9,28,518,729,307,503,16,19,21,35,4,9,2,6,2,1,0,0,12,9,Mark Clattenburg
+13/04/2013,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,West Ham,0,0,1,1,0.61,0.38,5,3,19,8,659,481,429,268,23,14,39,43,7,4,3,4,2,3,0,0,12,17,Mike Dean
+13/04/2013,12/13,"Villa Park, Birmingham",Aston Villa,Fulham,0,0,1,1,0.48,0.51,4,0,18,10,641,665,439,475,19,15,17,40,8,5,5,2,1,2,0,0,5,15,Phil Dowd
+13/04/2013,12/13,"Goodison Park, Liverpool",Everton,Queens Park Rangers,1,0,2,0,0.6,0.39,5,3,13,10,613,511,399,276,26,24,12,52,13,5,2,6,3,3,0,0,6,13,Lee Mason
+13/04/2013,12/13,"Emirates Stadium, London",Arsenal,Norwich City,0,0,3,1,0.67,0.32,7,4,14,5,809,484,616,287,25,19,15,38,9,3,3,4,1,2,0,0,10,11,Mike Jones
+14/04/2013,12/13,"bet365 Stadium, Stoke",Stoke,Manchester United,0,1,0,2,0.42,0.57,3,4,13,11,507,672,343,472,21,19,17,38,3,7,0,2,1,1,0,0,9,9,Jonathan Moss
+14/04/2013,12/13,"St James' Park, Newcastle",Newcastle United,Sunderland,0,1,0,3,0.65,0.34,5,6,19,10,622,409,375,186,17,22,37,39,10,9,4,2,3,2,0,0,14,7,Howard Webb
+16/04/2013,12/13,"Emirates Stadium, London",Arsenal,Everton,0,0,0,0,0.56,0.43,2,2,11,12,747,614,507,389,19,33,18,35,8,1,1,2,2,3,0,0,11,13,Neil Swarbrick
+17/04/2013,12/13,"Boleyn Ground, London",West Ham,Manchester United,1,1,2,2,0.33,0.66,2,6,12,17,498,794,292,598,15,20,28,35,2,5,2,1,1,0,0,0,9,7,Lee Probert
+17/04/2013,12/13,"Craven Cottage, London",Fulham,Chelsea,0,2,0,3,0.52,0.47,2,7,11,17,681,623,469,415,23,24,17,21,6,5,3,0,2,1,0,0,14,13,Mike Dean
+17/04/2013,12/13,"Etihad Stadium, Manchester",Man City,Wigan Athletic,0,0,1,0,0.5,0.49,2,4,12,10,668,641,461,456,15,21,13,12,5,4,6,2,2,1,0,0,12,6,Jonathan Moss
+20/04/2013,12/13,"Boleyn Ground, London",West Ham,Wigan Athletic,1,0,2,0,0.36,0.63,8,8,20,19,483,669,268,480,14,19,45,17,3,6,4,2,3,1,0,0,14,12,Neil Swarbrick
+20/04/2013,12/13,"Stadium of Light, Sunderland",Sunderland,Everton,1,0,1,0,0.36,0.63,4,2,8,11,442,625,248,429,20,21,33,25,3,10,1,3,1,2,0,0,8,15,Phil Dowd
+20/04/2013,12/13,"Loftus Road, London",Queens Park Rangers,Stoke,0,1,0,2,0.48,0.51,5,4,23,14,488,482,267,269,21,25,35,20,5,5,4,2,1,2,0,0,9,15,Chris Foy
+20/04/2013,12/13,"The Hawthorns, West Bromwich",West Brom,Newcastle United,0,1,1,1,0.57,0.42,4,6,11,10,573,506,363,284,14,28,22,60,15,2,6,1,0,2,0,0,9,11,Mike Jones
+20/04/2013,12/13,"Liberty Stadium, Swansea",Swansea,Southampton,0,0,0,0,0.54,0.45,3,4,14,9,728,640,502,426,23,22,30,25,7,2,3,0,0,0,0,0,13,13,Mark Halsey
+20/04/2013,12/13,"Carrow Road, Norwich",Norwich City,Reading,0,0,2,1,0.45,0.54,8,2,20,16,548,587,349,422,13,14,22,25,8,8,5,2,2,3,0,0,9,11,Mike Dean
+20/04/2013,12/13,"Craven Cottage, London",Fulham,Arsenal,0,1,0,1,0.28,0.71,3,3,7,11,480,945,285,768,17,14,19,24,7,3,8,3,0,2,1,1,12,9,Andre Marriner
+21/04/2013,12/13,"White Hart Lane, London",Tottenham,Man City,0,1,3,1,0.45,0.54,6,4,11,11,615,679,394,488,24,20,30,31,4,5,4,2,3,2,0,0,12,10,Lee Mason
+21/04/2013,12/13,"Anfield, Liverpool",Liverpool,Chelsea,0,1,2,2,0.57,0.43,8,5,21,11,710,592,499,385,18,24,24,22,8,5,1,1,5,3,0,0,9,13,Kevin Friend
+22/04/2013,12/13,"Old Trafford, Manchester",Manchester United,Aston Villa,3,0,3,0,0.51,0.48,4,4,12,9,740,693,553,528,25,23,15,20,5,3,4,0,1,0,0,0,10,6,Anthony Taylor
+27/04/2013,12/13,"bet365 Stadium, Stoke",Stoke,Norwich City,0,0,1,0,0.47,0.52,3,0,12,6,507,563,337,373,14,14,19,49,6,3,4,1,4,2,0,0,10,10,Anthony Taylor
+27/04/2013,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,West Brom,0,1,0,3,0.61,0.38,3,8,17,10,678,468,450,272,14,16,24,31,7,6,2,4,2,2,2,1,9,11,Robert Madley
+27/04/2013,12/13,"St James' Park, Newcastle",Newcastle United,Liverpool,0,2,0,6,0.53,0.46,2,9,11,16,788,710,565,504,21,31,30,24,5,7,2,5,2,2,1,0,14,6,Andre Marriner
+27/04/2013,12/13,"Etihad Stadium, Manchester",Man City,West Ham,1,0,2,1,0.62,0.38,8,3,17,11,766,525,554,315,19,25,41,28,9,4,3,2,1,3,0,0,9,7,Howard Webb
+27/04/2013,12/13,"Goodison Park, Liverpool",Everton,Fulham,1,0,1,0,0.53,0.46,4,0,21,6,625,562,420,364,23,14,21,34,7,2,4,4,1,3,0,0,12,17,Jonathan Moss
+27/04/2013,12/13,"DW Stadium, Wigan",Wigan Athletic,Tottenham,1,1,2,2,0.39,0.61,5,3,7,15,515,712,325,525,22,15,31,30,3,3,1,5,3,1,0,0,13,11,Martin Atkinson
+28/04/2013,12/13,"Stamford Bridge, London",Chelsea,Swansea,2,0,2,0,0.51,0.48,8,3,24,13,730,708,536,497,16,15,16,39,6,3,3,1,1,3,0,0,9,11,Mark Clattenburg
+28/04/2013,12/13,"Madejski Stadium, Reading",Reading,Queens Park Rangers,0,0,0,0,0.46,0.53,5,2,16,15,521,603,311,387,14,12,32,33,9,7,1,2,0,2,0,0,12,16,Kevin Friend
+28/04/2013,12/13,"Emirates Stadium, London",Arsenal,Manchester United,1,1,1,1,0.51,0.48,6,4,19,12,678,662,499,464,18,15,19,43,7,2,1,1,3,5,0,0,11,12,Phil Dowd
+29/04/2013,12/13,"Villa Park, Birmingham",Aston Villa,Sunderland,2,1,6,1,0.55,0.44,11,2,16,10,672,582,474,376,18,22,18,38,4,4,2,1,0,3,0,1,10,15,Lee Probert
+04/05/2013,12/13,"Craven Cottage, London",Fulham,Reading,0,1,2,4,0.49,0.51,10,10,22,21,620,646,409,437,18,13,25,27,3,3,2,3,2,1,0,0,16,10,Neil Swarbrick
+04/05/2013,12/13,"Loftus Road, London",Queens Park Rangers,Arsenal,0,1,0,1,0.41,0.58,4,7,13,12,608,811,399,582,23,22,31,25,3,7,5,5,2,1,0,0,8,9,Jonathan Moss
+04/05/2013,12/13,"The Hawthorns, West Bromwich",West Brom,Wigan Athletic,1,1,2,3,0.47,0.52,8,5,18,14,567,642,393,426,20,16,21,29,7,5,0,1,4,3,0,0,9,9,Lee Probert
+04/05/2013,12/13,"White Hart Lane, London",Tottenham,Southampton,0,0,1,0,0.49,0.5,1,3,6,8,630,616,393,407,18,21,43,30,5,5,5,2,1,1,0,0,10,10,Mark Clattenburg
+04/05/2013,12/13,"Carrow Road, Norwich",Norwich City,Aston Villa,0,0,1,2,0.53,0.46,2,4,9,13,571,531,386,342,11,15,20,49,6,5,2,1,2,3,0,0,16,13,Kevin Friend
+04/05/2013,12/13,"Boleyn Ground, London",West Ham,Newcastle United,0,0,0,0,0.45,0.54,3,3,10,12,452,529,272,342,16,16,31,47,7,3,6,4,1,1,0,0,13,13,Phil Dowd
+04/05/2013,12/13,"Liberty Stadium, Swansea",Swansea,Man City,0,0,0,0,0.38,0.61,1,3,7,12,555,792,388,640,17,8,22,17,4,4,2,2,0,0,0,0,9,10,Mike Jones
+05/05/2013,12/13,"Old Trafford, Manchester",Manchester United,Chelsea,0,0,0,1,0.48,0.51,2,3,10,17,575,579,393,414,15,16,32,18,2,7,5,2,2,1,1,0,14,10,Howard Webb
+05/05/2013,12/13,"Anfield, Liverpool",Liverpool,Everton,0,0,0,0,0.54,0.45,3,2,15,11,682,596,451,366,23,33,19,31,3,5,3,1,1,2,0,0,10,11,Michael Oliver
+06/05/2013,12/13,"Stadium of Light, Sunderland",Sunderland,Stoke,0,1,1,1,0.47,0.52,3,3,15,12,532,551,331,367,17,17,23,23,5,6,0,3,2,2,1,0,8,11,Lee Mason
+07/05/2013,12/13,"Etihad Stadium, Manchester",Man City,West Brom,1,0,1,0,0.53,0.46,7,7,24,20,658,585,438,378,15,12,39,26,6,8,0,1,2,1,0,0,10,10,Phil Dowd
+07/05/2013,12/13,"DW Stadium, Wigan",Wigan Athletic,Swansea,1,0,2,3,0.53,0.46,8,4,16,12,689,626,488,427,19,24,13,28,4,4,1,1,2,2,0,0,15,13,Kevin Friend
+08/05/2013,12/13,"Stamford Bridge, London",Chelsea,Tottenham,2,1,2,2,0.44,0.55,5,5,15,14,545,675,335,437,29,21,22,44,6,5,3,3,1,2,0,0,6,17,Mike Dean
+11/05/2013,12/13,"Villa Park, Birmingham",Aston Villa,Chelsea,1,0,1,2,0.43,0.56,2,7,15,15,600,691,371,500,19,12,32,30,6,7,4,2,1,2,1,1,13,8,Lee Mason
+12/05/2013,12/13,"Old Trafford, Manchester",Manchester United,Swansea,1,0,2,1,0.52,0.47,6,2,15,9,694,667,557,507,11,7,20,29,7,5,2,0,0,0,0,0,5,7,Jonathan Moss
+12/05/2013,12/13,"Goodison Park, Liverpool",Everton,West Ham,1,0,2,0,0.64,0.35,7,2,28,7,702,430,493,264,11,18,24,31,7,1,3,0,1,2,0,0,7,12,Phil Dowd
+12/05/2013,12/13,"Craven Cottage, London",Fulham,Liverpool,1,1,1,3,0.48,0.51,5,7,10,20,703,735,513,544,14,23,26,24,7,8,3,2,0,1,0,0,1,11,Mark Halsey
+12/05/2013,12/13,"bet365 Stadium, Stoke",Stoke,Tottenham,1,1,1,2,0.32,0.67,1,7,6,25,431,746,231,516,25,11,31,53,2,11,0,4,3,1,1,0,12,6,Kevin Friend
+12/05/2013,12/13,"Stadium of Light, Sunderland",Sunderland,Southampton,0,0,1,1,0.36,0.64,2,8,6,17,500,759,274,510,24,14,47,32,3,10,1,1,0,2,0,0,9,10,Mike Dean
+12/05/2013,12/13,"Loftus Road, London",Queens Park Rangers,Newcastle United,1,2,1,2,0.56,0.43,2,4,10,11,648,556,445,360,22,24,18,27,2,2,7,4,1,2,0,1,9,10,Lee Probert
+12/05/2013,12/13,"Carrow Road, Norwich",Norwich City,West Brom,1,0,4,0,0.48,0.51,7,4,12,8,588,628,409,451,16,17,13,36,8,2,2,2,2,1,0,0,11,7,Howard Webb
+14/05/2013,12/13,"Emirates Stadium, London",Arsenal,Wigan Athletic,1,1,4,1,0.47,0.52,10,2,21,11,646,724,452,513,24,13,14,18,7,4,2,5,0,2,0,0,12,11,Mike Dean
+14/05/2013,12/13,"Madejski Stadium, Reading",Reading,Man City,0,1,0,2,0.38,0.61,7,11,12,30,540,780,361,597,12,12,26,21,4,10,1,2,0,1,0,0,7,8,Martin Atkinson
+19/05/2013,12/13,"Boleyn Ground, London",West Ham,Reading,2,0,4,2,0.48,0.51,10,6,21,17,565,551,352,369,17,15,32,26,6,4,5,0,2,1,0,0,13,10,Mike Dean
+19/05/2013,12/13,"DW Stadium, Wigan",Wigan Athletic,Aston Villa,2,1,2,2,0.54,0.46,4,3,17,8,683,625,512,432,25,15,22,13,4,2,2,4,2,1,0,0,11,13,Neil Swarbrick
+19/05/2013,12/13,"The Hawthorns, West Bromwich",West Brom,Manchester United,1,3,5,5,0.35,0.64,6,6,19,15,477,779,321,601,19,15,15,20,3,5,4,2,0,1,0,0,12,8,Michael Oliver
+19/05/2013,12/13,"Anfield, Liverpool",Liverpool,Queens Park Rangers,1,0,1,0,0.66,0.33,8,0,28,11,826,532,607,311,14,24,10,42,14,0,2,1,1,3,0,0,7,4,Martin Atkinson
+19/05/2013,12/13,"St James' Park, Newcastle",Newcastle United,Arsenal,0,0,0,1,0.5,0.49,1,2,7,10,656,645,467,458,20,32,24,18,4,4,2,2,1,2,0,0,18,10,Howard Webb
+19/05/2013,12/13,"The Friends Provident St Mary's Stadium, Southampton",Southampton,Stoke,0,0,1,1,0.63,0.37,7,3,12,8,710,482,522,296,20,17,31,35,3,4,3,2,0,2,0,0,10,7,Lee Probert
+19/05/2013,12/13,"Liberty Stadium, Swansea",Swansea,Fulham,0,1,0,3,0.64,0.35,10,5,27,9,859,573,654,367,20,18,5,44,8,0,5,1,2,1,0,0,12,10,Lee Mason
+19/05/2013,12/13,"White Hart Lane, London",Tottenham,Sunderland,0,0,1,0,0.68,0.31,14,3,35,8,728,448,467,222,18,24,37,43,14,1,4,2,1,2,0,1,7,14,Andre Marriner
+19/05/2013,12/13,"Stamford Bridge, London",Chelsea,Everton,1,1,2,1,0.43,0.56,6,7,23,20,601,734,387,524,23,22,17,29,7,4,1,1,2,1,0,0,8,9,Anthony Taylor
+19/05/2013,12/13,"Etihad Stadium, Manchester",Man City,Norwich City,1,1,2,3,0.6,0.39,3,7,14,17,667,505,497,317,17,14,25,24,7,7,2,2,1,0,0,0,11,9,Mark Halsey

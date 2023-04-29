@@ -1,0 +1,381 @@
+date,season,venue,home_team,away_team,ht_home_score,ht_away_score,home_score,away_score,home_possession_%,away_possession_%,home_shots_on_target,away_shots_on_target,home_shots,away_shots,home_touches,away_touches,home_passes,away_passes,home_tackles,away_tackles,home_clearances,away_clearances,home_corners,away_corners,home_offsides,away_offsides,home_yellow_cards,away_yellow_cards,home_red_cards,away_red_cards,home_fouls,away_fouls,referee
+09/08/2019,19/20,"Anfield, Liverpool",Liverpool,Norwich City,4,0,4,1,0.57,0.42,7,5,15,12,662,577,477,363,21,12,5,35,11,2,0,5,0,2,0,0,9,9,Michael Oliver
+10/08/2019,19/20,"London Stadium, London",West Ham,Man City,0,1,0,5,0.42,0.57,3,9,5,14,571,722,403,547,18,18,9,13,1,1,2,4,2,2,0,0,6,13,Mike Dean
+10/08/2019,19/20,"Vicarage Road, Watford",Watford,Brighton,0,1,0,3,0.48,0.51,3,3,11,5,602,637,414,442,12,24,10,24,5,2,0,3,0,1,0,0,15,11,Craig Pawson
+10/08/2019,19/20,"Selhurst Park, London",Crystal Palace,Everton,0,0,0,0,0.35,0.64,2,3,6,10,467,722,268,500,21,14,21,18,6,2,4,0,2,1,0,1,16,14,Jonathan Moss
+10/08/2019,19/20,"Turf Moor, Burnley",Burnley,Southampton,0,0,3,0,0.46,0.53,4,3,10,11,549,579,332,393,21,7,13,18,2,7,5,1,0,0,0,0,6,12,Graham Scott
+10/08/2019,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Sheffield United,0,0,1,1,0.52,0.47,3,3,13,8,671,615,485,428,18,14,13,16,3,4,1,1,2,1,0,0,10,19,Kevin Friend
+10/08/2019,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Aston Villa,0,1,3,1,0.7,0.29,7,4,31,7,792,461,587,256,17,29,6,39,14,0,1,0,1,0,0,0,13,9,Chris Kavanagh
+11/08/2019,19/20,"St. James' Park, Newcastle",Newcastle United,Arsenal,0,0,0,1,0.38,0.61,2,2,9,8,577,819,378,616,26,11,17,22,5,3,1,3,1,3,0,0,12,7,Martin Atkinson
+11/08/2019,19/20,"King Power Stadium, Leicester",Leicester,Wolverhampton Wanderers,0,0,0,0,0.7,0.3,1,2,16,8,871,508,665,291,20,19,12,33,12,3,0,1,0,2,0,0,3,13,Andre Marriner
+11/08/2019,19/20,"Old Trafford, Manchester",Manchester United,Chelsea,1,0,4,0,0.46,0.53,5,7,11,18,649,730,449,523,16,21,19,11,3,5,2,0,3,4,0,0,15,13,Anthony Taylor
+17/08/2019,19/20,"Emirates Stadium, London",Arsenal,Burnley,1,1,2,1,0.67,0.32,9,5,15,18,731,437,529,234,12,16,28,25,10,7,5,1,2,1,0,0,13,11,Mike Dean
+17/08/2019,19/20,"St. Mary's Stadium, Southampton",Southampton,Liverpool,0,1,1,2,0.36,0.63,3,6,14,15,497,735,296,530,15,7,27,30,5,9,4,1,2,1,0,0,10,6,Andre Marriner
+17/08/2019,19/20,"Carrow Road, Norwich",Norwich City,Newcastle United,1,0,3,1,0.63,0.36,8,4,15,12,780,513,603,336,14,14,23,13,7,5,2,1,1,3,0,0,9,11,Stuart Attwell
+17/08/2019,19/20,"Goodison Park, Liverpool",Everton,Watford,1,0,1,0,0.44,0.55,2,2,12,8,536,611,303,388,20,34,35,13,4,7,3,1,2,3,0,0,11,11,Lee Mason
+17/08/2019,19/20,"Amex Stadium, Falmer",Brighton,West Ham,0,0,1,1,0.57,0.42,4,3,16,8,717,587,497,377,20,22,16,14,8,6,2,4,0,2,0,0,11,10,Anthony Taylor
+17/08/2019,19/20,"Villa Park, Birmingham",Aston Villa,Bournemouth,0,2,1,2,0.62,0.37,7,4,21,12,689,468,490,295,7,15,15,25,10,5,5,2,0,2,0,0,10,13,Martin Atkinson
+17/08/2019,19/20,"Etihad Stadium, Manchester",Man City,Tottenham,2,1,2,2,0.55,0.44,10,2,30,3,806,701,610,506,15,17,10,23,13,2,3,1,1,0,0,0,14,4,Michael Oliver
+18/08/2019,19/20,"Bramall Lane, Sheffield",Sheffield United,Crystal Palace,0,0,1,0,0.42,0.57,3,4,15,6,604,718,354,498,20,21,38,25,8,4,0,1,3,1,0,0,16,11,David Coote
+18/08/2019,19/20,"Stamford Bridge, London",Chelsea,Leicester,1,0,1,1,0.5,0.49,5,3,14,12,692,690,454,455,25,29,23,20,4,5,3,3,1,0,0,0,9,14,Graham Scott
+19/08/2019,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Manchester United,0,1,1,1,0.34,0.65,2,2,6,9,520,845,350,668,17,23,14,15,4,6,1,1,2,2,0,0,17,8,Jonathan Moss
+23/08/2019,19/20,"Villa Park, Birmingham",Aston Villa,Everton,1,0,2,0,0.35,0.64,3,1,7,12,503,727,301,539,12,16,25,7,0,6,8,1,2,3,0,0,10,18,Michael Oliver
+24/08/2019,19/20,"Carrow Road, Norwich",Norwich City,Chelsea,2,2,2,3,0.46,0.53,5,8,6,23,682,766,481,543,16,26,29,9,1,8,0,0,1,1,0,0,9,9,Martin Atkinson
+24/08/2019,19/20,"Vicarage Road, Watford",Watford,West Ham,1,1,1,3,0.54,0.45,3,10,23,16,667,593,465,386,17,17,12,24,8,7,1,2,1,1,0,0,12,11,Chris Kavanagh
+24/08/2019,19/20,"Bramall Lane, Sheffield",Sheffield United,Leicester,0,1,1,2,0.49,0.5,2,2,7,10,616,668,421,452,16,13,15,38,7,4,1,5,1,0,0,0,11,6,Andy Madley
+24/08/2019,19/20,"Old Trafford, Manchester",Manchester United,Crystal Palace,0,1,1,2,0.71,0.28,3,3,22,5,748,409,562,231,9,25,6,26,8,1,0,0,2,4,0,0,8,18,Paul Tierney
+24/08/2019,19/20,"Amex Stadium, Falmer",Brighton,Southampton,0,0,0,2,0.5,0.49,3,4,12,12,596,580,394,395,16,19,10,22,8,5,1,0,1,3,1,0,9,10,Kevin Friend
+24/08/2019,19/20,"Anfield, Liverpool",Liverpool,Arsenal,1,0,3,1,0.52,0.48,5,3,25,9,747,738,553,516,25,16,11,27,6,4,1,4,1,1,0,0,8,5,Anthony Taylor
+25/08/2019,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Man City,1,2,1,3,0.26,0.73,7,5,10,18,419,905,249,728,8,16,22,16,4,5,2,4,1,3,0,0,7,13,Andre Marriner
+25/08/2019,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Burnley,0,1,1,1,0.65,0.34,2,4,17,13,772,479,586,306,9,12,29,27,4,3,1,1,0,2,0,0,9,11,Craig Pawson
+25/08/2019,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Newcastle United,0,1,0,1,0.8,0.19,2,3,17,8,942,391,763,190,10,15,5,54,6,6,1,4,2,2,0,0,10,5,Mike Dean
+31/08/2019,19/20,"St. Mary's Stadium, Southampton",Southampton,Manchester United,0,1,1,1,0.41,0.58,2,8,10,21,598,771,375,537,25,19,25,16,2,3,0,1,1,2,1,0,17,7,Mike Dean
+31/08/2019,19/20,"London Stadium, London",West Ham,Norwich City,1,0,2,0,0.48,0.51,8,3,18,8,662,710,474,500,29,14,9,15,8,2,2,3,2,1,0,0,16,10,Paul Tierney
+31/08/2019,19/20,"St. James' Park, Newcastle",Newcastle United,Watford,1,1,1,1,0.48,0.51,5,3,13,13,651,682,468,498,11,14,14,24,6,5,6,0,2,3,0,0,5,11,Graham Scott
+31/08/2019,19/20,"Etihad Stadium, Manchester",Man City,Brighton,2,0,4,0,0.53,0.46,6,2,15,6,755,678,598,523,15,18,19,14,8,1,1,3,1,1,0,0,10,6,Jonathan Moss
+31/08/2019,19/20,"King Power Stadium, Leicester",Leicester,Bournemouth,2,1,3,1,0.55,0.45,6,2,15,8,751,647,541,432,22,14,25,18,4,5,2,1,1,3,0,0,9,11,Peter Bankes
+31/08/2019,19/20,"Selhurst Park, London",Crystal Palace,Aston Villa,0,0,1,0,0.52,0.47,5,2,22,10,614,591,407,379,18,19,21,30,13,2,2,0,2,4,0,1,15,16,Kevin Friend
+31/08/2019,19/20,"Stamford Bridge, London",Chelsea,Sheffield United,2,0,2,2,0.62,0.37,5,2,13,8,898,595,719,429,16,15,15,24,3,4,2,0,0,1,0,0,6,11,Stuart Attwell
+31/08/2019,19/20,"Turf Moor, Burnley",Burnley,Liverpool,0,2,0,3,0.36,0.63,2,7,7,15,495,739,318,568,14,11,21,19,6,4,5,1,0,0,0,0,10,16,Chris Kavanagh
+01/09/2019,19/20,"Goodison Park, Liverpool",Everton,Wolverhampton Wanderers,2,1,3,2,0.58,0.41,6,5,15,8,687,522,451,320,24,19,37,22,7,7,1,2,1,4,0,1,12,12,Anthony Taylor
+01/09/2019,19/20,"Emirates Stadium, London",Arsenal,Tottenham,1,2,2,2,0.54,0.45,8,9,26,13,673,569,453,388,23,13,11,24,11,6,3,1,3,5,0,0,13,19,Martin Atkinson
+14/09/2019,19/20,"Anfield, Liverpool",Liverpool,Newcastle United,2,1,3,1,0.75,0.24,9,1,21,8,1023,470,847,282,13,20,8,33,10,1,2,8,0,0,0,0,5,4,Andre Marriner
+14/09/2019,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Chelsea,0,3,2,5,0.45,0.54,4,6,11,15,648,781,449,555,17,20,12,28,7,5,1,1,1,2,0,0,8,11,Graham Scott
+14/09/2019,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Crystal Palace,4,0,4,0,0.64,0.35,5,6,13,11,830,537,640,357,11,15,13,15,4,3,1,0,4,3,0,0,19,11,Craig Pawson
+14/09/2019,19/20,"Bramall Lane, Sheffield",Sheffield United,Southampton,0,0,0,1,0.48,0.51,4,7,17,11,647,692,414,467,21,18,24,28,12,6,3,1,1,1,1,0,10,7,Lee Mason
+14/09/2019,19/20,"Old Trafford, Manchester",Manchester United,Leicester,1,0,1,0,0.41,0.58,5,3,10,9,566,686,345,471,19,30,30,11,3,9,0,2,1,2,0,0,14,14,Martin Atkinson
+14/09/2019,19/20,"Amex Stadium, Falmer",Brighton,Burnley,0,0,1,1,0.62,0.37,5,1,14,7,693,500,491,284,21,17,20,24,3,6,2,2,0,2,0,0,13,7,Michael Oliver
+14/09/2019,19/20,"Carrow Road, Norwich",Norwich City,Man City,2,1,3,2,0.31,0.68,3,8,7,25,524,876,318,671,16,15,50,7,3,16,1,0,3,1,0,0,8,7,Kevin Friend
+15/09/2019,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Everton,1,1,3,1,0.4,0.59,6,5,13,14,547,684,336,488,18,18,37,10,7,7,4,0,0,4,0,0,5,14,Paul Tierney
+15/09/2019,19/20,"Vicarage Road, Watford",Watford,Arsenal,0,2,2,2,0.52,0.47,10,4,31,7,679,625,499,466,17,13,15,16,7,1,1,0,3,3,0,0,14,4,Anthony Taylor
+16/09/2019,19/20,"Villa Park, Birmingham",Aston Villa,West Ham,0,0,0,0,0.46,0.53,5,1,10,13,604,678,408,470,19,21,14,15,2,4,3,3,2,1,0,1,13,12,Mike Dean
+20/09/2019,19/20,"St. Mary's Stadium, Southampton",Southampton,Bournemouth,0,2,1,3,0.64,0.35,6,3,25,6,783,519,554,300,30,8,13,25,4,5,1,2,1,3,0,0,8,9,Chris Kavanagh
+21/09/2019,19/20,"King Power Stadium, Leicester",Leicester,Tottenham,0,1,2,1,0.44,0.55,7,4,16,11,599,704,380,491,23,18,24,23,8,2,3,3,1,2,0,0,16,13,Paul Tierney
+21/09/2019,19/20,"Etihad Stadium, Manchester",Man City,Watford,5,0,8,0,0.68,0.31,11,4,28,5,909,486,727,336,18,12,5,20,5,4,2,2,2,2,0,0,5,9,Mike Dean
+21/09/2019,19/20,"Goodison Park, Liverpool",Everton,Sheffield United,0,1,0,2,0.69,0.3,3,1,16,2,741,442,520,227,10,15,11,63,12,3,1,1,1,3,0,0,9,9,Simon Hooper
+21/09/2019,19/20,"Turf Moor, Burnley",Burnley,Norwich City,2,0,2,0,0.41,0.58,6,2,13,11,550,714,357,528,14,19,15,19,7,3,2,0,0,1,0,0,11,10,David Coote
+21/09/2019,19/20,"St. James' Park, Newcastle",Newcastle United,Brighton,0,0,0,0,0.28,0.71,4,3,11,16,467,922,280,718,18,14,22,14,5,3,0,3,2,1,0,0,12,8,Martin Atkinson
+22/09/2019,19/20,"London Stadium, London",West Ham,Manchester United,1,0,2,0,0.46,0.53,6,3,8,9,604,661,424,479,16,13,18,18,3,7,2,1,2,2,0,0,8,9,Anthony Taylor
+22/09/2019,19/20,"Selhurst Park, London",Crystal Palace,Wolverhampton Wanderers,0,0,1,1,0.49,0.5,4,4,13,13,692,661,456,442,24,31,18,17,6,7,1,0,2,1,0,1,7,10,Stuart Attwell
+22/09/2019,19/20,"Stamford Bridge, London",Chelsea,Liverpool,0,2,1,2,0.55,0.45,2,3,13,6,713,608,492,415,15,11,10,37,6,4,7,1,3,3,0,0,8,13,Michael Oliver
+22/09/2019,19/20,"Emirates Stadium, London",Arsenal,Aston Villa,0,1,3,2,0.58,0.41,6,9,21,14,662,521,465,326,12,20,20,21,9,4,2,0,5,1,1,0,13,15,Jonathan Moss
+28/09/2019,19/20,"Bramall Lane, Sheffield",Sheffield United,Liverpool,0,0,0,1,0.29,0.7,2,4,12,16,479,896,291,708,11,11,29,25,6,5,0,1,1,1,0,0,8,4,Anthony Taylor
+28/09/2019,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Watford,1,0,2,0,0.39,0.6,2,5,6,14,575,801,404,628,21,15,27,7,1,6,2,1,0,1,0,0,5,6,Paul Tierney
+28/09/2019,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Southampton,2,1,2,1,0.41,0.58,4,6,9,14,579,717,369,518,23,24,28,12,6,6,1,1,0,2,1,0,5,16,Graham Scott
+28/09/2019,19/20,"Selhurst Park, London",Crystal Palace,Norwich City,1,0,2,0,0.44,0.55,3,3,15,10,620,726,415,524,18,17,13,22,5,5,2,1,3,1,0,0,14,10,Jonathan Moss
+28/09/2019,19/20,"Stamford Bridge, London",Chelsea,Brighton,0,0,2,0,0.52,0.47,10,1,24,8,760,704,568,502,18,21,15,25,5,2,1,2,2,3,0,0,5,13,Chris Kavanagh
+28/09/2019,19/20,"Villa Park, Birmingham",Aston Villa,Burnley,1,0,2,2,0.6,0.39,3,3,16,10,610,438,416,281,14,13,13,16,7,3,2,0,1,4,0,0,10,16,Lee Mason
+28/09/2019,19/20,"Vitality Stadium, Bournemouth",Bournemouth,West Ham,1,1,2,2,0.49,0.5,5,6,13,17,672,653,456,478,8,23,21,16,6,6,2,2,3,1,0,0,7,8,Stuart Attwell
+28/09/2019,19/20,"Goodison Park, Liverpool",Everton,Man City,1,1,1,3,0.37,0.62,8,8,12,19,540,813,358,619,19,15,8,19,5,2,2,5,2,2,0,0,4,8,Michael Oliver
+29/09/2019,19/20,"King Power Stadium, Leicester",Leicester,Newcastle United,1,0,5,0,0.68,0.31,5,0,13,3,918,520,724,328,24,17,8,24,9,0,0,1,1,1,0,1,12,9,Craig Pawson
+30/09/2019,19/20,"Old Trafford, Manchester",Manchester United,Arsenal,1,0,1,1,0.54,0.45,4,5,16,10,631,563,440,364,15,19,7,14,8,7,2,4,4,2,0,0,18,13,Kevin Friend
+05/10/2019,19/20,"Amex Stadium, Falmer",Brighton,Tottenham,2,0,3,0,0.47,0.52,6,3,17,8,713,750,494,547,22,23,19,15,4,4,1,1,2,1,0,0,11,7,Jonathan Moss
+05/10/2019,19/20,"Vicarage Road, Watford",Watford,Sheffield United,0,0,0,0,0.39,0.6,2,3,8,9,542,760,360,554,17,15,34,27,7,7,2,3,0,2,0,0,7,6,Andre Marriner
+05/10/2019,19/20,"Carrow Road, Norwich",Norwich City,Aston Villa,0,2,1,5,0.57,0.42,5,12,21,22,698,570,472,345,20,16,20,34,10,6,0,1,1,3,0,0,14,17,Andy Madley
+05/10/2019,19/20,"Anfield, Liverpool",Liverpool,Leicester,1,0,2,1,0.5,0.49,8,1,18,2,733,681,494,478,19,16,25,27,4,6,3,2,1,4,0,0,9,17,Chris Kavanagh
+05/10/2019,19/20,"Turf Moor, Burnley",Burnley,Everton,0,0,1,0,0.4,0.59,3,2,9,11,514,636,327,471,15,9,22,15,7,9,5,1,2,1,0,1,5,12,Graham Scott
+05/10/2019,19/20,"London Stadium, London",West Ham,Crystal Palace,0,0,1,2,0.51,0.48,4,4,9,7,678,668,519,489,19,10,14,18,2,2,2,4,3,2,0,0,11,7,Michael Oliver
+06/10/2019,19/20,"St. Mary's Stadium, Southampton",Southampton,Chelsea,1,3,1,4,0.43,0.56,3,7,10,13,585,715,400,528,23,19,12,19,3,4,1,0,0,1,0,0,8,15,Paul Tierney
+06/10/2019,19/20,"Etihad Stadium, Manchester",Man City,Wolverhampton Wanderers,0,0,0,2,0.76,0.24,2,2,18,7,917,423,714,230,14,18,5,43,9,1,1,2,5,2,0,0,11,14,Craig Pawson
+06/10/2019,19/20,"Emirates Stadium, London",Arsenal,Bournemouth,1,0,1,0,0.52,0.47,2,2,12,10,653,643,443,403,23,14,17,31,14,5,0,0,1,2,0,0,12,6,Martin Atkinson
+06/10/2019,19/20,"St. James' Park, Newcastle",Newcastle United,Manchester United,0,0,1,0,0.31,0.68,2,3,12,12,450,757,281,594,12,11,17,7,4,6,1,2,3,3,0,0,12,10,Mike Dean
+19/10/2019,19/20,"Goodison Park, Liverpool",Everton,West Ham,1,0,2,0,0.51,0.48,10,4,19,8,596,592,390,384,24,13,9,26,11,2,9,4,2,2,0,0,15,15,Paul Tierney
+19/10/2019,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Southampton,0,0,1,1,0.57,0.43,1,5,4,14,688,559,511,385,11,9,10,19,1,3,1,2,3,2,0,0,10,17,Peter Bankes
+19/10/2019,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Watford,0,1,1,1,0.69,0.3,2,2,12,7,908,503,686,313,11,20,6,52,11,2,5,1,4,3,0,0,5,9,Chris Kavanagh
+19/10/2019,19/20,"King Power Stadium, Leicester",Leicester,Burnley,1,1,2,1,0.64,0.35,3,4,19,13,770,504,556,303,22,15,20,22,9,4,2,3,0,3,0,0,4,10,Jonathan Moss
+19/10/2019,19/20,"Stamford Bridge, London",Chelsea,Newcastle United,0,0,1,0,0.71,0.28,8,0,16,5,851,441,634,258,23,12,16,31,11,0,1,1,2,1,0,0,9,12,Andre Marriner
+19/10/2019,19/20,"Villa Park, Birmingham",Aston Villa,Brighton,1,1,2,1,0.48,0.51,8,5,24,20,651,659,441,475,6,11,16,28,7,5,1,0,1,2,0,1,9,17,David Coote
+19/10/2019,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Norwich City,0,0,0,0,0.47,0.52,2,1,11,10,618,663,407,469,16,14,23,33,6,7,2,2,1,3,0,0,8,11,Lee Mason
+19/10/2019,19/20,"Selhurst Park, London",Crystal Palace,Man City,0,2,0,2,0.28,0.71,2,10,7,21,469,868,276,682,13,11,26,13,1,8,3,2,1,1,0,0,8,10,Anthony Taylor
+20/10/2019,19/20,"Old Trafford, Manchester",Manchester United,Liverpool,1,0,1,1,0.32,0.68,2,4,7,10,509,842,299,652,10,18,29,17,3,1,4,1,0,1,0,0,6,14,Martin Atkinson
+21/10/2019,19/20,"Bramall Lane, Sheffield",Sheffield United,Arsenal,1,0,1,0,0.31,0.68,2,3,8,9,492,835,287,633,21,17,25,12,7,12,1,1,4,4,0,0,10,12,Mike Dean
+25/10/2019,19/20,"St. Mary's Stadium, Southampton",Southampton,Leicester,0,5,0,9,0.27,0.72,3,15,6,25,483,925,272,709,20,26,18,8,2,7,1,0,0,0,1,0,3,12,Andre Marriner
+26/10/2019,19/20,"Etihad Stadium, Manchester",Man City,Aston Villa,0,0,3,0,0.63,0.36,10,5,26,11,794,537,597,341,13,10,18,27,13,7,1,2,1,1,1,0,10,5,Graham Scott
+26/10/2019,19/20,"London Stadium, London",West Ham,Sheffield United,1,0,1,1,0.6,0.39,4,4,12,10,724,551,545,357,12,11,8,27,10,4,4,4,2,2,0,0,7,10,David Coote
+26/10/2019,19/20,"Vicarage Road, Watford",Watford,Bournemouth,0,0,0,0,0.4,0.59,3,5,7,15,545,713,337,501,20,16,23,21,5,10,5,3,5,3,0,0,14,8,Mike Dean
+26/10/2019,19/20,"Amex Stadium, Falmer",Brighton,Everton,1,1,3,2,0.55,0.44,4,6,8,10,720,613,533,425,18,17,8,14,0,5,3,2,2,1,0,0,12,12,Andy Madley
+26/10/2019,19/20,"Turf Moor, Burnley",Burnley,Chelsea,0,2,2,4,0.36,0.63,5,7,13,16,577,882,390,691,16,13,16,20,5,6,1,0,3,2,0,0,7,8,Michael Oliver
+27/10/2019,19/20,"St. James' Park, Newcastle",Newcastle United,Wolverhampton Wanderers,1,0,1,1,0.43,0.56,2,5,13,13,595,720,405,533,13,18,28,17,3,6,1,1,2,2,1,0,8,16,Kevin Friend
+27/10/2019,19/20,"Carrow Road, Norwich",Norwich City,Manchester United,0,2,1,3,0.46,0.53,3,11,10,21,619,692,417,480,26,24,16,13,1,10,1,0,2,2,0,0,13,10,Stuart Attwell
+27/10/2019,19/20,"Anfield, Liverpool",Liverpool,Tottenham,0,1,2,1,0.68,0.32,13,4,21,11,836,523,631,298,20,16,8,35,8,3,0,4,3,3,0,0,9,11,Anthony Taylor
+27/10/2019,19/20,"Emirates Stadium, London",Arsenal,Crystal Palace,2,1,2,2,0.56,0.43,6,4,15,10,639,554,444,345,21,14,18,26,12,5,1,1,2,0,0,0,18,9,Martin Atkinson
+02/11/2019,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Manchester United,1,0,1,0,0.42,0.57,6,4,13,15,581,700,366,488,13,18,33,11,4,10,1,4,4,3,0,0,14,12,Chris Kavanagh
+02/11/2019,19/20,"London Stadium, London",West Ham,Newcastle United,0,2,2,3,0.69,0.3,6,9,16,12,788,454,583,262,13,18,12,40,7,3,1,4,2,1,0,0,10,7,Stuart Attwell
+02/11/2019,19/20,"Bramall Lane, Sheffield",Sheffield United,Burnley,3,0,3,0,0.45,0.54,6,0,13,6,563,627,384,460,17,5,23,17,7,6,1,0,1,2,0,0,8,12,Simon Hooper
+02/11/2019,19/20,"Etihad Stadium, Manchester",Man City,Southampton,0,1,2,1,0.75,0.24,4,3,26,3,885,461,639,225,9,20,5,76,17,0,3,0,3,1,0,0,11,10,Lee Mason
+02/11/2019,19/20,"Amex Stadium, Falmer",Brighton,Norwich City,0,0,2,0,0.58,0.41,5,0,21,7,733,572,538,391,19,13,5,19,8,3,3,1,0,1,0,0,11,8,Kevin Friend
+02/11/2019,19/20,"Villa Park, Birmingham",Aston Villa,Liverpool,1,0,1,2,0.26,0.73,2,6,4,25,447,860,226,634,20,17,47,21,2,10,3,2,1,2,0,0,12,9,Jonathan Moss
+02/11/2019,19/20,"Emirates Stadium, London",Arsenal,Wolverhampton Wanderers,1,0,1,1,0.57,0.42,4,8,10,24,766,613,539,397,16,22,20,21,8,9,2,2,0,2,0,0,6,15,Michael Oliver
+02/11/2019,19/20,"Vicarage Road, Watford",Watford,Chelsea,0,1,1,2,0.32,0.67,3,10,12,16,555,991,373,793,16,16,20,17,1,6,0,0,4,2,0,0,8,5,Anthony Taylor
+03/11/2019,19/20,"Selhurst Park, London",Crystal Palace,Leicester,0,0,0,2,0.44,0.55,3,5,12,14,548,634,334,431,19,22,12,24,5,6,2,1,2,2,0,0,15,16,Paul Tierney
+03/11/2019,19/20,"Goodison Park, Liverpool",Everton,Tottenham,0,0,1,1,0.47,0.52,3,2,7,5,567,651,375,443,26,15,8,24,5,2,1,2,1,2,0,1,9,8,Martin Atkinson
+08/11/2019,19/20,"Carrow Road, Norwich",Norwich City,Watford,0,1,0,2,0.65,0.34,5,2,17,12,832,522,597,315,18,25,9,36,10,4,1,0,1,2,0,1,7,13,Andre Marriner
+09/11/2019,19/20,"Stamford Bridge, London",Chelsea,Crystal Palace,0,0,2,0,0.6,0.39,5,1,23,3,774,559,572,377,19,19,9,21,7,0,0,0,3,2,0,0,9,17,Mike Dean
+09/11/2019,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Sheffield United,0,0,1,1,0.61,0.38,5,4,17,14,806,591,602,378,19,27,19,23,4,4,1,6,2,2,0,0,6,9,Graham Scott
+09/11/2019,19/20,"St. Mary's Stadium, Southampton",Southampton,Everton,0,1,1,2,0.47,0.52,3,5,4,24,547,596,345,377,12,23,24,20,5,9,2,0,1,1,0,0,12,12,Paul Tierney
+09/11/2019,19/20,"St. James' Park, Newcastle",Newcastle United,Bournemouth,1,1,2,1,0.33,0.66,9,4,21,16,485,778,279,559,18,14,31,24,5,4,4,1,2,0,0,0,10,5,Martin Atkinson
+09/11/2019,19/20,"Turf Moor, Burnley",Burnley,West Ham,2,0,3,0,0.4,0.6,12,4,14,7,496,633,299,459,7,14,21,21,11,4,7,1,2,1,0,0,17,10,Kevin Friend
+09/11/2019,19/20,"King Power Stadium, Leicester",Leicester,Arsenal,0,0,2,0,0.5,0.49,7,1,19,8,690,673,486,478,19,18,19,15,5,4,1,2,1,1,0,0,10,10,Chris Kavanagh
+10/11/2019,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Aston Villa,1,0,2,1,0.5,0.49,5,4,17,13,594,589,385,375,14,20,28,15,6,3,0,1,4,3,0,0,17,8,Anthony Taylor
+10/11/2019,19/20,"Anfield, Liverpool",Liverpool,Man City,2,0,3,1,0.45,0.55,5,3,12,18,609,717,416,507,13,15,27,24,4,13,3,5,0,2,0,0,10,5,Michael Oliver
+10/11/2019,19/20,"Old Trafford, Manchester",Manchester United,Brighton,2,0,3,1,0.42,0.57,11,2,21,6,577,707,358,483,24,28,11,14,5,2,0,4,2,5,0,0,10,14,Jonathan Moss
+23/11/2019,19/20,"London Stadium, London",West Ham,Tottenham,0,2,2,3,0.47,0.52,4,6,11,15,612,655,407,471,18,19,13,15,3,7,4,6,3,2,0,0,12,14,Michael Oliver
+23/11/2019,19/20,"Vicarage Road, Watford",Watford,Burnley,0,0,0,3,0.61,0.38,4,5,15,11,582,422,396,248,11,6,23,29,7,5,2,2,1,3,0,0,14,13,Paul Tierney
+23/11/2019,19/20,"Goodison Park, Liverpool",Everton,Norwich City,0,0,0,2,0.57,0.42,7,5,18,13,621,538,401,307,20,18,14,35,7,7,0,0,3,5,0,0,12,11,Anthony Taylor
+23/11/2019,19/20,"Selhurst Park, London",Crystal Palace,Liverpool,0,0,1,2,0.4,0.6,6,4,16,12,544,703,330,510,14,24,31,29,9,8,3,0,0,1,0,0,8,7,Kevin Friend
+23/11/2019,19/20,"Amex Stadium, Falmer",Brighton,Leicester,0,0,0,2,0.52,0.47,0,9,7,19,650,594,458,418,11,17,11,22,6,7,2,1,2,0,0,0,9,1,Mike Dean
+23/11/2019,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Wolverhampton Wanderers,0,2,1,2,0.46,0.53,2,8,9,18,608,689,443,509,9,11,18,27,5,9,0,4,2,1,1,0,10,12,Simon Hooper
+23/11/2019,19/20,"Etihad Stadium, Manchester",Man City,Chelsea,2,1,2,1,0.46,0.53,4,2,15,11,728,821,558,644,15,15,12,23,8,2,3,4,1,1,0,0,5,9,Martin Atkinson
+23/11/2019,19/20,"Emirates Stadium, London",Arsenal,Southampton,1,1,2,2,0.61,0.39,5,6,12,21,729,540,487,316,25,18,17,21,6,8,2,1,6,2,0,0,13,19,Stuart Attwell
+24/11/2019,19/20,"Bramall Lane, Sheffield",Sheffield United,Manchester United,1,0,3,3,0.4,0.59,8,5,12,11,580,789,383,587,13,10,21,21,6,3,3,1,1,2,0,0,13,10,Andre Marriner
+25/11/2019,19/20,"Villa Park, Birmingham",Aston Villa,Newcastle United,2,0,2,0,0.62,0.38,8,5,17,11,687,505,490,296,15,15,19,27,11,6,1,2,1,1,0,0,10,9,Lee Mason
+30/11/2019,19/20,"St. James' Park, Newcastle",Newcastle United,Man City,1,1,2,2,0.23,0.76,3,9,6,24,453,958,238,760,18,12,40,10,1,10,3,3,1,2,0,0,4,6,Chris Kavanagh
+30/11/2019,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Bournemouth,1,0,3,2,0.52,0.47,5,6,14,20,714,649,515,455,19,8,29,19,4,8,1,0,0,2,0,0,10,12,Lee Mason
+30/11/2019,19/20,"Anfield, Liverpool",Liverpool,Brighton,2,0,2,1,0.44,0.55,7,5,15,12,654,790,482,592,11,11,16,20,4,5,1,6,0,0,1,0,3,10,Martin Atkinson
+30/11/2019,19/20,"Stamford Bridge, London",Chelsea,West Ham,0,0,0,1,0.65,0.34,6,4,19,5,920,545,671,354,7,26,9,30,9,3,3,0,0,3,0,0,0,16,Jonathan Moss
+30/11/2019,19/20,"Turf Moor, Burnley",Burnley,Crystal Palace,0,1,0,2,0.43,0.56,4,2,15,7,553,685,347,464,20,15,16,31,5,6,1,1,2,0,0,0,13,9,Peter Bankes
+30/11/2019,19/20,"St. Mary's Stadium, Southampton",Southampton,Watford,0,1,2,1,0.62,0.37,6,3,11,6,784,519,548,315,17,18,19,32,6,7,2,4,1,0,0,0,6,10,Michael Oliver
+01/12/2019,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Sheffield United,0,1,1,1,0.59,0.4,3,4,13,10,718,583,517,361,17,19,13,37,7,2,1,3,1,5,0,0,12,18,David Coote
+01/12/2019,19/20,"Old Trafford, Manchester",Manchester United,Aston Villa,1,1,2,2,0.62,0.37,6,3,16,9,714,503,525,309,6,22,15,18,9,9,1,4,4,1,0,0,16,8,Craig Pawson
+01/12/2019,19/20,"King Power Stadium, Leicester",Leicester,Everton,0,1,2,1,0.69,0.3,6,3,16,11,853,503,652,275,19,20,9,32,4,4,1,3,0,1,0,0,7,9,Graham Scott
+01/12/2019,19/20,"Carrow Road, Norwich",Norwich City,Arsenal,2,1,2,2,0.39,0.6,8,7,15,16,573,742,364,541,12,16,35,14,7,12,1,0,2,1,0,0,8,10,Paul Tierney
+03/12/2019,19/20,"Selhurst Park, London",Crystal Palace,Bournemouth,0,0,1,0,0.3,0.69,2,3,7,6,465,769,258,575,16,26,30,18,6,9,1,0,3,3,1,0,6,15,Anthony Taylor
+03/12/2019,19/20,"Turf Moor, Burnley",Burnley,Man City,0,1,1,4,0.24,0.75,2,8,4,17,422,947,250,774,14,8,24,18,3,6,0,2,1,1,0,0,9,6,Jonathan Moss
+04/12/2019,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,West Ham,1,0,2,0,0.49,0.5,7,3,13,6,680,676,479,496,12,23,17,17,5,4,3,3,1,2,0,0,8,9,Andre Marriner
+04/12/2019,19/20,"St. Mary's Stadium, Southampton",Southampton,Norwich City,2,0,2,1,0.4,0.59,5,3,14,10,582,795,366,562,27,12,15,30,6,1,3,1,1,1,0,0,12,7,Kevin Friend
+04/12/2019,19/20,"Old Trafford, Manchester",Manchester United,Tottenham,1,1,2,1,0.46,0.53,7,5,12,8,638,712,441,497,20,18,15,19,4,3,1,1,0,1,0,0,9,9,Paul Tierney
+04/12/2019,19/20,"King Power Stadium, Leicester",Leicester,Watford,0,0,2,0,0.63,0.37,6,1,12,4,762,526,569,324,11,17,27,30,7,2,3,1,3,2,0,0,13,16,Craig Pawson
+04/12/2019,19/20,"Stamford Bridge, London",Chelsea,Aston Villa,1,1,2,1,0.64,0.35,9,3,25,9,869,597,649,349,13,22,15,30,9,5,0,1,2,1,0,0,18,10,Chris Kavanagh
+04/12/2019,19/20,"Anfield, Liverpool",Liverpool,Everton,4,2,5,2,0.58,0.41,5,4,11,12,704,542,501,339,15,19,25,15,5,6,3,3,1,2,0,0,13,17,Mike Dean
+05/12/2019,19/20,"Bramall Lane, Sheffield",Sheffield United,Newcastle United,0,1,0,2,0.73,0.26,6,4,13,6,881,449,675,253,18,14,13,41,8,1,3,2,2,0,0,0,10,6,Stuart Attwell
+05/12/2019,19/20,"Emirates Stadium, London",Arsenal,Brighton,0,1,1,2,0.49,0.5,5,9,12,20,606,596,389,413,19,11,13,24,9,9,7,0,3,1,0,0,10,11,Graham Scott
+07/12/2019,19/20,"Goodison Park, Liverpool",Everton,Chelsea,1,0,3,1,0.3,0.7,7,4,13,15,470,843,255,594,36,14,25,23,1,5,2,3,3,0,0,0,14,9,Craig Pawson
+07/12/2019,19/20,"Vicarage Road, Watford",Watford,Crystal Palace,0,0,0,0,0.5,0.49,3,0,13,3,580,591,384,391,14,14,15,26,6,2,1,1,4,2,0,0,15,16,Martin Atkinson
+07/12/2019,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Burnley,3,0,5,0,0.49,0.51,7,1,13,7,661,671,476,479,19,15,23,10,1,1,1,2,1,1,0,0,12,8,Kevin Friend
+07/12/2019,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Liverpool,0,2,0,3,0.26,0.73,0,9,3,21,467,1017,305,852,12,10,35,5,1,3,5,1,0,1,0,0,5,6,Chris Kavanagh
+07/12/2019,19/20,"Etihad Stadium, Manchester",Man City,Manchester United,0,2,1,2,0.71,0.28,5,7,22,11,885,475,658,265,14,19,9,39,16,3,1,0,3,2,0,0,10,10,Anthony Taylor
+08/12/2019,19/20,"Carrow Road, Norwich",Norwich City,Sheffield United,1,0,1,2,0.58,0.41,4,3,14,9,786,625,579,418,17,17,15,23,9,1,1,2,0,4,0,1,6,12,Simon Hooper
+08/12/2019,19/20,"St. James' Park, Newcastle",Newcastle United,Southampton,0,0,2,1,0.45,0.54,6,4,12,19,581,630,344,410,16,24,25,17,3,12,0,1,1,3,0,0,11,17,David Coote
+08/12/2019,19/20,"Villa Park, Birmingham",Aston Villa,Leicester,1,2,1,4,0.4,0.59,2,8,15,23,518,693,306,478,14,17,22,30,8,5,0,1,6,2,0,0,21,15,Michael Oliver
+08/12/2019,19/20,"Amex Stadium, Falmer",Brighton,Wolverhampton Wanderers,2,2,2,2,0.62,0.38,5,6,13,13,743,521,581,356,13,9,11,11,3,4,1,3,3,0,0,0,10,7,Jonathan Moss
+09/12/2019,19/20,"London Stadium, London",West Ham,Arsenal,1,0,1,3,0.35,0.64,4,3,11,10,541,864,365,675,27,12,10,16,4,3,1,0,2,0,0,0,12,6,Mike Dean
+14/12/2019,19/20,"Anfield, Liverpool",Liverpool,Watford,1,0,2,0,0.67,0.32,6,2,16,8,847,514,649,309,14,21,14,35,6,3,5,4,2,1,0,0,8,6,Andre Marriner
+14/12/2019,19/20,"Bramall Lane, Sheffield",Sheffield United,Aston Villa,0,0,2,0,0.56,0.43,3,0,7,8,697,596,512,396,12,11,16,43,3,2,3,0,2,2,0,0,10,9,Peter Bankes
+14/12/2019,19/20,"King Power Stadium, Leicester",Leicester,Norwich City,1,1,1,1,0.56,0.43,5,3,18,10,746,606,513,397,21,17,15,24,12,4,0,1,0,5,0,0,11,15,Andy Madley
+14/12/2019,19/20,"Stamford Bridge, London",Chelsea,Bournemouth,0,0,0,1,0.67,0.33,5,2,18,11,813,530,590,293,15,7,26,47,9,4,3,1,1,2,0,0,9,14,Graham Scott
+14/12/2019,19/20,"St. Mary's Stadium, Southampton",Southampton,West Ham,0,1,0,1,0.57,0.43,2,4,11,11,701,561,474,359,15,17,24,29,5,8,4,2,1,3,0,0,9,14,Martin Atkinson
+14/12/2019,19/20,"Turf Moor, Burnley",Burnley,Newcastle United,0,0,1,0,0.48,0.52,4,0,7,9,560,575,369,397,14,17,28,15,4,3,3,1,0,2,0,0,15,12,Tim Robinson
+15/12/2019,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Tottenham,0,1,1,2,0.57,0.42,5,5,19,9,699,592,494,375,18,18,9,40,11,2,0,1,4,4,0,0,14,10,Stuart Attwell
+15/12/2019,19/20,"Old Trafford, Manchester",Manchester United,Everton,0,1,1,1,0.66,0.33,8,3,24,8,759,470,529,264,14,21,18,30,6,5,2,3,1,2,0,0,10,12,Michael Oliver
+15/12/2019,19/20,"Emirates Stadium, London",Arsenal,Man City,0,3,0,3,0.42,0.57,1,7,6,14,674,847,482,672,16,21,10,20,3,3,2,1,1,4,0,0,9,24,Paul Tierney
+16/12/2019,19/20,"Selhurst Park, London",Crystal Palace,Brighton,0,0,1,1,0.34,0.65,4,10,11,15,535,801,315,593,14,16,32,13,3,7,0,1,1,1,0,0,7,12,Craig Pawson
+21/12/2019,19/20,"Goodison Park, Liverpool",Everton,Arsenal,0,0,0,0,0.43,0.57,0,2,9,6,548,678,353,484,15,14,13,24,5,4,0,1,2,3,0,0,10,11,Kevin Friend
+21/12/2019,19/20,"Carrow Road, Norwich",Norwich City,Wolverhampton Wanderers,1,0,1,2,0.5,0.49,7,4,13,14,642,618,455,440,15,13,18,12,3,11,3,2,2,4,0,0,7,14,Peter Bankes
+21/12/2019,19/20,"St. James' Park, Newcastle",Newcastle United,Crystal Palace,0,0,1,0,0.42,0.57,3,4,8,16,552,702,365,503,25,18,16,14,4,5,2,0,2,0,0,0,12,11,Simon Hooper
+21/12/2019,19/20,"Amex Stadium, Falmer",Brighton,Sheffield United,0,1,0,1,0.69,0.31,2,2,9,7,832,456,648,293,9,22,6,23,4,3,2,3,1,3,0,0,6,11,Robert Jones
+21/12/2019,19/20,"Villa Park, Birmingham",Aston Villa,Southampton,0,2,1,3,0.56,0.43,6,8,19,17,667,543,432,341,9,16,21,24,7,5,2,3,2,1,0,0,16,15,Craig Pawson
+21/12/2019,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Burnley,0,0,0,1,0.64,0.35,0,1,3,2,635,410,437,230,15,13,31,27,4,5,2,0,2,4,0,0,13,21,Martin Atkinson
+21/12/2019,19/20,"Etihad Stadium, Manchester",Man City,Leicester,2,1,3,1,0.62,0.37,12,2,23,5,859,585,690,409,19,14,3,16,6,0,1,3,2,2,0,0,14,9,Mike Dean
+22/12/2019,19/20,"Vicarage Road, Watford",Watford,Manchester United,0,0,2,0,0.36,0.63,3,8,11,17,511,767,313,562,19,18,15,22,3,5,5,4,3,1,0,0,16,11,Lee Mason
+22/12/2019,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Chelsea,0,2,0,2,0.44,0.55,1,3,5,13,651,768,455,571,19,16,20,15,3,5,0,2,4,3,1,0,9,11,Anthony Taylor
+26/12/2019,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Brighton,0,1,2,1,0.53,0.46,5,5,11,11,692,640,494,416,19,23,19,28,9,2,5,0,4,2,0,0,10,9,Graham Scott
+26/12/2019,19/20,"Bramall Lane, Sheffield",Sheffield United,Watford,1,1,1,1,0.58,0.41,4,2,16,5,713,583,517,386,18,7,10,27,9,1,4,1,0,3,0,0,11,8,David Coote
+26/12/2019,19/20,"Goodison Park, Liverpool",Everton,Burnley,0,0,1,0,0.67,0.32,5,0,21,6,717,418,521,255,5,20,14,25,10,2,0,1,0,0,0,0,15,14,Anthony Taylor
+26/12/2019,19/20,"Selhurst Park, London",Crystal Palace,West Ham,0,0,2,1,0.58,0.41,4,2,13,10,787,608,557,390,16,30,16,27,7,6,1,2,0,2,0,0,5,10,Andre Marriner
+26/12/2019,19/20,"Villa Park, Birmingham",Aston Villa,Norwich City,0,0,1,0,0.42,0.57,2,6,11,16,553,704,363,508,19,7,20,29,5,8,1,0,2,3,0,0,15,12,Chris Kavanagh
+26/12/2019,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Arsenal,1,0,1,1,0.39,0.6,4,2,12,17,580,796,383,599,16,10,24,19,8,3,1,0,4,4,0,0,5,13,Stuart Attwell
+26/12/2019,19/20,"Old Trafford, Manchester",Manchester United,Newcastle United,3,1,4,1,0.73,0.26,10,2,22,7,986,471,815,295,17,20,2,22,5,0,1,1,2,2,0,0,10,7,Kevin Friend
+26/12/2019,19/20,"King Power Stadium, Leicester",Leicester,Liverpool,0,1,0,4,0.41,0.58,0,6,3,15,618,788,421,590,16,10,36,15,2,8,6,3,1,1,0,0,5,7,Michael Oliver
+26/12/2019,19/20,"Stamford Bridge, London",Chelsea,Southampton,0,1,0,2,0.66,0.33,3,3,10,5,937,595,688,362,21,32,7,31,8,1,1,2,3,2,0,0,10,9,Jonathan Moss
+27/12/2019,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Man City,0,1,3,2,0.61,0.38,8,3,21,7,759,530,564,358,13,16,2,32,3,1,0,1,0,1,0,1,7,13,Martin Atkinson
+28/12/2019,19/20,"Amex Stadium, Falmer",Brighton,Bournemouth,1,0,2,0,0.55,0.44,6,2,16,10,706,600,496,413,23,18,12,30,9,2,3,0,0,2,0,0,9,11,Paul Tierney
+28/12/2019,19/20,"Vicarage Road, Watford",Watford,Aston Villa,1,0,3,0,0.48,0.51,6,2,20,11,600,631,417,433,14,11,23,23,6,3,1,3,3,1,1,0,16,9,Simon Hooper
+28/12/2019,19/20,"St. Mary's Stadium, Southampton",Southampton,Crystal Palace,0,0,1,1,0.59,0.4,5,2,14,5,682,543,471,334,20,16,11,32,12,4,2,2,1,2,0,0,13,7,Andy Madley
+28/12/2019,19/20,"St. James' Park, Newcastle",Newcastle United,Everton,0,1,1,2,0.42,0.57,5,9,20,22,535,659,317,435,14,15,25,32,5,8,3,2,2,2,0,0,13,13,Lee Mason
+28/12/2019,19/20,"London Stadium, London",West Ham,Leicester,1,1,1,2,0.42,0.57,4,8,14,13,591,751,383,523,24,11,17,10,5,5,2,3,4,1,0,0,16,4,David Coote
+28/12/2019,19/20,"Carrow Road, Norwich",Norwich City,Tottenham,1,0,2,2,0.41,0.58,2,7,5,15,597,768,394,554,22,22,26,11,4,6,3,3,3,3,0,0,12,10,Kevin Friend
+28/12/2019,19/20,"Turf Moor, Burnley",Burnley,Manchester United,0,1,0,2,0.38,0.61,1,5,8,14,455,675,295,501,13,6,12,20,5,4,5,2,4,3,0,0,17,10,Mike Dean
+29/12/2019,19/20,"Emirates Stadium, London",Arsenal,Chelsea,1,0,1,2,0.42,0.57,2,4,7,13,615,771,427,577,16,17,20,10,2,3,2,1,5,4,0,0,13,19,Craig Pawson
+29/12/2019,19/20,"Anfield, Liverpool",Liverpool,Wolverhampton Wanderers,1,0,1,0,0.62,0.37,3,2,10,10,808,559,607,352,19,23,15,20,5,6,2,5,1,0,0,0,7,3,Anthony Taylor
+29/12/2019,19/20,"Etihad Stadium, Manchester",Man City,Sheffield United,0,0,2,0,0.72,0.27,4,0,16,8,1021,477,871,314,10,16,12,23,8,5,1,5,1,1,0,0,5,6,Chris Kavanagh
+01/01/2020,19/20,"Turf Moor, Burnley",Burnley,Aston Villa,0,2,1,2,0.61,0.38,1,6,20,11,699,500,506,327,7,13,12,31,8,4,2,1,1,1,0,0,12,10,Michael Oliver
+01/01/2020,19/20,"Amex Stadium, Falmer",Brighton,Chelsea,0,1,1,1,0.47,0.52,5,5,16,16,714,755,484,537,20,25,13,26,5,3,0,3,2,3,0,0,8,15,Stuart Attwell
+01/01/2020,19/20,"Vicarage Road, Watford",Watford,Wolverhampton Wanderers,1,0,2,1,0.36,0.63,3,4,9,16,519,773,343,578,13,23,34,7,4,7,1,0,3,1,1,0,12,6,Andy Madley
+01/01/2020,19/20,"St. James' Park, Newcastle",Newcastle United,Leicester,0,2,0,3,0.23,0.76,2,10,5,17,431,1022,244,833,15,17,20,14,4,5,0,3,1,1,0,0,8,12,Martin Atkinson
+01/01/2020,19/20,"London Stadium, London",West Ham,Bournemouth,3,0,4,0,0.42,0.57,7,2,14,3,639,808,444,618,23,20,14,21,9,2,1,3,1,2,1,0,3,12,Graham Scott
+01/01/2020,19/20,"Carrow Road, Norwich",Norwich City,Crystal Palace,1,0,1,1,0.4,0.59,4,3,15,12,604,744,362,521,30,16,32,8,2,5,2,1,5,0,0,0,12,9,Jonathan Moss
+01/01/2020,19/20,"Etihad Stadium, Manchester",Man City,Everton,0,0,2,1,0.65,0.34,7,2,16,7,943,555,777,401,10,14,13,11,3,6,3,1,0,4,0,0,11,11,Andre Marriner
+01/01/2020,19/20,"Emirates Stadium, London",Arsenal,Manchester United,2,0,2,0,0.48,0.51,4,4,10,10,715,729,513,542,19,12,18,7,1,4,0,0,2,0,0,0,11,15,Chris Kavanagh
+01/01/2020,19/20,"St. Mary's Stadium, Southampton",Southampton,Tottenham,1,0,1,0,0.4,0.59,3,5,12,11,583,741,343,499,22,23,37,24,6,9,1,3,3,4,0,0,21,8,Mike Dean
+02/01/2020,19/20,"Anfield, Liverpool",Liverpool,Sheffield United,1,0,2,0,0.74,0.25,7,2,19,3,1109,470,969,327,6,14,9,29,8,4,1,3,0,0,0,0,5,8,Paul Tierney
+10/01/2020,19/20,"Bramall Lane, Sheffield",Sheffield United,West Ham,0,0,1,0,0.46,0.53,3,2,13,7,612,713,437,504,19,16,11,18,7,3,3,1,1,0,0,0,11,6,Michael Oliver
+11/01/2020,19/20,"Selhurst Park, London",Crystal Palace,Arsenal,0,1,1,1,0.42,0.57,3,4,6,7,567,691,362,487,25,17,11,19,1,4,3,1,2,3,0,1,14,22,Paul Tierney
+11/01/2020,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Newcastle United,1,1,1,1,0.65,0.34,4,1,9,5,779,496,593,311,16,15,8,37,5,2,0,1,0,3,0,0,13,12,Peter Bankes
+11/01/2020,19/20,"Old Trafford, Manchester",Manchester United,Norwich City,1,0,4,0,0.59,0.4,6,3,13,8,847,652,646,440,21,22,8,20,4,2,2,0,0,0,0,0,18,7,Anthony Taylor
+11/01/2020,19/20,"King Power Stadium, Leicester",Leicester,Southampton,1,1,1,2,0.58,0.41,5,10,5,16,686,533,455,318,20,23,21,10,2,4,3,2,0,3,0,0,9,17,Lee Mason
+11/01/2020,19/20,"Goodison Park, Liverpool",Everton,Brighton,1,0,1,0,0.53,0.46,6,2,14,9,705,646,491,426,21,13,22,27,4,3,2,2,2,1,0,0,7,7,David Coote
+11/01/2020,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Liverpool,0,1,0,1,0.33,0.66,4,7,14,13,591,961,381,786,13,20,38,9,4,3,2,2,0,2,0,0,4,8,Martin Atkinson
+11/01/2020,19/20,"Stamford Bridge, London",Chelsea,Burnley,2,0,3,0,0.65,0.34,8,3,18,7,754,473,568,300,13,13,9,22,10,3,6,6,0,3,0,0,7,4,Kevin Friend
+12/01/2020,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Watford,0,1,0,3,0.56,0.43,1,6,10,18,742,609,536,411,8,27,15,36,5,5,0,5,1,1,0,0,3,13,Mike Dean
+12/01/2020,19/20,"Villa Park, Birmingham",Aston Villa,Man City,0,4,1,6,0.29,0.7,1,12,7,22,538,1037,362,877,15,16,20,5,2,4,1,0,2,1,0,0,5,12,Jonathan Moss
+18/01/2020,19/20,"Vicarage Road, Watford",Watford,Tottenham,0,0,0,0,0.41,0.58,2,5,15,16,551,741,342,504,25,17,11,41,3,3,2,3,2,3,0,0,13,13,Michael Oliver
+18/01/2020,19/20,"London Stadium, London",West Ham,Everton,1,1,1,1,0.48,0.51,6,3,12,11,645,659,435,459,16,20,17,19,7,6,3,1,1,0,0,0,11,13,Andre Marriner
+18/01/2020,19/20,"St. Mary's Stadium, Southampton",Southampton,Wolverhampton Wanderers,2,0,2,3,0.52,0.47,5,4,11,8,607,563,402,371,14,13,16,18,1,3,2,2,2,1,0,0,13,12,Darren England
+18/01/2020,19/20,"Carrow Road, Norwich",Norwich City,Bournemouth,1,0,1,0,0.66,0.34,5,3,16,6,820,493,635,316,13,19,11,21,4,5,0,3,2,2,1,1,10,10,Paul Tierney
+18/01/2020,19/20,"Etihad Stadium, Manchester",Man City,Crystal Palace,0,1,2,2,0.72,0.27,6,3,25,5,898,458,666,270,13,18,3,44,14,2,0,1,1,2,0,0,9,7,Graham Scott
+18/01/2020,19/20,"Amex Stadium, Falmer",Brighton,Aston Villa,1,0,1,1,0.55,0.44,2,3,10,8,729,618,500,397,20,20,12,19,3,4,2,4,3,3,0,0,11,13,Andy Madley
+18/01/2020,19/20,"Emirates Stadium, London",Arsenal,Sheffield United,1,0,1,1,0.61,0.39,4,4,11,12,758,534,567,353,13,20,16,17,4,5,3,0,1,2,0,0,9,13,Mike Dean
+18/01/2020,19/20,"St. James' Park, Newcastle",Newcastle United,Chelsea,0,0,1,0,0.3,0.69,2,4,7,19,507,854,286,655,13,15,40,9,1,10,1,2,1,1,0,0,9,14,Chris Kavanagh
+19/01/2020,19/20,"Turf Moor, Burnley",Burnley,Leicester,0,1,2,1,0.44,0.55,5,8,8,18,611,702,386,492,16,23,18,26,4,5,1,0,1,0,0,0,14,8,Anthony Taylor
+19/01/2020,19/20,"Anfield, Liverpool",Liverpool,Manchester United,1,0,2,0,0.53,0.46,5,4,16,9,717,659,509,455,22,16,13,34,11,5,2,3,1,3,0,0,7,10,Craig Pawson
+21/01/2020,19/20,"Bramall Lane, Sheffield",Sheffield United,Man City,0,0,0,1,0.32,0.67,1,5,4,18,463,795,286,600,13,8,23,24,5,13,4,1,4,3,0,0,13,13,Lee Mason
+21/01/2020,19/20,"Goodison Park, Liverpool",Everton,Newcastle United,1,0,2,2,0.54,0.45,8,3,17,9,769,659,562,462,15,9,16,27,6,4,1,0,1,1,0,0,13,10,Simon Hooper
+21/01/2020,19/20,"Selhurst Park, London",Crystal Palace,Southampton,0,1,0,2,0.44,0.55,0,6,6,15,597,681,365,451,20,22,18,16,0,8,2,1,1,2,0,0,12,13,Andre Marriner
+21/01/2020,19/20,"Villa Park, Birmingham",Aston Villa,Watford,0,1,2,1,0.64,0.35,5,2,16,8,790,522,558,314,9,21,14,33,6,3,0,3,2,2,0,0,11,18,Martin Atkinson
+21/01/2020,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Brighton,2,0,3,1,0.34,0.65,3,8,11,21,495,785,303,567,10,16,20,14,5,8,2,1,1,1,0,0,9,12,Kevin Friend
+21/01/2020,19/20,"Stamford Bridge, London",Chelsea,Arsenal,1,0,2,2,0.58,0.41,8,2,19,2,751,579,546,385,18,21,18,31,17,5,2,1,2,1,0,1,11,6,Stuart Attwell
+22/01/2020,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Norwich City,1,0,2,1,0.5,0.49,3,2,14,13,680,683,479,475,11,24,14,19,7,3,1,0,0,1,0,0,12,7,Chris Kavanagh
+22/01/2020,19/20,"King Power Stadium, Leicester",Leicester,West Ham,2,0,4,1,0.67,0.32,8,2,19,6,771,456,569,273,17,9,10,24,7,8,2,1,1,1,0,0,10,19,David Coote
+22/01/2020,19/20,"Old Trafford, Manchester",Manchester United,Burnley,0,1,0,2,0.72,0.27,7,2,24,5,880,441,692,261,10,13,13,29,5,2,2,2,0,2,0,0,11,7,Jonathan Moss
+23/01/2020,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Liverpool,0,1,1,2,0.46,0.53,3,6,10,13,678,755,505,594,11,11,7,20,2,4,2,0,0,1,0,0,6,11,Michael Oliver
+29/01/2020,19/20,"London Stadium, London",West Ham,Liverpool,0,1,0,2,0.29,0.7,4,5,7,13,519,1007,331,828,17,17,19,12,3,7,1,0,2,0,0,0,6,6,Jonathan Moss
+01/02/2020,19/20,"King Power Stadium, Leicester",Leicester,Chelsea,0,0,2,2,0.49,0.5,4,3,14,7,671,698,478,485,25,15,18,18,4,6,1,1,2,2,0,0,16,14,Lee Mason
+01/02/2020,19/20,"London Stadium, London",West Ham,Brighton,2,0,3,3,0.35,0.64,6,6,12,19,524,799,321,607,23,19,20,13,4,6,2,1,1,1,0,0,8,9,Michael Oliver
+01/02/2020,19/20,"Vicarage Road, Watford",Watford,Everton,2,2,2,3,0.44,0.55,2,5,11,12,549,636,364,441,15,22,20,21,4,4,0,2,2,2,0,1,17,14,Craig Pawson
+01/02/2020,19/20,"St. James' Park, Newcastle",Newcastle United,Norwich City,0,0,0,0,0.43,0.56,5,4,15,19,579,687,365,485,15,10,37,22,8,12,3,0,2,1,0,0,10,15,Martin Atkinson
+01/02/2020,19/20,"Anfield, Liverpool",Liverpool,Southampton,0,0,4,0,0.61,0.38,9,4,16,17,728,539,530,321,14,18,23,26,6,11,2,5,0,2,0,0,9,15,Kevin Friend
+01/02/2020,19/20,"Selhurst Park, London",Crystal Palace,Sheffield United,0,0,0,1,0.6,0.39,3,3,13,10,721,533,515,337,14,20,12,28,9,5,1,0,3,2,1,0,9,15,Andy Madley
+01/02/2020,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Aston Villa,2,0,2,1,0.39,0.6,6,5,16,18,524,660,303,456,12,5,36,13,1,8,1,3,1,3,1,0,10,15,Anthony Taylor
+01/02/2020,19/20,"Old Trafford, Manchester",Manchester United,Wolverhampton Wanderers,0,0,0,0,0.63,0.36,5,4,16,15,851,575,633,354,19,28,12,21,4,6,0,1,3,2,0,0,14,15,Paul Tierney
+02/02/2020,19/20,"Turf Moor, Burnley",Burnley,Arsenal,0,0,0,0,0.42,0.57,2,2,15,13,533,658,324,462,20,17,21,23,5,7,4,1,1,3,0,0,8,11,Chris Kavanagh
+02/02/2020,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Man City,0,0,2,0,0.33,0.66,3,6,3,19,531,868,347,692,21,15,29,13,2,6,2,0,2,3,0,1,8,14,Mike Dean
+08/02/2020,19/20,"Goodison Park, Liverpool",Everton,Crystal Palace,1,0,3,1,0.46,0.53,8,2,14,10,594,642,358,420,20,15,22,20,4,6,1,2,0,1,0,0,11,12,David Coote
+08/02/2020,19/20,"Amex Stadium, Falmer",Brighton,Watford,0,1,1,1,0.67,0.32,2,2,10,5,797,491,603,301,13,25,8,28,3,2,2,2,2,2,0,0,9,12,Kevin Friend
+09/02/2020,19/20,"Bramall Lane, Sheffield",Sheffield United,Bournemouth,1,1,2,1,0.54,0.45,6,2,16,10,666,613,449,391,17,10,20,47,8,4,0,1,2,3,0,0,10,8,Jonathan Moss
+14/02/2020,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Leicester,0,0,0,0,0.4,0.59,3,3,15,9,557,698,328,493,18,21,15,17,7,0,2,0,2,2,0,1,13,10,Mike Dean
+15/02/2020,19/20,"St. Mary's Stadium, Southampton",Southampton,Burnley,1,1,1,2,0.63,0.36,2,6,10,9,731,509,518,297,11,18,10,30,4,3,1,3,2,2,0,0,8,11,Simon Hooper
+15/02/2020,19/20,"Carrow Road, Norwich",Norwich City,Liverpool,0,0,0,1,0.36,0.63,1,6,5,17,571,801,373,624,17,16,33,7,2,7,1,0,1,2,0,0,5,11,Stuart Attwell
+16/02/2020,19/20,"Villa Park, Birmingham",Aston Villa,Tottenham,1,2,2,3,0.54,0.45,4,10,18,23,690,622,444,386,14,24,18,28,12,7,0,1,2,0,0,0,12,10,Martin Atkinson
+16/02/2020,19/20,"Emirates Stadium, London",Arsenal,Newcastle United,0,0,4,0,0.68,0.31,7,2,15,10,816,463,643,295,12,18,15,20,5,6,1,4,2,0,0,0,15,9,Lee Mason
+17/02/2020,19/20,"Stamford Bridge, London",Chelsea,Manchester United,0,1,0,2,0.61,0.38,1,3,17,9,799,568,606,382,18,12,14,27,9,8,2,0,4,3,0,0,11,11,Anthony Taylor
+19/02/2020,19/20,"Etihad Stadium, Manchester",Man City,West Ham,1,0,2,0,0.77,0.22,7,0,20,3,1070,433,896,254,11,15,12,36,6,1,1,3,0,1,0,0,5,7,Kevin Friend
+22/02/2020,19/20,"Stamford Bridge, London",Chelsea,Tottenham,1,0,2,1,0.49,0.5,7,3,17,5,772,794,551,572,26,24,13,15,3,5,1,0,1,2,0,0,14,14,Michael Oliver
+22/02/2020,19/20,"St. Mary's Stadium, Southampton",Southampton,Aston Villa,1,0,2,0,0.45,0.54,9,1,28,4,552,607,341,398,17,13,15,25,9,6,0,2,1,4,0,0,13,17,Craig Pawson
+22/02/2020,19/20,"Bramall Lane, Sheffield",Sheffield United,Brighton,1,1,1,1,0.66,0.33,3,2,13,9,782,523,532,285,15,15,7,56,12,2,3,2,0,2,0,0,5,6,Graham Scott
+22/02/2020,19/20,"Selhurst Park, London",Crystal Palace,Newcastle United,1,0,1,0,0.44,0.55,9,2,18,8,585,655,356,447,22,16,15,15,7,5,0,3,2,6,0,1,15,11,Peter Bankes
+22/02/2020,19/20,"King Power Stadium, Leicester",Leicester,Man City,0,0,0,1,0.31,0.68,3,7,10,18,515,871,311,677,14,15,21,14,3,7,1,1,0,0,0,0,14,10,Paul Tierney
+22/02/2020,19/20,"Turf Moor, Burnley",Burnley,Bournemouth,0,0,3,0,0.42,0.57,10,4,16,12,503,639,306,430,22,12,18,33,7,3,1,1,4,3,0,0,9,9,Mike Dean
+23/02/2020,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Norwich City,2,0,3,0,0.39,0.6,6,4,19,6,592,779,378,588,32,16,12,10,4,1,1,0,2,3,0,0,11,6,Chris Kavanagh
+23/02/2020,19/20,"Old Trafford, Manchester",Manchester United,Watford,1,0,3,0,0.58,0.42,9,2,21,7,789,601,597,420,21,16,15,6,3,5,1,1,0,1,0,0,6,15,Martin Atkinson
+23/02/2020,19/20,"Emirates Stadium, London",Arsenal,Everton,2,2,3,2,0.51,0.48,4,5,9,17,666,632,491,455,13,21,16,8,6,3,2,2,0,4,0,0,12,12,Stuart Attwell
+24/02/2020,19/20,"Anfield, Liverpool",Liverpool,West Ham,1,1,3,2,0.69,0.3,7,4,25,7,861,495,626,269,23,19,19,43,16,8,2,2,0,3,0,0,4,10,Jonathan Moss
+28/02/2020,19/20,"Carrow Road, Norwich",Norwich City,Leicester,0,0,1,0,0.42,0.57,6,4,11,19,560,667,344,468,22,15,23,10,6,7,2,0,1,2,0,0,13,16,Craig Pawson
+29/02/2020,19/20,"Amex Stadium, Falmer",Brighton,Crystal Palace,0,0,0,1,0.66,0.33,8,3,23,12,778,506,538,273,26,23,15,32,8,7,1,3,2,1,0,0,8,9,Martin Atkinson
+29/02/2020,19/20,"London Stadium, London",West Ham,Southampton,2,1,3,1,0.33,0.66,7,2,14,10,481,737,257,521,16,17,35,20,4,9,0,1,1,1,0,0,8,11,Anthony Taylor
+29/02/2020,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Chelsea,0,1,2,2,0.26,0.73,5,6,9,23,515,1022,301,808,8,18,49,19,4,14,1,2,2,2,0,0,8,5,Andre Marriner
+29/02/2020,19/20,"Vicarage Road, Watford",Watford,Liverpool,0,0,3,0,0.29,0.7,5,1,14,7,485,893,299,732,13,8,41,13,3,5,5,1,0,0,0,0,4,8,Michael Oliver
+29/02/2020,19/20,"St. James' Park, Newcastle",Newcastle United,Burnley,0,0,0,0,0.54,0.46,4,0,21,7,576,533,376,323,19,14,18,20,11,7,2,2,4,3,0,0,11,9,Andy Madley
+01/03/2020,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Wolverhampton Wanderers,2,1,2,3,0.65,0.34,5,4,13,14,824,535,621,322,22,25,19,28,4,5,0,0,3,2,0,0,12,14,Stuart Attwell
+01/03/2020,19/20,"Goodison Park, Liverpool",Everton,Manchester United,1,1,1,1,0.44,0.55,5,5,16,14,551,640,327,431,14,16,19,27,13,8,3,1,3,4,0,0,11,11,Chris Kavanagh
+07/03/2020,19/20,"Anfield, Liverpool",Liverpool,Bournemouth,2,1,2,1,0.74,0.25,6,4,14,6,917,419,729,246,7,9,20,43,9,4,1,5,0,1,0,0,10,12,Paul Tierney
+07/03/2020,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Brighton,0,0,0,0,0.43,0.56,1,1,11,7,668,821,458,606,22,23,14,21,2,0,0,0,1,3,0,0,4,7,Andre Marriner
+07/03/2020,19/20,"St. Mary's Stadium, Southampton",Southampton,Newcastle United,0,0,0,1,0.38,0.62,3,7,6,14,502,696,298,500,19,15,18,18,5,8,0,2,0,3,1,0,14,15,Graham Scott
+07/03/2020,19/20,"Bramall Lane, Sheffield",Sheffield United,Norwich City,1,0,1,0,0.41,0.58,4,5,10,12,576,736,359,519,14,18,31,27,10,5,1,3,0,0,0,0,12,8,Simon Hooper
+07/03/2020,19/20,"Selhurst Park, London",Crystal Palace,Watford,1,0,1,0,0.44,0.55,3,3,10,10,604,665,371,464,21,22,33,18,8,8,2,1,4,4,0,0,12,16,Anthony Taylor
+07/03/2020,19/20,"Emirates Stadium, London",Arsenal,West Ham,0,0,1,0,0.68,0.31,2,6,9,14,799,448,621,264,13,11,28,18,6,7,2,2,1,2,0,0,11,9,Martin Atkinson
+07/03/2020,19/20,"Turf Moor, Burnley",Burnley,Tottenham,1,0,1,1,0.45,0.55,8,2,21,13,623,692,378,479,24,14,21,36,3,5,2,0,5,4,0,0,16,11,Jonathan Moss
+08/03/2020,19/20,"Stamford Bridge, London",Chelsea,Everton,2,0,4,0,0.6,0.39,11,1,17,3,823,571,646,415,13,15,12,11,6,1,0,1,1,2,0,0,8,10,Kevin Friend
+08/03/2020,19/20,"Old Trafford, Manchester",Manchester United,Man City,1,0,2,0,0.27,0.72,6,4,12,7,488,948,294,761,19,15,33,8,2,11,1,2,2,4,0,0,11,9,Mike Dean
+09/03/2020,19/20,"King Power Stadium, Leicester",Leicester,Aston Villa,1,0,4,0,0.64,0.35,7,1,15,4,757,510,543,301,24,23,12,22,9,0,3,2,2,1,0,0,15,12,Michael Oliver
+17/06/2020,19/20,"Villa Park, Birmingham",Aston Villa,Sheffield United,0,0,0,0,0.45,0.54,6,1,14,5,575,648,382,483,8,18,17,17,12,4,1,0,1,1,0,0,11,14,Michael Oliver
+17/06/2020,19/20,"Etihad Stadium, Manchester",Man City,Arsenal,1,0,3,0,0.67,0.32,12,0,20,3,834,466,692,333,7,15,6,11,5,2,1,5,1,1,0,1,9,7,Anthony Taylor
+19/06/2020,19/20,"Carrow Road, Norwich",Norwich City,Southampton,0,0,0,3,0.55,0.45,1,9,9,22,616,552,406,333,19,24,15,16,9,7,3,1,1,1,0,0,9,15,Kevin Friend
+19/06/2020,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Manchester United,1,0,1,1,0.38,0.61,3,6,10,12,566,791,365,586,14,16,30,18,7,6,1,3,0,1,0,0,17,18,Jonathan Moss
+20/06/2020,19/20,"Vicarage Road, Watford",Watford,Leicester,0,0,1,1,0.31,0.68,4,2,8,15,459,760,254,555,13,27,22,25,2,7,0,3,0,1,0,0,15,12,Craig Pawson
+20/06/2020,19/20,"Amex Stadium, Falmer",Brighton,Arsenal,0,0,2,1,0.41,0.58,5,6,9,13,495,665,325,476,22,8,23,25,10,7,0,4,2,1,0,0,13,8,Martin Atkinson
+20/06/2020,19/20,"London Stadium, London",West Ham,Wolverhampton Wanderers,0,0,0,2,0.42,0.57,2,6,7,10,536,695,357,506,15,18,16,18,5,7,0,1,1,1,0,0,8,7,Anthony Taylor
+20/06/2020,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Crystal Palace,0,2,0,2,0.58,0.41,1,2,12,7,680,541,494,350,18,26,8,20,11,4,2,3,3,2,0,0,13,15,Stuart Attwell
+21/06/2020,19/20,"St. James' Park, Newcastle",Newcastle United,Sheffield United,0,0,3,0,0.46,0.54,8,1,12,7,603,664,442,509,11,16,12,12,2,4,3,1,2,0,0,1,9,10,David Coote
+21/06/2020,19/20,"Villa Park, Birmingham",Aston Villa,Chelsea,1,0,1,2,0.26,0.74,4,5,8,19,412,859,246,692,8,7,31,11,2,10,0,0,2,1,0,0,9,17,Paul Tierney
+21/06/2020,19/20,"Goodison Park, Liverpool",Everton,Liverpool,0,0,0,0,0.29,0.7,3,3,8,10,426,767,256,594,20,16,26,3,1,6,2,1,2,2,0,0,15,12,Mike Dean
+22/06/2020,19/20,"Etihad Stadium, Manchester",Man City,Burnley,3,0,5,0,0.71,0.28,7,0,19,1,938,434,816,322,12,11,8,12,3,1,1,2,1,1,0,0,8,7,Andre Marriner
+23/06/2020,19/20,"King Power Stadium, Leicester",Leicester,Brighton,0,0,0,0,0.66,0.33,2,2,11,10,783,487,588,294,16,21,20,25,6,7,0,0,2,2,0,0,10,13,Lee Mason
+23/06/2020,19/20,"Tottenham Hotspur Stadium, London",Tottenham,West Ham,0,0,2,0,0.64,0.35,4,2,15,10,826,533,662,361,9,21,10,24,9,4,3,2,2,2,0,0,12,7,Craig Pawson
+24/06/2020,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Bournemouth,0,0,1,0,0.55,0.44,2,0,10,4,613,519,425,347,14,17,24,15,6,4,2,2,3,3,0,0,11,11,Michael Oliver
+24/06/2020,19/20,"Carrow Road, Norwich",Norwich City,Everton,0,0,0,1,0.46,0.53,1,5,9,12,629,689,432,495,15,20,24,22,6,5,1,1,0,1,0,0,8,13,Andy Madley
+24/06/2020,19/20,"St. James' Park, Newcastle",Newcastle United,Aston Villa,0,0,1,1,0.52,0.47,3,2,13,14,595,541,416,369,6,5,32,18,6,9,1,0,2,2,0,0,15,13,Chris Kavanagh
+24/06/2020,19/20,"Old Trafford, Manchester",Manchester United,Sheffield United,2,0,3,0,0.68,0.31,6,1,15,4,891,486,748,338,7,15,18,18,10,5,1,2,1,0,0,0,10,6,Anthony Taylor
+24/06/2020,19/20,"Anfield, Liverpool",Liverpool,Crystal Palace,2,0,4,0,0.73,0.26,7,0,21,3,1051,509,886,330,17,20,1,37,6,0,0,1,0,0,0,0,7,5,Martin Atkinson
+25/06/2020,19/20,"St. Mary's Stadium, Southampton",Southampton,Arsenal,0,1,0,2,0.52,0.47,3,5,12,10,608,566,435,398,17,10,8,19,4,6,2,1,0,2,1,0,10,14,Graham Scott
+25/06/2020,19/20,"Turf Moor, Burnley",Burnley,Watford,0,0,1,0,0.55,0.44,5,4,9,10,610,500,424,329,11,16,36,13,1,7,3,0,1,0,0,0,13,15,Mike Dean
+25/06/2020,19/20,"Stamford Bridge, London",Chelsea,Man City,1,0,2,1,0.35,0.64,10,2,15,11,517,875,382,713,13,7,20,8,5,7,3,1,1,1,0,1,13,3,Stuart Attwell
+27/06/2020,19/20,"Villa Park, Birmingham",Aston Villa,Wolverhampton Wanderers,0,0,0,1,0.48,0.52,1,2,11,9,568,601,423,464,8,10,9,9,2,2,0,2,1,1,0,0,16,16,Craig Pawson
+28/06/2020,19/20,"Vicarage Road, Watford",Watford,Southampton,0,1,1,3,0.47,0.52,0,7,8,11,587,663,396,460,13,20,10,28,5,3,1,1,3,0,0,0,18,9,Michael Oliver
+29/06/2020,19/20,"Selhurst Park, London",Crystal Palace,Burnley,0,0,0,1,0.58,0.41,4,4,17,8,678,545,479,354,13,16,13,35,9,1,0,0,1,1,0,0,12,13,Simon Hooper
+30/06/2020,19/20,"Amex Stadium, Falmer",Brighton,Manchester United,0,2,0,3,0.38,0.62,2,6,8,12,529,780,375,629,13,16,13,12,4,5,2,2,0,1,0,0,10,9,Andre Marriner
+01/07/2020,19/20,"Goodison Park, Liverpool",Everton,Leicester,2,0,2,1,0.34,0.65,2,3,7,15,524,796,331,596,20,15,34,9,3,5,0,1,1,1,0,0,13,10,David Coote
+01/07/2020,19/20,"Emirates Stadium, London",Arsenal,Norwich City,2,0,4,0,0.51,0.48,8,2,13,8,626,601,468,445,12,19,11,18,6,2,0,2,1,4,0,0,10,10,Peter Bankes
+01/07/2020,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Newcastle United,0,2,1,4,0.54,0.45,1,7,12,12,662,571,493,420,16,16,7,13,6,3,2,1,2,0,0,0,11,10,Kevin Friend
+01/07/2020,19/20,"London Stadium, London",West Ham,Chelsea,1,1,3,2,0.28,0.71,4,6,10,17,442,845,273,658,16,19,29,9,2,3,2,2,2,1,0,0,10,9,Martin Atkinson
+02/07/2020,19/20,"Bramall Lane, Sheffield",Sheffield United,Tottenham,1,0,3,1,0.32,0.67,5,2,7,9,494,826,312,637,18,14,28,10,1,6,2,1,2,0,0,0,13,13,Chris Kavanagh
+02/07/2020,19/20,"Etihad Stadium, Manchester",Man City,Liverpool,3,0,4,0,0.47,0.53,6,3,14,11,662,709,490,551,10,13,19,8,3,3,3,2,2,2,0,0,8,7,Anthony Taylor
+04/07/2020,19/20,"Carrow Road, Norwich",Norwich City,Brighton,0,1,0,1,0.58,0.42,1,2,12,8,763,594,587,418,14,11,19,17,0,2,4,0,2,2,0,0,11,13,Stuart Attwell
+04/07/2020,19/20,"Old Trafford, Manchester",Manchester United,Bournemouth,3,1,5,2,0.69,0.3,10,3,19,7,812,439,648,283,16,10,9,17,8,3,4,4,0,1,0,0,3,12,Mike Dean
+04/07/2020,19/20,"King Power Stadium, Leicester",Leicester,Crystal Palace,0,0,3,0,0.52,0.47,4,1,15,7,710,656,506,450,29,18,20,4,3,7,1,1,2,1,0,0,18,8,Jonathan Moss
+04/07/2020,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Arsenal,0,1,0,2,0.51,0.48,1,5,10,8,692,651,516,482,13,29,9,25,3,5,1,0,2,4,0,0,6,11,Michael Oliver
+04/07/2020,19/20,"Stamford Bridge, London",Chelsea,Watford,2,0,3,0,0.7,0.29,9,3,21,7,923,480,731,300,13,24,18,21,5,3,1,2,0,2,0,0,9,12,Kevin Friend
+05/07/2020,19/20,"Turf Moor, Burnley",Burnley,Sheffield United,1,0,1,1,0.47,0.52,4,3,9,10,606,625,404,441,9,12,36,17,3,9,2,1,0,0,0,0,8,14,Peter Bankes
+05/07/2020,19/20,"St. James' Park, Newcastle",Newcastle United,West Ham,1,1,2,2,0.57,0.42,4,7,11,17,704,563,516,379,22,18,20,14,6,4,1,1,1,0,0,0,9,11,Craig Pawson
+05/07/2020,19/20,"Anfield, Liverpool",Liverpool,Aston Villa,0,0,2,0,0.71,0.28,4,3,6,9,830,457,672,263,7,8,18,26,7,5,1,5,1,1,0,0,18,8,Paul Tierney
+05/07/2020,19/20,"St. Mary's Stadium, Southampton",Southampton,Man City,1,0,1,0,0.26,0.73,4,6,8,26,519,1022,297,808,20,16,57,12,2,13,3,3,1,2,0,0,6,7,Andre Marriner
+06/07/2020,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Everton,1,0,1,0,0.51,0.48,2,3,12,11,630,587,448,413,13,10,23,22,5,6,2,2,3,2,0,0,14,18,Graham Scott
+07/07/2020,19/20,"Vicarage Road, Watford",Watford,Norwich City,1,1,2,1,0.43,0.56,4,3,9,12,564,705,375,504,21,19,8,30,4,3,0,0,2,4,0,0,11,15,Anthony Taylor
+07/07/2020,19/20,"Selhurst Park, London",Crystal Palace,Chelsea,1,2,2,3,0.42,0.58,4,6,13,14,609,764,381,538,19,21,19,23,7,9,1,0,1,0,0,0,11,10,David Coote
+07/07/2020,19/20,"Emirates Stadium, London",Arsenal,Leicester,1,0,1,1,0.37,0.62,7,5,11,13,518,733,323,558,6,17,13,20,10,1,4,1,1,0,1,0,10,14,Chris Kavanagh
+08/07/2020,19/20,"London Stadium, London",West Ham,Burnley,0,1,0,1,0.53,0.46,5,4,21,8,637,619,427,395,19,17,16,45,10,3,0,5,1,1,0,0,7,7,Michael Oliver
+08/07/2020,19/20,"Bramall Lane, Sheffield",Sheffield United,Wolverhampton Wanderers,0,0,1,0,0.42,0.57,3,1,7,6,563,731,382,545,16,13,15,27,6,1,3,0,2,0,0,0,5,6,Martin Atkinson
+08/07/2020,19/20,"Etihad Stadium, Manchester",Man City,Newcastle United,2,0,5,0,0.73,0.26,9,1,23,6,1000,450,843,296,5,15,11,14,8,1,2,0,0,0,0,0,13,7,Andy Madley
+08/07/2020,19/20,"Amex Stadium, Falmer",Brighton,Liverpool,1,2,1,3,0.44,0.55,2,8,12,20,594,667,381,477,12,11,39,18,6,10,5,0,1,4,0,0,7,15,Craig Pawson
+09/07/2020,19/20,"Goodison Park, Liverpool",Everton,Southampton,1,1,1,1,0.38,0.61,4,4,11,16,522,697,330,518,12,13,26,12,3,5,3,2,3,3,0,0,13,14,Lee Mason
+09/07/2020,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Tottenham,0,0,0,0,0.35,0.64,2,0,9,9,478,715,271,499,15,21,26,38,8,12,1,0,3,2,0,0,11,14,Paul Tierney
+09/07/2020,19/20,"Villa Park, Birmingham",Aston Villa,Manchester United,0,2,0,3,0.33,0.66,1,6,9,14,473,789,310,637,9,11,16,11,3,5,2,1,2,3,0,0,7,13,Jonathan Moss
+11/07/2020,19/20,"Vicarage Road, Watford",Watford,Newcastle United,0,1,2,1,0.47,0.52,5,4,17,8,488,531,316,353,12,13,10,21,2,4,3,3,1,4,0,0,23,15,Craig Pawson
+11/07/2020,19/20,"Carrow Road, Norwich",Norwich City,West Ham,0,2,0,4,0.52,0.47,2,7,11,19,695,633,542,478,16,12,16,8,1,6,1,0,1,0,0,0,9,8,Kevin Friend
+11/07/2020,19/20,"Anfield, Liverpool",Liverpool,Burnley,1,0,1,1,0.7,0.29,9,2,23,6,857,436,659,265,10,11,17,36,11,6,2,3,1,2,0,0,7,4,David Coote
+11/07/2020,19/20,"Bramall Lane, Sheffield",Sheffield United,Chelsea,2,0,3,0,0.23,0.76,4,4,9,15,408,981,251,809,7,8,37,12,4,6,1,0,1,0,0,0,8,6,Andre Marriner
+11/07/2020,19/20,"Amex Stadium, Falmer",Brighton,Man City,0,2,0,5,0.29,0.7,0,8,3,26,476,975,335,799,12,16,15,9,2,7,6,1,1,0,0,0,7,3,Graham Scott
+12/07/2020,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Everton,1,0,3,0,0.55,0.44,7,2,14,6,717,595,564,450,9,10,11,13,5,2,1,0,0,2,0,0,9,9,Anthony Taylor
+12/07/2020,19/20,"Villa Park, Birmingham",Aston Villa,Crystal Palace,1,0,2,0,0.44,0.55,9,5,12,9,494,590,314,386,12,15,12,15,5,1,1,0,2,4,0,1,21,21,Martin Atkinson
+12/07/2020,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Arsenal,1,1,2,1,0.37,0.62,9,4,15,13,542,808,378,636,22,12,21,13,6,5,2,0,5,3,0,0,16,11,Michael Oliver
+12/07/2020,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Leicester,0,1,4,1,0.44,0.55,4,5,9,13,611,729,424,545,6,17,20,13,2,6,4,1,2,1,0,1,11,12,Stuart Attwell
+13/07/2020,19/20,"Old Trafford, Manchester",Manchester United,Southampton,2,1,2,2,0.47,0.52,4,5,8,9,654,684,463,510,13,10,20,16,4,6,1,0,1,3,0,0,14,15,Chris Kavanagh
+14/07/2020,19/20,"Stamford Bridge, London",Chelsea,Norwich City,1,0,1,0,0.67,0.32,6,0,22,2,950,540,772,374,8,15,6,21,8,1,0,1,2,2,0,0,10,9,Jonathan Moss
+15/07/2020,19/20,"St. James' Park, Newcastle",Newcastle United,Tottenham,0,1,1,3,0.52,0.47,6,5,22,8,662,623,503,456,14,14,9,21,5,4,0,1,2,3,0,0,6,13,David Coote
+15/07/2020,19/20,"Etihad Stadium, Manchester",Man City,Bournemouth,2,0,2,1,0.72,0.27,4,3,8,15,923,435,756,275,15,9,25,10,3,5,2,2,1,1,0,0,10,10,Lee Mason
+15/07/2020,19/20,"Turf Moor, Burnley",Burnley,Wolverhampton Wanderers,0,0,1,1,0.46,0.53,1,5,9,14,522,598,359,413,12,9,21,20,3,8,1,1,0,0,0,0,10,8,Mike Dean
+15/07/2020,19/20,"Emirates Stadium, London",Arsenal,Liverpool,2,1,2,1,0.31,0.68,2,8,3,24,456,816,286,614,21,12,24,3,2,13,5,4,3,1,0,0,14,10,Paul Tierney
+16/07/2020,19/20,"King Power Stadium, Leicester",Leicester,Sheffield United,1,0,2,0,0.54,0.45,7,1,15,5,658,586,472,401,18,10,24,24,9,5,3,4,1,2,0,0,12,10,Michael Oliver
+16/07/2020,19/20,"Goodison Park, Liverpool",Everton,Aston Villa,0,0,1,1,0.54,0.45,1,1,9,15,622,527,443,362,10,9,20,14,5,5,0,0,2,1,0,0,15,13,Anthony Taylor
+16/07/2020,19/20,"St. Mary's Stadium, Southampton",Southampton,Brighton,0,1,1,1,0.67,0.32,6,2,21,10,787,465,597,281,15,18,8,21,8,2,1,2,1,0,0,0,6,10,Andre Marriner
+16/07/2020,19/20,"Selhurst Park, London",Crystal Palace,Manchester United,0,1,0,2,0.4,0.59,5,5,13,17,626,827,428,625,26,14,18,13,2,7,1,0,1,2,0,0,10,15,Graham Scott
+17/07/2020,19/20,"London Stadium, London",West Ham,Watford,3,0,3,1,0.4,0.59,4,3,10,14,497,652,297,439,13,16,28,18,9,3,1,2,0,2,0,0,11,11,Martin Atkinson
+18/07/2020,19/20,"Carrow Road, Norwich",Norwich City,Burnley,0,1,0,2,0.42,0.57,2,8,6,23,516,638,354,468,6,13,23,8,6,8,1,1,0,0,2,0,9,16,Kevin Friend
+19/07/2020,19/20,"Vitality Stadium, Bournemouth",Bournemouth,Southampton,0,1,0,2,0.43,0.57,3,8,11,16,506,634,288,407,17,22,11,47,12,6,2,1,2,2,0,0,12,11,Craig Pawson
+19/07/2020,19/20,"Tottenham Hotspur Stadium, London",Tottenham,Leicester,3,0,3,0,0.29,0.71,3,6,7,24,465,893,285,697,17,12,30,7,4,13,4,0,2,1,0,0,15,10,Anthony Taylor
+20/07/2020,19/20,"Bramall Lane, Sheffield",Sheffield United,Everton,0,0,0,1,0.5,0.49,0,2,8,5,651,660,468,472,17,10,12,29,7,1,1,2,1,3,0,0,11,19,Stuart Attwell
+20/07/2020,19/20,"Amex Stadium, Falmer",Brighton,Newcastle United,0,0,0,0,0.62,0.37,3,1,11,12,725,497,542,315,12,15,19,23,9,7,1,1,4,2,0,0,13,12,Simon Hooper
+20/07/2020,19/20,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Crystal Palace,1,0,2,0,0.53,0.46,5,3,11,7,651,594,465,404,18,13,14,18,5,2,0,1,2,1,0,0,11,15,Peter Bankes
+21/07/2020,19/20,"Vicarage Road, Watford",Watford,Man City,0,2,0,4,0.23,0.76,0,10,2,26,410,941,232,764,18,22,21,11,0,8,4,3,2,0,0,0,14,11,Michael Oliver
+21/07/2020,19/20,"Villa Park, Birmingham",Aston Villa,Arsenal,1,0,1,0,0.31,0.69,3,0,8,7,439,771,264,606,16,3,32,18,8,9,1,1,2,4,0,0,13,19,Chris Kavanagh
+22/07/2020,19/20,"Old Trafford, Manchester",Manchester United,West Ham,0,1,1,1,0.57,0.42,4,3,11,12,775,613,609,441,9,20,8,18,2,3,3,1,3,1,0,0,10,9,Paul Tierney
+22/07/2020,19/20,"Anfield, Liverpool",Liverpool,Chelsea,3,1,5,3,0.5,0.5,7,5,10,10,749,752,584,575,19,9,14,15,6,0,0,3,1,0,0,0,8,11,Andre Marriner
+26/07/2020,19/20,"London Stadium, London",West Ham,Aston Villa,0,0,1,1,0.63,0.37,1,4,10,13,655,444,480,277,15,13,26,11,0,7,0,1,2,1,0,0,16,13,Michael Oliver
+26/07/2020,19/20,"St. Mary's Stadium, Southampton",Southampton,Sheffield United,0,1,3,1,0.72,0.27,4,3,13,5,864,417,684,260,11,12,8,34,9,1,2,2,0,1,0,0,9,16,Peter Bankes
+26/07/2020,19/20,"St. James' Park, Newcastle",Newcastle United,Liverpool,1,1,1,3,0.25,0.74,2,6,3,14,428,981,267,792,23,12,23,8,2,4,3,1,1,0,0,0,11,5,Anthony Taylor
+26/07/2020,19/20,"Etihad Stadium, Manchester",Man City,Norwich City,2,0,5,0,0.73,0.26,10,4,31,5,900,415,722,268,12,14,5,26,9,0,0,2,1,1,0,0,7,4,Craig Pawson
+26/07/2020,19/20,"King Power Stadium, Leicester",Leicester,Manchester United,0,0,0,2,0.45,0.54,3,3,14,7,623,681,425,518,23,21,12,8,3,3,2,2,1,5,1,0,12,11,Martin Atkinson
+26/07/2020,19/20,"Goodison Park, Liverpool",Everton,Bournemouth,1,2,1,3,0.7,0.3,5,7,13,13,916,507,687,282,26,18,23,12,2,5,0,1,1,0,0,0,11,9,Chris Kavanagh
+26/07/2020,19/20,"Selhurst Park, London",Crystal Palace,Tottenham,0,1,1,1,0.47,0.52,2,2,13,7,637,693,422,489,22,26,11,17,7,2,1,0,3,2,0,0,11,13,Andre Marriner
+26/07/2020,19/20,"Stamford Bridge, London",Chelsea,Wolverhampton Wanderers,2,0,2,0,0.62,0.37,3,1,11,5,833,561,629,370,30,22,14,6,3,3,3,1,2,3,0,0,10,16,Stuart Attwell
+26/07/2020,19/20,"Turf Moor, Burnley",Burnley,Brighton,1,1,1,2,0.54,0.45,2,4,13,15,561,520,378,334,20,6,3,31,6,7,3,2,3,0,0,0,11,11,Jonathan Moss
+26/07/2020,19/20,"Emirates Stadium, London",Arsenal,Watford,3,1,3,2,0.51,0.48,5,6,13,19,626,589,442,398,14,7,25,6,4,8,1,3,3,3,0,0,9,12,Mike Dean

@@ -1,0 +1,381 @@
+date,season,venue,home_team,away_team,ht_home_score,ht_away_score,home_score,away_score,home_possession_%,away_possession_%,home_shots_on_target,away_shots_on_target,home_shots,away_shots,home_touches,away_touches,home_passes,away_passes,home_tackles,away_tackles,home_clearances,away_clearances,home_corners,away_corners,home_offsides,away_offsides,home_yellow_cards,away_yellow_cards,home_red_cards,away_red_cards,home_fouls,away_fouls,referee
+16/08/2014,14/15,"Old Trafford, Manchester",Manchester United,Swansea,0,1,1,2,0.59,0.4,5,4,14,5,752,569,558,383,13,19,12,35,4,0,1,1,2,4,0,0,14,20,Mike Dean
+16/08/2014,14/15,"Boleyn Ground, London",West Ham,Tottenham,0,0,0,1,0.46,0.53,4,4,18,10,628,650,414,482,17,19,35,27,8,5,1,0,1,0,1,1,12,10,Chris Foy
+16/08/2014,14/15,"The Hawthorns, West Bromwich",West Brom,Sunderland,1,1,2,2,0.57,0.42,5,2,10,7,628,543,439,323,18,29,15,42,6,3,0,3,3,1,0,0,18,9,Neil Swarbrick
+16/08/2014,14/15,"bet365 Stadium, Stoke",Stoke,Aston Villa,0,0,0,1,0.63,0.36,2,1,12,7,749,503,517,289,27,19,43,26,2,8,1,1,0,3,0,0,14,9,Anthony Taylor
+16/08/2014,14/15,"Loftus Road, London",Queens Park Rangers,Hull City,0,0,0,1,0.51,0.49,6,4,19,11,598,600,383,382,14,17,40,56,8,9,0,2,1,2,0,0,10,10,Craig Pawson
+16/08/2014,14/15,"King Power Stadium, Leicester",Leicester,Everton,1,2,2,2,0.36,0.63,3,3,11,13,531,784,344,605,13,19,37,28,3,6,0,0,1,1,0,0,16,10,Mike Jones
+16/08/2014,14/15,"Emirates Stadium, London",Arsenal,Crystal Palace,1,1,2,1,0.76,0.23,6,2,14,4,975,444,730,222,26,33,30,40,9,3,0,1,2,2,0,1,13,19,Jonathan Moss
+17/08/2014,14/15,"Anfield, Liverpool",Liverpool,Southampton,1,0,2,1,0.56,0.43,5,6,12,12,849,662,601,450,16,35,50,14,2,6,2,2,1,2,0,0,8,11,Mark Clattenburg
+17/08/2014,14/15,"St. James' Park, Newcastle",Newcastle United,Man City,0,1,0,2,0.44,0.55,0,5,12,13,669,772,460,593,23,29,21,32,3,3,0,0,1,5,0,0,8,11,Martin Atkinson
+18/08/2014,14/15,"Turf Moor, Burnley",Burnley,Chelsea,1,3,1,3,0.38,0.61,2,3,9,11,589,862,413,668,12,19,21,29,4,3,3,1,1,1,0,0,6,7,Michael Oliver
+23/08/2014,14/15,"Villa Park, Birmingham",Aston Villa,Newcastle United,0,0,0,0,0.4,0.59,0,4,10,11,524,708,348,535,17,12,29,23,7,7,4,0,4,0,0,1,11,8,Mike Dean
+23/08/2014,14/15,"Liberty Stadium, Swansea",Swansea,Burnley,1,0,1,0,0.55,0.44,5,1,10,12,757,637,558,445,16,19,39,23,2,3,3,1,2,1,0,0,14,13,Craig Pawson
+23/08/2014,14/15,"St. Mary's Stadium, Southampton",Southampton,West Brom,0,0,0,0,0.57,0.42,2,2,9,8,694,557,507,368,22,19,13,17,1,5,1,1,1,2,0,0,14,15,Roger East
+23/08/2014,14/15,"Selhurst Park, London",Crystal Palace,West Ham,0,2,1,3,0.45,0.54,4,8,9,17,596,676,378,454,29,23,23,36,6,9,1,3,1,3,0,0,14,11,Mark Clattenburg
+23/08/2014,14/15,"Stamford Bridge, London",Chelsea,Leicester,0,0,2,0,0.63,0.36,10,4,27,6,777,498,530,295,23,28,42,26,8,7,2,2,0,1,0,0,11,11,Lee Mason
+23/08/2014,14/15,"Goodison Park, Liverpool",Everton,Arsenal,2,0,2,2,0.45,0.54,2,3,8,13,627,725,445,527,19,15,33,28,3,3,2,0,1,4,0,0,10,18,Kevin Friend
+24/08/2014,14/15,"White Hart Lane, London",Tottenham,Queens Park Rangers,3,0,4,0,0.65,0.34,5,1,18,9,879,549,686,347,24,24,15,22,7,6,1,4,0,1,0,0,12,6,Anthony Taylor
+24/08/2014,14/15,"KCOM Stadium, Hull",Hull City,Stoke,1,0,1,1,0.42,0.57,2,3,9,19,576,722,378,501,19,16,39,47,4,5,0,2,1,3,1,0,10,10,Jonathan Moss
+24/08/2014,14/15,"Stadium of Light, Sunderland",Sunderland,Manchester United,1,1,1,1,0.44,0.55,3,3,11,10,618,719,431,544,17,23,22,24,4,4,1,1,0,2,0,0,10,15,Martin Atkinson
+25/08/2014,14/15,"Etihad Stadium, Manchester",Man City,Liverpool,1,0,3,1,0.52,0.47,4,3,9,11,746,686,586,508,16,17,25,20,6,7,1,1,1,1,0,0,13,7,Michael Oliver
+30/08/2014,14/15,"Turf Moor, Burnley",Burnley,Manchester United,0,0,0,0,0.36,0.64,3,2,9,7,519,761,313,553,19,21,35,30,3,6,2,1,2,2,0,0,10,14,Chris Foy
+30/08/2014,14/15,"Boleyn Ground, London",West Ham,Southampton,1,1,1,3,0.36,0.63,2,8,4,18,533,776,337,576,24,24,37,25,2,9,2,2,2,1,0,0,11,13,Mike Dean
+30/08/2014,14/15,"Liberty Stadium, Swansea",Swansea,West Brom,2,0,3,0,0.55,0.44,8,2,15,16,770,610,573,441,16,21,29,8,0,7,2,1,1,2,0,0,10,8,Paul Tierney
+30/08/2014,14/15,"Loftus Road, London",Queens Park Rangers,Sunderland,1,0,1,0,0.39,0.6,5,6,18,16,530,720,328,510,23,21,32,25,4,6,0,0,1,2,0,0,8,9,Robert Madley
+30/08/2014,14/15,"St. James' Park, Newcastle",Newcastle United,Crystal Palace,1,1,3,3,0.64,0.35,4,7,18,12,693,477,477,268,18,20,15,48,11,4,0,2,1,3,0,0,12,19,Mike Jones
+30/08/2014,14/15,"Etihad Stadium, Manchester",Man City,Stoke,0,0,0,1,0.72,0.27,2,2,16,7,850,458,668,240,14,24,14,36,11,4,1,2,2,1,0,0,14,5,Lee Mason
+30/08/2014,14/15,"Goodison Park, Liverpool",Everton,Chelsea,1,2,3,6,0.61,0.38,6,8,16,12,793,542,551,355,16,30,22,31,8,2,8,1,1,3,0,0,7,16,Jonathan Moss
+31/08/2014,14/15,"White Hart Lane, London",Tottenham,Liverpool,0,1,0,3,0.6,0.39,1,8,7,17,773,581,559,370,17,28,16,45,7,3,3,1,0,4,0,0,14,11,Phil Dowd
+31/08/2014,14/15,"Villa Park, Birmingham",Aston Villa,Hull City,2,0,2,1,0.44,0.55,4,3,11,9,604,737,449,543,12,13,25,37,3,7,1,2,1,4,0,0,9,10,Mark Clattenburg
+31/08/2014,14/15,"King Power Stadium, Leicester",Leicester,Arsenal,1,1,1,1,0.31,0.68,3,6,9,24,518,911,307,690,27,18,32,31,5,10,3,3,3,1,0,0,14,5,Anthony Taylor
+13/09/2014,14/15,"Emirates Stadium, London",Arsenal,Man City,0,1,2,2,0.45,0.54,6,8,15,15,727,801,462,560,31,37,26,29,0,3,2,2,3,4,0,0,11,15,Mark Clattenburg
+13/09/2014,14/15,"The Hawthorns, West Bromwich",West Brom,Everton,0,1,0,2,0.45,0.54,3,5,13,12,623,757,431,550,20,14,10,43,9,1,1,3,2,3,0,0,12,10,Anthony Taylor
+13/09/2014,14/15,"Stadium of Light, Sunderland",Sunderland,Tottenham,1,1,2,2,0.38,0.62,1,6,7,16,562,807,350,593,29,30,22,18,6,5,1,1,5,1,0,0,16,14,Craig Pawson
+13/09/2014,14/15,"bet365 Stadium, Stoke",Stoke,Leicester,0,0,0,1,0.59,0.41,6,1,27,8,684,551,440,327,14,22,21,47,16,3,0,0,3,0,0,0,9,15,Michael Oliver
+13/09/2014,14/15,"St. Mary's Stadium, Southampton",Southampton,Newcastle United,2,0,4,0,0.5,0.49,7,4,10,9,731,756,552,544,29,14,19,16,5,5,3,0,0,2,0,0,16,7,Chris Foy
+13/09/2014,14/15,"Selhurst Park, London",Crystal Palace,Burnley,0,0,0,0,0.44,0.55,3,3,16,11,558,608,327,407,21,12,41,32,5,6,0,1,2,3,0,0,12,11,Mike Dean
+13/09/2014,14/15,"Stamford Bridge, London",Chelsea,Swansea,1,1,4,2,0.55,0.44,9,2,30,12,768,668,573,455,17,18,11,40,7,4,0,0,0,3,0,0,12,11,Kevin Friend
+13/09/2014,14/15,"Anfield, Liverpool",Liverpool,Aston Villa,0,1,0,1,0.74,0.25,1,1,18,5,923,424,741,243,12,13,25,45,7,6,3,1,2,1,0,0,9,10,Lee Mason
+14/09/2014,14/15,"Old Trafford, Manchester",Manchester United,Queens Park Rangers,3,0,4,0,0.68,0.31,9,2,18,9,976,515,825,364,18,11,12,21,3,1,0,2,1,0,0,0,11,8,Phil Dowd
+15/09/2014,14/15,"KCOM Stadium, Hull",Hull City,West Ham,1,0,2,2,0.4,0.59,6,5,11,17,579,703,332,478,34,16,50,25,3,10,1,1,3,1,0,0,12,7,Martin Atkinson
+20/09/2014,14/15,"Loftus Road, London",Queens Park Rangers,Stoke,1,1,2,2,0.52,0.47,5,4,21,8,628,572,404,375,19,29,33,38,10,1,0,1,2,4,0,0,6,15,Martin Atkinson
+20/09/2014,14/15,"Liberty Stadium, Swansea",Swansea,Southampton,0,0,0,1,0.44,0.56,2,4,5,11,604,698,418,529,6,16,42,13,2,4,0,2,0,4,1,0,11,15,Jonathan Moss
+20/09/2014,14/15,"St. James' Park, Newcastle",Newcastle United,Hull City,0,0,2,2,0.63,0.37,7,3,25,10,779,550,577,342,14,16,19,52,4,2,1,5,4,2,0,0,11,11,Neil Swarbrick
+20/09/2014,14/15,"Turf Moor, Burnley",Burnley,Sunderland,0,0,0,0,0.44,0.55,6,6,16,14,557,680,370,482,19,11,20,37,5,1,2,1,1,2,0,0,14,14,Anthony Taylor
+20/09/2014,14/15,"Villa Park, Birmingham",Aston Villa,Arsenal,0,3,0,3,0.29,0.7,2,3,6,9,476,995,314,815,13,14,16,17,5,5,1,2,1,3,0,0,11,9,Mike Jones
+20/09/2014,14/15,"Boleyn Ground, London",West Ham,Liverpool,2,1,3,1,0.37,0.62,7,5,13,11,480,669,276,469,15,18,34,37,7,5,1,0,4,1,0,0,16,11,Craig Pawson
+21/09/2014,14/15,"White Hart Lane, London",Tottenham,West Brom,0,0,0,1,0.61,0.38,1,4,7,10,722,512,512,320,13,17,26,35,9,7,0,2,2,2,0,0,12,7,Kevin Friend
+21/09/2014,14/15,"King Power Stadium, Leicester",Leicester,Manchester United,1,2,5,3,0.42,0.57,5,5,15,16,600,762,389,528,16,18,33,44,2,4,4,4,1,1,0,1,11,9,Mark Clattenburg
+21/09/2014,14/15,"Etihad Stadium, Manchester",Man City,Chelsea,0,0,1,1,0.58,0.41,4,2,16,6,761,611,562,409,32,21,15,38,14,2,1,1,3,4,1,0,16,12,Mike Dean
+21/09/2014,14/15,"Goodison Park, Liverpool",Everton,Crystal Palace,1,1,2,3,0.75,0.24,6,3,17,10,959,435,760,234,18,19,35,37,7,1,2,1,2,2,0,0,8,13,Michael Oliver
+27/09/2014,14/15,"Anfield, Liverpool",Liverpool,Everton,0,0,1,1,0.46,0.53,8,5,24,11,627,703,418,499,27,20,24,22,8,2,2,2,2,1,0,0,8,9,Martin Atkinson
+27/09/2014,14/15,"Stadium of Light, Sunderland",Sunderland,Swansea,0,0,0,0,0.49,0.5,3,1,15,7,552,585,377,394,16,18,13,33,10,1,2,2,2,1,0,1,13,15,Chris Foy
+27/09/2014,14/15,"St. Mary's Stadium, Southampton",Southampton,Queens Park Rangers,0,0,2,1,0.55,0.44,9,2,19,10,675,590,483,401,20,13,16,35,6,3,4,1,2,1,0,0,12,11,Mark Clattenburg
+27/09/2014,14/15,"Old Trafford, Manchester",Manchester United,West Ham,2,1,2,1,0.57,0.42,3,4,8,13,709,546,504,351,20,10,51,24,7,10,2,4,1,3,1,0,10,12,Lee Mason
+27/09/2014,14/15,"KCOM Stadium, Hull",Hull City,Man City,2,2,2,4,0.4,0.59,5,6,10,20,618,870,434,664,20,11,29,22,3,8,0,0,0,2,0,0,10,6,Anthony Taylor
+27/09/2014,14/15,"Selhurst Park, London",Crystal Palace,Leicester,0,0,2,0,0.39,0.6,6,1,16,7,492,651,290,457,16,20,28,33,6,6,1,0,0,2,0,0,14,9,Keith Stroud
+27/09/2014,14/15,"Stamford Bridge, London",Chelsea,Aston Villa,1,0,3,0,0.62,0.37,8,1,17,7,857,559,701,416,5,10,23,27,9,2,5,0,2,2,0,0,11,9,Phil Dowd
+27/09/2014,14/15,"Emirates Stadium, London",Arsenal,Tottenham,0,0,1,1,0.68,0.31,6,4,16,6,849,490,618,279,17,23,11,44,15,5,3,2,3,6,0,0,7,16,Michael Oliver
+28/09/2014,14/15,"The Hawthorns, West Bromwich",West Brom,Burnley,2,0,4,0,0.62,0.37,6,2,20,10,817,538,619,359,10,8,25,49,10,2,2,2,1,2,0,0,7,9,Jonathan Moss
+29/09/2014,14/15,"bet365 Stadium, Stoke",Stoke,Newcastle United,1,0,1,0,0.44,0.55,3,1,12,16,567,641,344,422,22,21,39,22,2,10,4,0,1,2,0,0,20,15,Craig Pawson
+04/10/2014,14/15,"Liberty Stadium, Swansea",Swansea,Newcastle United,1,1,2,2,0.62,0.37,5,4,11,9,823,529,627,347,14,25,26,12,3,1,3,3,1,3,0,0,11,15,Lee Mason
+04/10/2014,14/15,"Stadium of Light, Sunderland",Sunderland,Stoke,2,1,3,1,0.39,0.6,3,5,8,11,482,652,285,458,28,20,18,25,7,4,3,2,3,4,0,0,10,17,Neil Swarbrick
+04/10/2014,14/15,"Anfield, Liverpool",Liverpool,West Brom,1,0,2,1,0.54,0.45,7,4,19,8,690,574,452,371,16,28,33,26,5,5,3,2,2,2,0,0,12,15,Michael Oliver
+04/10/2014,14/15,"King Power Stadium, Leicester",Leicester,Burnley,2,1,2,2,0.53,0.46,6,4,15,10,674,587,426,367,14,22,41,39,9,3,1,1,2,2,0,0,16,12,Phil Dowd
+04/10/2014,14/15,"KCOM Stadium, Hull",Hull City,Crystal Palace,0,0,2,0,0.59,0.4,2,2,15,11,743,549,519,351,21,20,51,26,6,7,0,0,1,2,0,0,6,14,Mike Dean
+04/10/2014,14/15,"Villa Park, Birmingham",Aston Villa,Man City,0,0,0,2,0.32,0.67,1,7,6,27,574,965,363,777,24,16,37,6,0,7,1,3,0,1,0,0,4,6,Chris Foy
+05/10/2014,14/15,"Old Trafford, Manchester",Manchester United,Everton,1,0,2,1,0.48,0.51,4,6,15,10,646,664,442,475,15,13,31,32,11,6,1,3,4,3,0,0,18,11,Kevin Friend
+05/10/2014,14/15,"White Hart Lane, London",Tottenham,Southampton,1,0,1,0,0.46,0.53,4,3,9,7,599,665,360,438,20,33,33,33,10,5,6,2,2,1,0,0,15,9,Mike Jones
+05/10/2014,14/15,"Stamford Bridge, London",Chelsea,Arsenal,1,0,2,0,0.47,0.53,3,0,5,10,648,744,441,505,29,25,29,29,2,2,3,0,4,3,0,0,14,10,Martin Atkinson
+05/10/2014,14/15,"Boleyn Ground, London",West Ham,Queens Park Rangers,1,0,2,0,0.48,0.51,3,3,11,10,627,661,402,431,23,23,32,49,7,5,4,2,2,2,0,0,10,11,Anthony Taylor
+18/10/2014,14/15,"Etihad Stadium, Manchester",Man City,Tottenham,2,1,4,1,0.61,0.38,12,7,20,19,812,587,618,377,20,19,17,18,3,4,3,2,1,2,0,1,11,9,Jonathan Moss
+18/10/2014,14/15,"St. Mary's Stadium, Southampton",Southampton,Sunderland,3,0,8,0,0.52,0.47,10,1,21,13,662,614,472,428,20,10,32,25,5,6,3,0,1,3,0,0,11,8,Andre Marriner
+18/10/2014,14/15,"St. James' Park, Newcastle",Newcastle United,Leicester,0,0,1,0,0.5,0.49,6,2,19,7,609,594,379,374,21,19,27,37,10,7,2,1,0,3,0,0,13,15,Martin Atkinson
+18/10/2014,14/15,"Goodison Park, Liverpool",Everton,Aston Villa,1,0,3,0,0.6,0.39,6,2,15,10,835,578,647,398,13,13,33,24,3,4,2,1,2,2,0,0,11,16,Anthony Taylor
+18/10/2014,14/15,"Selhurst Park, London",Crystal Palace,Chelsea,0,1,1,2,0.28,0.71,4,5,7,14,465,934,288,757,15,17,23,25,3,2,2,0,1,1,1,1,13,7,Craig Pawson
+18/10/2014,14/15,"Turf Moor, Burnley",Burnley,West Ham,0,0,1,3,0.46,0.53,3,6,17,22,605,678,360,426,13,17,32,60,5,7,2,1,0,1,0,0,3,10,Kevin Friend
+18/10/2014,14/15,"Emirates Stadium, London",Arsenal,Hull City,1,1,2,2,0.65,0.34,9,4,25,4,919,568,698,375,21,27,5,38,10,0,0,0,2,2,0,0,9,13,Roger East
+19/10/2014,14/15,"Loftus Road, London",Queens Park Rangers,Liverpool,0,0,2,3,0.43,0.56,5,4,15,15,569,685,336,454,22,26,27,58,7,2,1,2,2,3,0,0,10,15,Phil Dowd
+19/10/2014,14/15,"bet365 Stadium, Stoke",Stoke,Swansea,1,1,2,1,0.43,0.57,3,5,17,13,570,693,358,483,23,25,24,27,3,5,0,0,4,1,0,0,17,7,Michael Oliver
+20/10/2014,14/15,"The Hawthorns, West Bromwich",West Brom,Manchester United,1,0,2,2,0.37,0.62,2,7,8,22,558,790,359,574,13,19,55,28,0,11,0,1,1,2,0,0,6,8,Mike Dean
+25/10/2014,14/15,"Boleyn Ground, London",West Ham,Man City,1,0,2,1,0.3,0.69,4,5,12,21,441,763,239,560,16,17,32,36,4,8,3,2,2,1,0,0,12,14,Martin Atkinson
+25/10/2014,14/15,"The Hawthorns, West Bromwich",West Brom,Crystal Palace,0,2,2,2,0.68,0.31,4,6,17,8,760,457,560,258,14,20,28,35,6,3,1,4,3,1,0,0,14,8,Mark Clattenburg
+25/10/2014,14/15,"Stadium of Light, Sunderland",Sunderland,Arsenal,0,1,0,2,0.42,0.57,3,5,11,15,608,755,401,539,21,31,19,25,3,3,2,0,3,3,0,0,11,9,Kevin Friend
+25/10/2014,14/15,"St. Mary's Stadium, Southampton",Southampton,Stoke,1,0,1,0,0.61,0.38,2,1,20,8,752,534,561,351,21,21,13,19,6,3,1,3,0,2,0,0,10,12,Jonathan Moss
+25/10/2014,14/15,"Anfield, Liverpool",Liverpool,Hull City,0,0,0,0,0.65,0.34,4,3,17,6,773,506,535,288,21,24,19,47,14,1,1,1,3,2,0,0,12,17,Neil Swarbrick
+25/10/2014,14/15,"Liberty Stadium, Swansea",Swansea,Leicester,1,0,2,0,0.49,0.5,3,4,7,9,718,735,543,554,15,17,23,19,2,2,1,1,0,0,0,0,7,10,Mike Jones
+26/10/2014,14/15,"White Hart Lane, London",Tottenham,Newcastle United,1,0,1,2,0.66,0.33,2,2,18,8,791,530,556,277,26,29,17,41,10,2,1,2,2,3,0,0,9,12,Anthony Taylor
+26/10/2014,14/15,"Turf Moor, Burnley",Burnley,Everton,1,2,1,3,0.38,0.61,3,6,14,15,563,841,358,627,18,18,24,43,5,4,2,3,4,2,0,0,12,7,Andre Marriner
+26/10/2014,14/15,"Old Trafford, Manchester",Manchester United,Chelsea,0,0,1,1,0.51,0.48,7,4,19,9,646,610,439,425,16,21,25,26,4,7,0,2,3,5,0,1,13,14,Phil Dowd
+27/10/2014,14/15,"Loftus Road, London",Queens Park Rangers,Aston Villa,1,0,2,0,0.35,0.64,4,6,11,15,521,809,320,575,19,12,39,34,2,4,2,5,0,2,0,0,11,14,Lee Mason
+01/11/2014,14/15,"St. James' Park, Newcastle",Newcastle United,Liverpool,0,0,1,0,0.35,0.64,3,3,14,6,529,793,307,583,27,29,33,25,7,2,0,7,4,3,0,0,13,8,Andre Marriner
+01/11/2014,14/15,"bet365 Stadium, Stoke",Stoke,West Ham,1,0,2,2,0.59,0.4,6,2,21,10,670,504,425,307,17,34,22,42,9,2,0,2,1,1,0,0,14,13,Chris Foy
+01/11/2014,14/15,"King Power Stadium, Leicester",Leicester,West Brom,0,0,0,1,0.55,0.44,5,3,14,8,708,596,449,372,22,22,19,56,8,3,4,6,0,1,0,0,5,12,Stuart Attwell
+01/11/2014,14/15,"KCOM Stadium, Hull",Hull City,Southampton,0,1,0,1,0.47,0.52,1,3,8,10,672,712,473,544,13,29,26,23,7,4,1,1,1,0,0,0,6,9,Martin Atkinson
+01/11/2014,14/15,"Goodison Park, Liverpool",Everton,Swansea,0,0,0,0,0.66,0.33,3,0,17,8,794,496,606,306,16,20,14,36,11,0,0,1,2,3,0,1,10,15,Kevin Friend
+01/11/2014,14/15,"Stamford Bridge, London",Chelsea,Queens Park Rangers,1,0,2,1,0.64,0.35,8,1,18,7,793,532,576,316,27,34,23,40,13,2,2,0,0,0,0,0,8,12,Mike Jones
+01/11/2014,14/15,"Emirates Stadium, London",Arsenal,Burnley,0,0,3,0,0.67,0.32,12,2,32,6,876,535,630,319,10,21,17,59,18,1,2,4,0,1,0,0,5,9,Craig Pawson
+02/11/2014,14/15,"Etihad Stadium, Manchester",Man City,Manchester United,0,0,1,0,0.52,0.48,6,2,17,9,680,660,482,456,19,24,17,29,7,4,3,3,3,1,0,1,15,9,Michael Oliver
+02/11/2014,14/15,"Villa Park, Birmingham",Aston Villa,Tottenham,1,0,1,2,0.4,0.59,1,7,12,18,512,703,339,510,10,19,38,35,3,9,1,1,3,3,1,0,13,11,Neil Swarbrick
+03/11/2014,14/15,"Selhurst Park, London",Crystal Palace,Sunderland,0,1,1,3,0.53,0.46,1,7,9,8,651,615,412,376,15,40,18,48,11,2,0,0,0,3,1,0,12,19,Phil Dowd
+08/11/2014,14/15,"Anfield, Liverpool",Liverpool,Chelsea,1,1,1,2,0.58,0.41,4,5,12,15,749,586,524,378,16,22,29,45,5,7,6,1,2,5,0,0,9,12,Anthony Taylor
+08/11/2014,14/15,"Boleyn Ground, London",West Ham,Aston Villa,0,0,0,0,0.57,0.42,5,4,21,12,666,543,431,335,13,16,40,54,13,2,5,1,0,3,0,0,9,10,Jonathan Moss
+08/11/2014,14/15,"St. Mary's Stadium, Southampton",Southampton,Leicester,0,0,2,0,0.64,0.35,6,0,18,5,797,537,579,325,16,19,20,42,13,4,6,2,2,2,0,0,10,12,Michael Oliver
+08/11/2014,14/15,"Old Trafford, Manchester",Manchester United,Crystal Palace,0,0,1,0,0.71,0.28,5,1,23,6,870,445,667,260,16,26,29,31,11,4,0,0,1,3,0,0,8,12,Chris Foy
+08/11/2014,14/15,"Turf Moor, Burnley",Burnley,Hull City,0,0,1,0,0.47,0.52,3,1,14,12,537,601,336,384,12,16,32,52,7,1,2,2,6,4,0,0,17,17,Mark Clattenburg
+08/11/2014,14/15,"Loftus Road, London",Queens Park Rangers,Man City,1,1,2,2,0.41,0.58,4,7,17,24,595,722,352,507,21,14,51,36,7,7,3,0,4,2,0,0,9,10,Mike Dean
+09/11/2014,14/15,"The Hawthorns, West Bromwich",West Brom,Newcastle United,0,1,0,2,0.57,0.42,2,3,10,8,735,605,524,373,25,25,28,33,7,4,1,1,0,0,0,0,12,6,Craig Pawson
+09/11/2014,14/15,"White Hart Lane, London",Tottenham,Stoke,0,2,1,2,0.6,0.39,4,4,14,11,651,506,429,280,27,25,27,36,5,5,1,2,3,2,1,0,20,13,Mike Jones
+09/11/2014,14/15,"Stadium of Light, Sunderland",Sunderland,Everton,0,0,1,1,0.41,0.58,3,7,10,16,551,742,373,538,18,10,13,37,5,4,2,1,1,2,0,0,12,13,Lee Mason
+09/11/2014,14/15,"Liberty Stadium, Swansea",Swansea,Arsenal,0,0,2,1,0.48,0.51,5,4,11,12,629,646,435,462,15,16,35,19,6,10,4,0,5,5,0,0,10,16,Phil Dowd
+22/11/2014,14/15,"bet365 Stadium, Stoke",Stoke,Burnley,1,2,1,2,0.72,0.27,3,4,25,5,818,455,565,230,9,18,20,70,14,0,2,0,2,2,0,0,10,9,Martin Atkinson
+22/11/2014,14/15,"St. James' Park, Newcastle",Newcastle United,Queens Park Rangers,0,0,1,0,0.54,0.46,6,4,14,13,600,547,354,319,13,25,27,64,16,7,3,3,2,3,0,0,12,15,Chris Foy
+22/11/2014,14/15,"Etihad Stadium, Manchester",Man City,Swansea,1,1,2,1,0.59,0.4,10,3,23,8,862,688,665,453,16,25,14,34,7,3,0,2,2,1,0,0,13,9,Neil Swarbrick
+22/11/2014,14/15,"King Power Stadium, Leicester",Leicester,Sunderland,0,0,0,0,0.39,0.6,4,5,13,11,453,591,260,396,18,17,39,20,6,9,0,5,2,3,0,0,18,11,Robert Madley
+22/11/2014,14/15,"Goodison Park, Liverpool",Everton,West Ham,1,0,2,1,0.56,0.43,4,3,14,14,692,541,485,340,13,17,62,15,1,5,3,1,2,3,0,0,10,13,Mark Clattenburg
+22/11/2014,14/15,"Stamford Bridge, London",Chelsea,West Brom,2,0,2,0,0.73,0.26,8,1,21,5,905,436,744,270,9,17,10,31,15,0,5,2,1,0,0,1,7,9,Lee Mason
+22/11/2014,14/15,"Emirates Stadium, London",Arsenal,Manchester United,0,0,1,2,0.61,0.38,9,2,23,12,695,531,490,317,19,27,10,45,11,5,1,4,2,1,0,0,12,8,Mike Dean
+23/11/2014,14/15,"Selhurst Park, London",Crystal Palace,Liverpool,1,1,3,1,0.36,0.63,5,1,15,12,470,730,291,527,17,10,25,45,4,3,2,1,1,2,0,0,21,10,Jonathan Moss
+23/11/2014,14/15,"KCOM Stadium, Hull",Hull City,Tottenham,1,0,1,2,0.27,0.72,2,6,10,23,436,818,220,613,20,14,48,14,3,9,4,1,3,1,1,0,15,9,Craig Pawson
+24/11/2014,14/15,"Villa Park, Birmingham",Aston Villa,Southampton,1,0,1,1,0.35,0.64,1,4,7,16,486,742,299,531,13,10,44,19,2,8,1,2,1,2,0,0,15,17,Phil Dowd
+29/11/2014,14/15,"The Hawthorns, West Bromwich",West Brom,Arsenal,0,0,0,1,0.48,0.51,1,5,8,17,647,727,474,507,15,10,24,35,4,4,4,1,2,1,0,0,9,10,Chris Foy
+29/11/2014,14/15,"Boleyn Ground, London",West Ham,Newcastle United,0,0,1,0,0.47,0.52,3,1,12,7,577,615,367,414,19,21,44,28,6,2,4,2,3,2,0,1,9,16,Mike Dean
+29/11/2014,14/15,"Liberty Stadium, Swansea",Swansea,Crystal Palace,1,1,1,1,0.64,0.35,4,5,18,11,775,510,538,302,16,24,27,31,4,6,0,1,0,2,0,0,6,12,Martin Atkinson
+29/11/2014,14/15,"Loftus Road, London",Queens Park Rangers,Leicester,2,1,3,2,0.59,0.41,6,5,33,19,641,514,390,268,22,15,60,50,11,5,3,6,3,2,0,0,8,17,Roger East
+29/11/2014,14/15,"Old Trafford, Manchester",Manchester United,Hull City,2,0,3,0,0.76,0.23,7,2,15,4,970,415,807,247,14,18,16,33,7,0,5,2,2,2,0,0,12,12,Anthony Taylor
+29/11/2014,14/15,"Anfield, Liverpool",Liverpool,Stoke,0,0,1,0,0.47,0.52,3,4,16,13,651,691,444,483,21,17,36,34,5,5,0,1,0,3,0,0,11,9,Craig Pawson
+29/11/2014,14/15,"Turf Moor, Burnley",Burnley,Aston Villa,0,1,1,1,0.46,0.53,4,7,11,18,646,701,433,502,19,14,25,38,1,5,1,2,3,4,0,0,8,8,Graham Scott
+29/11/2014,14/15,"Stadium of Light, Sunderland",Sunderland,Chelsea,0,0,0,0,0.34,0.66,3,6,12,24,518,798,307,617,22,25,21,17,2,8,0,0,3,2,0,0,13,10,Kevin Friend
+30/11/2014,14/15,"White Hart Lane, London",Tottenham,Everton,2,1,2,1,0.38,0.61,6,5,13,10,582,808,384,603,23,22,25,16,3,4,2,4,5,1,0,0,15,5,Michael Oliver
+02/12/2014,14/15,"Liberty Stadium, Swansea",Swansea,Queens Park Rangers,0,0,2,0,0.59,0.41,7,1,19,5,737,545,510,370,13,20,24,31,9,2,6,0,2,2,0,0,8,12,Kevin Friend
+02/12/2014,14/15,"Old Trafford, Manchester",Manchester United,Stoke,1,1,2,1,0.64,0.36,3,4,10,5,827,539,631,351,18,25,19,28,3,2,1,0,2,4,0,0,8,13,Jonathan Moss
+02/12/2014,14/15,"King Power Stadium, Leicester",Leicester,Liverpool,1,1,1,3,0.46,0.53,4,3,20,11,594,679,366,435,17,29,26,56,7,4,0,6,1,2,1,0,11,10,Lee Mason
+02/12/2014,14/15,"Turf Moor, Burnley",Burnley,Newcastle United,1,0,1,1,0.42,0.57,2,4,12,11,527,658,324,444,18,18,39,33,2,5,2,2,2,2,0,0,12,12,Phil Dowd
+02/12/2014,14/15,"The Hawthorns, West Bromwich",West Brom,West Ham,1,2,1,2,0.57,0.42,5,6,22,12,693,576,487,362,10,18,20,65,7,3,0,3,2,1,0,0,11,17,Mike Jones
+02/12/2014,14/15,"Selhurst Park, London",Crystal Palace,Aston Villa,0,1,0,1,0.46,0.53,5,3,17,5,602,654,341,427,15,40,30,54,8,2,3,2,2,2,0,0,16,15,Michael Oliver
+03/12/2014,14/15,"Stadium of Light, Sunderland",Sunderland,Man City,1,2,1,4,0.35,0.64,2,4,8,15,572,941,417,762,17,21,10,21,2,0,1,1,1,1,0,0,9,8,Craig Pawson
+03/12/2014,14/15,"Goodison Park, Liverpool",Everton,Hull City,1,0,1,1,0.57,0.42,5,1,13,8,745,577,526,384,16,28,31,29,6,4,1,0,1,1,0,0,8,12,Robert Madley
+03/12/2014,14/15,"Stamford Bridge, London",Chelsea,Tottenham,2,0,3,0,0.38,0.61,8,2,12,10,593,811,380,604,17,31,18,23,1,6,3,2,1,1,0,0,9,9,Mike Dean
+03/12/2014,14/15,"Emirates Stadium, London",Arsenal,Southampton,0,0,1,0,0.58,0.41,8,1,19,6,785,597,539,382,24,22,16,40,9,4,2,1,0,2,0,0,7,14,Andre Marriner
+06/12/2014,14/15,"St. James' Park, Newcastle",Newcastle United,Chelsea,0,0,2,1,0.33,0.66,3,8,10,26,542,848,314,627,23,25,51,31,1,10,1,4,2,3,1,0,8,6,Martin Atkinson
+06/12/2014,14/15,"White Hart Lane, London",Tottenham,Crystal Palace,0,0,0,0,0.67,0.32,3,4,14,16,839,505,605,274,29,31,43,22,2,12,1,4,1,0,0,0,11,10,Lee Mason
+06/12/2014,14/15,"bet365 Stadium, Stoke",Stoke,Arsenal,3,0,3,2,0.42,0.57,4,6,13,14,516,653,332,453,20,14,25,10,3,9,3,3,3,2,0,1,17,14,Anthony Taylor
+06/12/2014,14/15,"Loftus Road, London",Queens Park Rangers,Burnley,0,0,2,0,0.51,0.49,6,3,11,15,631,596,403,378,13,18,68,41,3,11,2,2,1,1,1,0,12,12,Jonathan Moss
+06/12/2014,14/15,"Anfield, Liverpool",Liverpool,Sunderland,0,0,0,0,0.53,0.46,2,1,15,7,685,636,457,412,24,18,32,38,5,7,1,2,1,3,0,0,12,15,Neil Swarbrick
+06/12/2014,14/15,"KCOM Stadium, Hull",Hull City,West Brom,0,0,0,0,0.49,0.5,2,3,12,6,672,687,481,515,17,16,21,29,3,2,2,1,1,1,0,0,10,16,Michael Oliver
+06/12/2014,14/15,"Etihad Stadium, Manchester",Man City,Everton,1,0,1,0,0.51,0.48,3,2,19,9,709,687,485,467,22,16,27,38,11,7,2,4,3,3,0,0,8,11,Andre Marriner
+07/12/2014,14/15,"Boleyn Ground, London",West Ham,Swansea,1,1,3,1,0.55,0.44,7,2,15,11,627,545,405,333,9,22,29,52,7,4,3,1,0,1,0,1,11,18,Chris Foy
+07/12/2014,14/15,"Villa Park, Birmingham",Aston Villa,Leicester,1,1,2,1,0.64,0.35,7,4,16,10,770,484,547,284,12,22,44,24,5,5,6,1,4,4,0,1,9,14,Craig Pawson
+08/12/2014,14/15,"St. Mary's Stadium, Southampton",Southampton,Manchester United,1,1,1,2,0.51,0.48,4,2,15,3,703,670,510,478,28,27,10,33,5,1,4,1,2,1,0,0,12,9,Kevin Friend
+13/12/2014,14/15,"The Hawthorns, West Bromwich",West Brom,Aston Villa,0,0,1,0,0.48,0.51,5,2,13,7,622,644,397,439,19,27,22,33,4,2,1,2,4,2,0,1,17,12,Mike Dean
+13/12/2014,14/15,"Stadium of Light, Sunderland",Sunderland,West Ham,1,1,1,1,0.56,0.43,4,7,13,19,640,543,444,335,14,11,26,32,6,8,2,1,2,2,0,0,11,18,Phil Dowd
+13/12/2014,14/15,"King Power Stadium, Leicester",Leicester,Man City,0,1,0,1,0.42,0.57,1,4,7,9,569,723,358,515,15,15,15,46,8,2,2,9,0,2,0,0,15,13,Jonathan Moss
+13/12/2014,14/15,"Selhurst Park, London",Crystal Palace,Stoke,1,1,1,1,0.43,0.56,3,3,10,7,530,649,316,412,25,21,31,44,9,8,1,0,2,0,0,0,12,11,Kevin Friend
+13/12/2014,14/15,"Stamford Bridge, London",Chelsea,Hull City,1,0,2,0,0.59,0.4,3,0,12,8,731,572,538,358,18,28,19,44,5,4,0,1,3,4,0,1,13,13,Chris Foy
+13/12/2014,14/15,"Turf Moor, Burnley",Burnley,Southampton,0,0,1,0,0.4,0.59,2,4,7,15,550,685,330,485,12,16,39,16,2,4,2,2,1,3,0,0,15,11,Mark Clattenburg
+13/12/2014,14/15,"Emirates Stadium, London",Arsenal,Newcastle United,1,0,4,1,0.51,0.48,4,4,17,10,710,646,467,437,26,23,25,24,9,6,3,1,2,2,0,0,14,15,Lee Mason
+14/12/2014,14/15,"Old Trafford, Manchester",Manchester United,Liverpool,2,0,3,0,0.54,0.45,6,9,11,19,721,637,514,416,35,18,20,21,2,7,1,2,4,3,0,0,13,14,Martin Atkinson
+14/12/2014,14/15,"Liberty Stadium, Swansea",Swansea,Tottenham,0,1,1,2,0.53,0.46,3,4,15,10,724,643,471,422,26,26,35,33,7,9,5,0,3,4,0,0,7,17,Robert Madley
+15/12/2014,14/15,"Goodison Park, Liverpool",Everton,Queens Park Rangers,2,0,3,1,0.53,0.46,5,4,13,17,671,610,464,391,31,21,35,22,1,8,4,4,1,1,0,0,11,12,Neil Swarbrick
+20/12/2014,14/15,"Etihad Stadium, Manchester",Man City,Crystal Palace,0,0,3,0,0.72,0.27,3,1,15,6,921,459,740,273,18,21,30,20,8,6,3,1,2,1,0,0,17,5,Phil Dowd
+20/12/2014,14/15,"Boleyn Ground, London",West Ham,Leicester,1,0,2,0,0.47,0.52,2,4,10,10,593,602,347,382,16,18,52,42,9,4,3,1,0,3,0,0,8,17,Martin Atkinson
+20/12/2014,14/15,"White Hart Lane, London",Tottenham,Burnley,2,1,2,1,0.65,0.34,6,5,23,9,813,517,613,316,21,12,25,31,9,6,2,6,1,0,0,0,9,8,Mike Jones
+20/12/2014,14/15,"St. Mary's Stadium, Southampton",Southampton,Everton,1,0,3,0,0.43,0.56,3,4,11,13,581,704,373,481,38,15,27,21,4,6,4,2,1,1,0,0,11,10,Jonathan Moss
+20/12/2014,14/15,"Loftus Road, London",Queens Park Rangers,West Brom,1,2,3,2,0.43,0.56,7,6,17,16,565,643,337,434,9,13,64,30,5,11,4,1,1,0,0,0,16,8,Craig Pawson
+20/12/2014,14/15,"KCOM Stadium, Hull",Hull City,Swansea,0,1,0,1,0.56,0.43,3,3,11,13,685,613,484,369,20,16,12,67,4,5,3,4,2,2,0,0,14,16,Mark Clattenburg
+20/12/2014,14/15,"Villa Park, Birmingham",Aston Villa,Manchester United,1,0,1,1,0.35,0.64,4,9,10,16,496,751,329,588,9,10,32,9,3,9,2,2,1,1,1,0,9,10,Lee Mason
+21/12/2014,14/15,"St. James' Park, Newcastle",Newcastle United,Sunderland,0,0,0,1,0.51,0.48,7,3,15,16,606,584,400,381,15,29,16,21,7,1,1,4,4,4,0,0,15,15,Anthony Taylor
+21/12/2014,14/15,"Anfield, Liverpool",Liverpool,Arsenal,1,1,2,2,0.63,0.36,10,3,27,7,835,570,610,345,32,25,23,21,10,6,0,1,0,3,1,0,6,14,Michael Oliver
+22/12/2014,14/15,"bet365 Stadium, Stoke",Stoke,Chelsea,0,1,0,2,0.5,0.49,2,6,13,15,673,695,441,451,17,37,20,38,6,5,1,2,3,0,0,0,11,4,Neil Swarbrick
+26/12/2014,14/15,"Stamford Bridge, London",Chelsea,West Ham,1,0,2,0,0.64,0.35,9,0,28,6,792,508,577,300,21,15,19,31,8,6,1,2,0,3,0,0,8,14,Michael Oliver
+26/12/2014,14/15,"The Hawthorns, West Bromwich",West Brom,Man City,0,3,1,3,0.47,0.52,6,5,18,9,660,712,459,513,16,21,17,25,10,6,4,4,0,1,0,0,5,9,Mark Clattenburg
+26/12/2014,14/15,"Liberty Stadium, Swansea",Swansea,Aston Villa,1,0,1,0,0.43,0.56,2,3,7,11,616,773,462,602,9,20,26,22,4,0,3,2,1,4,0,0,17,12,Roger East
+26/12/2014,14/15,"Old Trafford, Manchester",Manchester United,Newcastle United,2,0,3,1,0.61,0.38,4,4,9,8,741,524,570,346,18,13,23,23,4,5,4,1,1,2,0,0,16,9,Mike Jones
+26/12/2014,14/15,"King Power Stadium, Leicester",Leicester,Tottenham,0,1,1,2,0.49,0.5,6,3,22,8,645,681,419,457,21,20,30,44,11,1,0,3,1,2,0,0,10,14,Neil Swarbrick
+26/12/2014,14/15,"Goodison Park, Liverpool",Everton,Stoke,0,1,0,1,0.61,0.38,5,2,16,12,756,564,548,333,14,20,22,53,9,3,3,3,2,3,0,0,9,15,Lee Mason
+26/12/2014,14/15,"Selhurst Park, London",Crystal Palace,Southampton,0,1,1,3,0.42,0.57,4,6,12,13,569,738,374,520,13,23,20,47,8,4,2,2,1,0,0,0,15,10,Mike Dean
+26/12/2014,14/15,"Turf Moor, Burnley",Burnley,Liverpool,0,0,0,1,0.47,0.52,0,3,16,10,683,752,451,529,15,27,29,56,8,2,0,4,0,1,0,0,7,5,Anthony Taylor
+26/12/2014,14/15,"Emirates Stadium, London",Arsenal,Queens Park Rangers,1,0,2,1,0.55,0.44,5,2,15,16,750,607,539,422,15,26,19,20,6,2,3,0,1,4,1,0,6,15,Martin Atkinson
+28/12/2014,14/15,"White Hart Lane, London",Tottenham,Manchester United,0,0,0,0,0.48,0.51,4,5,9,9,614,629,374,397,26,27,27,35,3,6,1,6,2,4,0,0,11,19,Jonathan Moss
+28/12/2014,14/15,"St. Mary's Stadium, Southampton",Southampton,Chelsea,1,1,1,1,0.39,0.6,1,1,9,7,581,792,380,568,24,15,41,13,4,6,1,3,2,2,1,0,23,14,Anthony Taylor
+28/12/2014,14/15,"Boleyn Ground, London",West Ham,Arsenal,0,2,1,2,0.57,0.42,4,7,14,21,621,547,385,295,18,25,37,54,7,8,2,1,3,3,0,0,12,13,Neil Swarbrick
+28/12/2014,14/15,"bet365 Stadium, Stoke",Stoke,West Brom,0,0,2,0,0.5,0.49,3,4,13,15,602,591,403,396,14,14,35,16,5,3,4,4,0,2,0,0,11,14,Roger East
+28/12/2014,14/15,"Loftus Road, London",Queens Park Rangers,Crystal Palace,0,0,0,0,0.53,0.46,3,3,11,10,619,586,380,339,29,19,31,63,9,4,1,0,2,1,0,0,11,17,Mike Jones
+28/12/2014,14/15,"Etihad Stadium, Manchester",Man City,Burnley,2,0,2,2,0.62,0.37,6,3,17,12,760,569,567,348,21,12,28,45,10,3,3,3,4,1,0,0,18,9,Kevin Friend
+28/12/2014,14/15,"KCOM Stadium, Hull",Hull City,Leicester,0,1,0,1,0.62,0.38,5,2,18,4,818,595,577,367,23,25,34,46,7,1,2,1,0,1,1,1,12,12,Phil Dowd
+28/12/2014,14/15,"Villa Park, Birmingham",Aston Villa,Sunderland,0,0,0,0,0.48,0.51,2,3,14,14,674,714,466,510,23,11,43,27,4,4,0,4,1,4,1,0,4,11,Martin Atkinson
+28/12/2014,14/15,"St. James' Park, Newcastle",Newcastle United,Everton,1,1,3,2,0.53,0.47,6,2,13,9,636,608,456,415,20,13,16,43,8,3,2,2,2,2,0,0,13,8,Craig Pawson
+29/12/2014,14/15,"Anfield, Liverpool",Liverpool,Swansea,1,0,4,1,0.43,0.56,11,4,21,11,658,803,473,612,21,9,21,20,6,3,2,1,1,0,0,0,8,5,Andre Marriner
+01/01/2015,14/15,"Boleyn Ground, London",West Ham,West Brom,1,1,1,1,0.45,0.54,3,3,8,14,623,660,398,487,18,17,41,27,0,1,6,0,1,0,0,0,6,13,Jonathan Moss
+01/01/2015,14/15,"St. Mary's Stadium, Southampton",Southampton,Arsenal,1,0,2,0,0.41,0.58,6,6,13,11,579,771,395,557,21,14,35,11,2,7,1,1,2,1,0,0,14,7,Craig Pawson
+01/01/2015,14/15,"Loftus Road, London",Queens Park Rangers,Swansea,1,0,1,1,0.41,0.58,6,6,24,25,572,767,365,512,18,12,28,43,4,9,3,3,4,0,0,1,22,5,Anthony Taylor
+01/01/2015,14/15,"St. James' Park, Newcastle",Newcastle United,Burnley,2,1,3,3,0.51,0.48,4,4,10,15,640,609,408,392,18,25,47,47,5,5,0,0,2,4,0,0,12,13,Mike Dean
+01/01/2015,14/15,"Etihad Stadium, Manchester",Man City,Sunderland,0,0,3,2,0.63,0.36,12,4,32,4,853,554,655,373,15,20,23,16,10,4,1,3,2,3,0,0,14,7,Roger East
+01/01/2015,14/15,"Anfield, Liverpool",Liverpool,Leicester,2,0,2,2,0.58,0.41,6,3,18,16,687,541,481,332,22,19,37,21,4,5,2,1,2,2,0,0,13,10,Mike Jones
+01/01/2015,14/15,"KCOM Stadium, Hull",Hull City,Everton,2,0,2,0,0.44,0.55,5,3,14,9,554,640,331,424,30,12,44,31,4,8,2,1,3,3,0,1,16,15,Kevin Friend
+01/01/2015,14/15,"Villa Park, Birmingham",Aston Villa,Crystal Palace,0,0,0,0,0.69,0.3,3,0,14,6,784,462,601,271,25,22,14,37,5,2,1,3,1,1,0,0,11,12,Robert Madley
+01/01/2015,14/15,"White Hart Lane, London",Tottenham,Chelsea,3,1,5,3,0.46,0.53,8,7,11,19,655,715,425,499,30,29,33,14,5,3,1,0,3,1,0,0,14,10,Phil Dowd
+10/01/2015,14/15,"Stadium of Light, Sunderland",Sunderland,Liverpool,0,1,0,1,0.47,0.52,1,4,5,21,631,702,447,508,13,26,14,28,6,6,2,0,1,4,1,0,12,11,Craig Pawson
+10/01/2015,14/15,"The Hawthorns, West Bromwich",West Brom,Hull City,0,0,1,0,0.51,0.48,3,2,9,12,665,644,494,455,16,15,20,39,5,2,2,2,1,0,0,0,5,13,Neil Swarbrick
+10/01/2015,14/15,"Liberty Stadium, Swansea",Swansea,West Ham,0,1,1,1,0.6,0.39,3,5,19,11,822,582,628,388,13,18,35,25,4,5,2,1,0,1,0,0,9,7,Mike Dean
+10/01/2015,14/15,"King Power Stadium, Leicester",Leicester,Aston Villa,1,0,1,0,0.37,0.62,3,1,11,12,533,762,308,527,21,20,36,37,6,6,2,6,1,1,1,1,18,6,Michael Oliver
+10/01/2015,14/15,"Goodison Park, Liverpool",Everton,Man City,0,0,1,1,0.38,0.61,4,2,11,18,551,741,330,542,16,26,37,25,4,9,3,1,1,2,0,0,9,10,Martin Atkinson
+10/01/2015,14/15,"Stamford Bridge, London",Chelsea,Newcastle United,1,0,2,0,0.63,0.37,5,5,9,11,812,547,602,343,24,26,29,20,7,4,7,0,2,3,0,0,13,13,Roger East
+10/01/2015,14/15,"Turf Moor, Burnley",Burnley,Queens Park Rangers,2,1,2,1,0.44,0.55,7,7,18,17,517,621,314,392,15,15,27,44,10,6,1,2,2,2,0,0,14,9,Andre Marriner
+10/01/2015,14/15,"Selhurst Park, London",Crystal Palace,Tottenham,0,0,2,1,0.41,0.58,7,5,21,9,607,745,371,535,30,18,38,31,4,6,4,1,5,3,0,0,9,14,Anthony Taylor
+11/01/2015,14/15,"Emirates Stadium, London",Arsenal,Stoke,2,0,3,0,0.53,0.46,6,2,14,7,713,621,496,427,22,25,21,22,9,1,4,2,0,3,0,0,11,11,Jonathan Moss
+11/01/2015,14/15,"Old Trafford, Manchester",Manchester United,Southampton,0,0,0,1,0.6,0.39,0,1,10,9,770,556,568,372,18,13,26,32,3,5,2,2,2,3,0,0,9,10,Phil Dowd
+17/01/2015,14/15,"White Hart Lane, London",Tottenham,Sunderland,1,1,2,1,0.64,0.35,7,4,26,8,764,515,567,311,21,13,16,42,6,6,3,4,1,2,0,0,14,8,Chris Foy
+17/01/2015,14/15,"Liberty Stadium, Swansea",Swansea,Chelsea,0,4,0,5,0.45,0.54,0,11,11,21,675,750,496,596,21,12,29,10,1,2,0,3,0,0,0,0,9,13,Jonathan Moss
+17/01/2015,14/15,"Loftus Road, London",Queens Park Rangers,Manchester United,0,0,0,2,0.38,0.61,4,7,18,12,580,815,358,595,20,19,41,41,3,3,1,2,3,2,0,0,12,10,Neil Swarbrick
+17/01/2015,14/15,"King Power Stadium, Leicester",Leicester,Stoke,0,0,0,1,0.43,0.56,3,3,7,13,542,703,336,465,27,17,35,43,6,5,0,3,1,0,0,0,9,6,Andre Marriner
+17/01/2015,14/15,"Turf Moor, Burnley",Burnley,Crystal Palace,2,1,2,3,0.5,0.49,4,4,8,11,601,600,376,361,26,9,46,64,5,7,0,1,1,3,0,0,10,20,Phil Dowd
+17/01/2015,14/15,"Villa Park, Birmingham",Aston Villa,Liverpool,0,1,0,2,0.48,0.51,4,5,15,12,628,685,421,465,20,21,15,42,9,5,1,5,1,1,0,0,13,11,Mark Clattenburg
+17/01/2015,14/15,"St. James' Park, Newcastle",Newcastle United,Southampton,1,1,1,2,0.58,0.42,3,3,16,5,786,634,543,406,24,37,17,33,9,0,1,3,0,2,0,0,9,8,Robert Madley
+18/01/2015,14/15,"Boleyn Ground, London",West Ham,Hull City,0,0,3,0,0.54,0.45,6,3,17,9,739,649,502,430,18,20,30,53,4,7,1,2,1,3,0,0,5,14,Martin Atkinson
+18/01/2015,14/15,"Etihad Stadium, Manchester",Man City,Arsenal,0,1,0,2,0.64,0.35,4,3,12,9,858,645,634,360,28,22,12,50,16,3,2,0,3,3,0,0,12,5,Mike Dean
+19/01/2015,14/15,"Goodison Park, Liverpool",Everton,West Brom,0,0,0,0,0.68,0.31,4,0,17,5,869,500,643,301,12,25,30,53,8,1,4,3,3,2,0,0,11,12,Michael Oliver
+31/01/2015,14/15,"KCOM Stadium, Hull",Hull City,Newcastle United,0,1,0,3,0.52,0.47,8,5,13,12,685,689,488,449,26,19,17,39,3,3,4,0,4,1,0,0,15,13,Phil Dowd
+31/01/2015,14/15,"The Hawthorns, West Bromwich",West Brom,Tottenham,0,2,0,3,0.37,0.62,4,4,13,14,531,815,346,615,27,16,12,31,6,3,2,1,2,1,0,0,8,13,Kevin Friend
+31/01/2015,14/15,"Stadium of Light, Sunderland",Sunderland,Burnley,2,0,2,0,0.49,0.5,3,4,8,13,629,644,425,420,16,21,34,36,6,3,3,3,3,1,0,0,12,12,Lee Mason
+31/01/2015,14/15,"bet365 Stadium, Stoke",Stoke,Queens Park Rangers,2,1,3,1,0.51,0.48,3,4,15,14,587,547,368,352,22,23,29,36,3,5,5,2,2,2,0,0,11,12,Mike Dean
+31/01/2015,14/15,"Old Trafford, Manchester",Manchester United,Leicester,3,0,3,1,0.71,0.28,5,1,12,4,891,451,679,261,14,27,43,20,4,3,3,1,0,1,0,0,8,12,Martin Atkinson
+31/01/2015,14/15,"Anfield, Liverpool",Liverpool,West Ham,0,0,2,0,0.66,0.33,7,2,21,7,779,483,542,268,26,23,44,25,5,7,1,1,1,1,0,0,12,12,Andre Marriner
+31/01/2015,14/15,"Selhurst Park, London",Crystal Palace,Everton,0,1,0,1,0.54,0.45,3,2,13,14,676,634,441,390,21,24,28,50,6,1,0,0,0,3,0,0,12,14,Roger East
+31/01/2015,14/15,"Stamford Bridge, London",Chelsea,Man City,1,1,1,1,0.42,0.57,2,5,3,9,616,773,416,544,29,27,21,19,1,8,2,3,0,2,0,0,12,14,Mark Clattenburg
+01/02/2015,14/15,"Emirates Stadium, London",Arsenal,Aston Villa,1,0,5,0,0.48,0.52,8,2,13,9,706,719,508,549,16,18,25,18,7,7,3,0,0,2,0,0,6,10,Anthony Taylor
+01/02/2015,14/15,"St. Mary's Stadium, Southampton",Southampton,Swansea,0,0,0,1,0.63,0.36,6,1,15,6,841,607,648,402,13,13,6,45,9,0,0,3,1,1,1,0,11,9,Michael Oliver
+07/02/2015,14/15,"White Hart Lane, London",Tottenham,Arsenal,0,1,2,1,0.56,0.44,8,3,23,7,722,619,482,386,21,20,30,39,10,3,6,3,3,5,0,0,8,12,Martin Atkinson
+07/02/2015,14/15,"Liberty Stadium, Swansea",Swansea,Sunderland,0,1,1,1,0.59,0.4,7,1,16,4,716,535,526,369,16,15,13,24,7,1,1,2,3,4,0,0,11,13,Phil Dowd
+07/02/2015,14/15,"Loftus Road, London",Queens Park Rangers,Southampton,0,0,0,1,0.45,0.54,3,5,12,16,608,671,382,451,20,21,42,39,3,4,2,3,2,2,0,0,13,16,Roger East
+07/02/2015,14/15,"Etihad Stadium, Manchester",Man City,Hull City,0,1,1,1,0.73,0.26,5,3,18,7,892,452,690,253,11,20,17,55,13,1,3,1,2,4,0,0,9,8,Jonathan Moss
+07/02/2015,14/15,"King Power Stadium, Leicester",Leicester,Crystal Palace,0,0,0,1,0.62,0.37,5,2,19,14,717,550,486,295,17,24,17,68,8,6,0,4,4,1,0,0,15,6,Lee Mason
+07/02/2015,14/15,"Villa Park, Birmingham",Aston Villa,Chelsea,0,1,1,2,0.51,0.49,1,5,8,12,698,668,500,501,13,16,30,35,7,7,2,4,3,2,0,0,8,7,Neil Swarbrick
+07/02/2015,14/15,"Goodison Park, Liverpool",Everton,Liverpool,0,0,0,0,0.45,0.54,1,6,6,17,667,741,461,552,26,20,29,22,3,6,5,2,4,1,0,0,11,7,Anthony Taylor
+08/02/2015,14/15,"Turf Moor, Burnley",Burnley,West Brom,2,1,2,2,0.56,0.44,5,5,12,12,709,567,461,360,16,12,62,41,5,6,3,2,0,4,0,0,10,15,Mike Dean
+08/02/2015,14/15,"St. James' Park, Newcastle",Newcastle United,Stoke,0,0,1,1,0.41,0.58,3,3,9,7,539,646,318,440,12,20,43,26,5,8,2,1,2,4,0,0,14,17,Kevin Friend
+08/02/2015,14/15,"Boleyn Ground, London",West Ham,Manchester United,0,0,1,1,0.41,0.58,6,6,13,18,520,647,285,414,18,20,49,48,9,9,3,2,2,2,0,1,7,13,Mark Clattenburg
+10/02/2015,14/15,"Stadium of Light, Sunderland",Sunderland,Queens Park Rangers,0,2,0,2,0.52,0.47,6,4,18,19,692,659,465,435,18,28,11,36,8,4,2,2,2,3,0,0,8,12,Martin Atkinson
+10/02/2015,14/15,"KCOM Stadium, Hull",Hull City,Aston Villa,1,0,2,0,0.37,0.62,4,4,10,11,503,671,303,496,14,14,49,18,3,7,1,1,1,2,0,0,16,11,Michael Oliver
+10/02/2015,14/15,"Emirates Stadium, London",Arsenal,Leicester,2,0,2,1,0.57,0.42,7,4,17,11,767,604,564,405,15,22,36,12,6,6,1,2,2,2,0,0,13,14,Mike Jones
+10/02/2015,14/15,"Anfield, Liverpool",Liverpool,Tottenham,1,1,3,2,0.49,0.5,7,5,16,14,599,603,406,411,16,24,21,22,5,7,1,1,3,6,0,0,13,17,Phil Dowd
+11/02/2015,14/15,"bet365 Stadium, Stoke",Stoke,Man City,1,1,1,4,0.5,0.49,5,8,16,14,665,646,454,451,11,22,22,25,3,2,3,4,1,2,0,0,6,11,Lee Mason
+11/02/2015,14/15,"St. Mary's Stadium, Southampton",Southampton,West Ham,0,0,0,0,0.66,0.33,7,1,21,4,705,449,519,257,13,17,13,34,8,2,3,0,2,1,0,1,12,11,Craig Pawson
+11/02/2015,14/15,"Old Trafford, Manchester",Manchester United,Burnley,2,1,3,1,0.57,0.42,7,3,11,13,729,569,511,369,15,19,48,35,5,8,2,0,4,3,0,0,15,8,Kevin Friend
+11/02/2015,14/15,"Stamford Bridge, London",Chelsea,Everton,0,0,1,0,0.56,0.43,7,4,21,7,709,609,505,417,11,24,12,47,10,2,2,1,3,3,0,1,8,13,Jonathan Moss
+11/02/2015,14/15,"The Hawthorns, West Bromwich",West Brom,Swansea,0,0,2,0,0.35,0.64,4,3,12,10,484,738,299,552,21,12,28,24,5,4,0,1,2,1,0,0,11,12,Robert Madley
+11/02/2015,14/15,"Selhurst Park, London",Crystal Palace,Newcastle United,0,1,1,1,0.53,0.46,3,1,7,5,647,586,417,369,27,18,30,38,5,2,6,0,1,2,0,0,10,11,Andre Marriner
+21/02/2015,14/15,"Liberty Stadium, Swansea",Swansea,Manchester United,1,1,2,1,0.36,0.64,6,3,11,18,522,789,333,585,12,10,32,25,4,10,3,1,2,4,0,0,6,15,Neil Swarbrick
+21/02/2015,14/15,"Stadium of Light, Sunderland",Sunderland,West Brom,0,0,0,0,0.61,0.38,2,1,13,5,662,491,456,278,15,21,25,40,11,2,3,2,1,2,0,0,11,12,Mike Jones
+21/02/2015,14/15,"KCOM Stadium, Hull",Hull City,Queens Park Rangers,1,1,2,1,0.54,0.45,6,3,16,8,586,526,388,324,18,12,42,32,5,7,8,3,0,4,0,1,18,16,Anthony Taylor
+21/02/2015,14/15,"Selhurst Park, London",Crystal Palace,Arsenal,0,2,1,2,0.52,0.47,3,4,22,12,636,655,366,365,21,21,20,76,10,1,3,3,1,3,0,0,15,14,Mark Clattenburg
+21/02/2015,14/15,"Stamford Bridge, London",Chelsea,Burnley,1,0,1,1,0.61,0.39,5,5,14,10,815,590,585,371,28,22,44,36,7,7,3,2,1,2,1,0,9,9,Martin Atkinson
+21/02/2015,14/15,"Villa Park, Birmingham",Aston Villa,Stoke,1,1,1,2,0.52,0.47,2,6,3,11,558,558,393,365,11,11,22,45,11,3,1,5,1,3,1,0,11,14,Roger East
+21/02/2015,14/15,"Etihad Stadium, Manchester",Man City,Newcastle United,3,0,5,0,0.56,0.43,9,1,16,8,785,640,604,448,28,21,22,17,7,3,1,2,3,2,0,0,9,8,Chris Foy
+22/02/2015,14/15,"White Hart Lane, London",Tottenham,West Ham,0,1,2,2,0.64,0.35,8,5,27,12,758,514,519,268,28,24,24,48,7,9,2,4,0,2,0,0,6,12,Jonathan Moss
+22/02/2015,14/15,"Goodison Park, Liverpool",Everton,Leicester,0,0,2,2,0.58,0.42,3,4,18,15,760,583,546,388,21,20,35,19,4,7,1,1,0,1,0,0,7,6,Phil Dowd
+22/02/2015,14/15,"St. Mary's Stadium, Southampton",Southampton,Liverpool,0,1,0,2,0.59,0.4,5,4,13,6,736,569,543,377,16,18,4,36,6,1,1,2,2,3,0,0,11,14,Kevin Friend
+28/02/2015,14/15,"Boleyn Ground, London",West Ham,Crystal Palace,0,1,1,3,0.66,0.33,5,5,22,12,631,436,428,215,15,23,29,54,11,7,0,6,2,2,0,1,12,19,Mike Dean
+28/02/2015,14/15,"The Hawthorns, West Bromwich",West Brom,Southampton,1,0,1,0,0.35,0.64,3,2,7,12,487,716,302,541,13,20,28,11,2,3,2,2,2,1,0,0,10,17,Phil Dowd
+28/02/2015,14/15,"bet365 Stadium, Stoke",Stoke,Hull City,0,0,1,0,0.57,0.42,2,0,17,1,667,499,476,357,10,24,23,21,5,2,1,0,2,2,0,0,9,10,Neil Swarbrick
+28/02/2015,14/15,"St. James' Park, Newcastle",Newcastle United,Aston Villa,1,0,1,0,0.49,0.5,5,3,14,14,595,571,354,365,16,17,43,35,9,5,0,3,1,5,0,0,6,16,Lee Mason
+28/02/2015,14/15,"Old Trafford, Manchester",Manchester United,Sunderland,0,0,2,0,0.73,0.26,10,3,30,5,830,416,625,235,16,22,9,33,13,1,1,2,1,1,0,1,6,11,Roger East
+28/02/2015,14/15,"Turf Moor, Burnley",Burnley,Swansea,0,0,0,1,0.46,0.53,6,2,13,9,567,637,356,423,18,20,30,33,6,4,2,2,0,0,0,0,14,8,Jonathan Moss
+01/03/2015,14/15,"Anfield, Liverpool",Liverpool,Man City,1,1,2,1,0.48,0.52,5,1,11,8,673,707,481,524,24,22,26,15,3,0,3,6,1,3,0,0,8,16,Mark Clattenburg
+01/03/2015,14/15,"Emirates Stadium, London",Arsenal,Everton,1,0,2,0,0.47,0.52,4,2,17,8,633,658,398,444,27,14,45,21,8,9,2,1,2,0,0,0,12,5,Andre Marriner
+03/03/2015,14/15,"St. Mary's Stadium, Southampton",Southampton,Crystal Palace,0,0,1,0,0.62,0.37,3,3,23,9,752,550,491,297,25,23,29,47,10,2,0,0,0,2,0,0,11,10,Martin Atkinson
+03/03/2015,14/15,"KCOM Stadium, Hull",Hull City,Sunderland,1,0,1,1,0.41,0.58,5,3,14,9,518,665,317,475,17,14,29,29,6,4,2,1,2,6,0,0,9,15,Mike Dean
+03/03/2015,14/15,"Villa Park, Birmingham",Aston Villa,West Brom,1,0,2,1,0.58,0.41,8,1,16,3,701,534,506,348,14,15,46,28,0,3,3,2,2,4,0,0,15,13,Jonathan Moss
+04/03/2015,14/15,"Boleyn Ground, London",West Ham,Chelsea,0,1,0,1,0.44,0.55,5,3,18,12,564,649,331,429,15,16,49,68,5,4,4,1,3,4,0,0,10,10,Andre Marriner
+04/03/2015,14/15,"White Hart Lane, London",Tottenham,Swansea,1,1,3,2,0.61,0.39,7,5,20,10,839,622,631,408,20,16,21,42,6,4,2,6,1,0,0,0,14,7,Michael Oliver
+04/03/2015,14/15,"bet365 Stadium, Stoke",Stoke,Everton,1,0,2,0,0.43,0.56,3,5,11,10,602,709,365,472,26,16,35,31,5,6,0,1,2,2,0,0,11,14,Mark Clattenburg
+04/03/2015,14/15,"Loftus Road, London",Queens Park Rangers,Arsenal,0,0,1,2,0.43,0.56,3,9,10,20,620,811,386,520,18,20,22,69,1,6,5,2,2,1,0,0,10,8,Kevin Friend
+04/03/2015,14/15,"St. James' Park, Newcastle",Newcastle United,Manchester United,0,0,0,1,0.32,0.67,2,5,9,11,467,789,257,554,30,15,24,38,4,1,1,6,1,2,0,0,6,14,Anthony Taylor
+04/03/2015,14/15,"Etihad Stadium, Manchester",Man City,Leicester,1,0,2,0,0.69,0.3,9,2,22,6,906,513,700,311,18,18,23,32,10,3,4,3,0,1,0,0,11,3,Robert Madley
+04/03/2015,14/15,"Anfield, Liverpool",Liverpool,Burnley,1,0,2,0,0.63,0.36,8,1,20,9,891,580,677,387,9,27,31,31,6,5,0,1,0,1,0,0,8,14,Lee Mason
+07/03/2015,14/15,"Loftus Road, London",Queens Park Rangers,Tottenham,0,1,1,2,0.37,0.62,6,6,17,13,498,714,266,454,27,24,39,47,3,5,3,3,1,2,0,0,15,12,Craig Pawson
+14/03/2015,14/15,"Selhurst Park, London",Crystal Palace,Queens Park Rangers,3,0,3,1,0.43,0.56,4,4,15,11,529,623,282,382,22,18,46,35,6,3,5,0,1,3,0,0,17,16,Lee Mason
+14/03/2015,14/15,"The Hawthorns, West Bromwich",West Brom,Stoke,1,0,1,0,0.43,0.56,5,2,14,9,507,591,287,386,17,28,33,33,7,5,1,3,1,2,0,0,7,16,Michael Oliver
+14/03/2015,14/15,"Stadium of Light, Sunderland",Sunderland,Aston Villa,0,4,0,4,0.4,0.59,2,8,12,14,553,749,368,556,30,17,11,17,2,5,2,0,1,1,0,0,10,9,Neil Swarbrick
+14/03/2015,14/15,"King Power Stadium, Leicester",Leicester,Hull City,0,0,0,0,0.51,0.48,3,5,14,12,611,580,395,385,22,17,33,35,7,5,0,0,0,4,0,1,10,15,Jonathan Moss
+14/03/2015,14/15,"Turf Moor, Burnley",Burnley,Man City,0,0,1,0,0.29,0.7,4,5,10,22,516,911,290,686,13,23,58,28,2,6,2,0,2,1,0,0,6,9,Andre Marriner
+15/03/2015,14/15,"Stamford Bridge, London",Chelsea,Southampton,1,1,1,1,0.6,0.39,7,5,22,12,825,656,605,393,14,32,21,47,9,2,2,4,3,3,0,0,10,11,Mike Dean
+15/03/2015,14/15,"Old Trafford, Manchester",Manchester United,Tottenham,3,0,3,0,0.51,0.48,3,1,11,5,711,681,508,476,32,20,25,21,4,2,5,4,1,1,0,0,12,10,Mark Clattenburg
+15/03/2015,14/15,"Goodison Park, Liverpool",Everton,Newcastle United,1,0,3,0,0.54,0.45,9,4,15,12,729,622,486,400,22,25,57,27,3,4,0,0,1,2,0,1,11,10,Martin Atkinson
+16/03/2015,14/15,"Liberty Stadium, Swansea",Swansea,Liverpool,0,0,0,1,0.46,0.53,3,5,10,16,702,772,483,566,19,27,15,25,4,5,1,0,0,3,0,0,13,16,Roger East
+21/03/2015,14/15,"Etihad Stadium, Manchester",Man City,West Brom,2,0,3,0,0.77,0.22,16,0,43,3,963,386,761,221,13,19,12,32,9,2,2,3,0,0,0,1,6,5,Neil Swarbrick
+21/03/2015,14/15,"White Hart Lane, London",Tottenham,Leicester,2,1,4,3,0.65,0.34,4,5,10,14,826,536,573,284,24,32,36,32,4,4,1,3,2,1,0,0,8,9,Mike Dean
+21/03/2015,14/15,"bet365 Stadium, Stoke",Stoke,Crystal Palace,1,2,1,2,0.56,0.43,4,3,17,12,621,522,426,331,16,15,21,35,8,4,0,0,3,4,0,0,15,14,Andre Marriner
+21/03/2015,14/15,"St. Mary's Stadium, Southampton",Southampton,Burnley,1,0,2,0,0.6,0.39,3,3,20,15,725,541,554,360,10,12,16,33,10,5,1,0,0,0,0,0,10,8,Roger East
+21/03/2015,14/15,"St. James' Park, Newcastle",Newcastle United,Arsenal,0,2,1,2,0.5,0.49,4,3,16,7,690,706,450,441,26,32,21,36,9,4,3,4,0,0,0,0,11,7,Mike Jones
+21/03/2015,14/15,"Villa Park, Birmingham",Aston Villa,Swansea,0,0,0,1,0.42,0.57,3,6,12,9,539,691,360,494,17,14,15,21,4,9,1,7,0,0,0,0,13,9,Robert Madley
+21/03/2015,14/15,"Boleyn Ground, London",West Ham,Sunderland,0,0,1,0,0.53,0.46,4,3,15,7,610,542,365,330,10,22,46,46,6,4,1,1,0,1,0,0,14,11,Lee Mason
+22/03/2015,14/15,"Anfield, Liverpool",Liverpool,Manchester United,0,1,1,2,0.41,0.58,1,4,7,6,602,774,407,569,13,28,21,28,2,3,0,3,2,2,1,0,14,17,Martin Atkinson
+22/03/2015,14/15,"Loftus Road, London",Queens Park Rangers,Everton,0,1,1,2,0.52,0.47,1,3,14,8,677,654,413,391,22,21,40,71,1,3,4,5,2,1,0,0,11,12,Jonathan Moss
+22/03/2015,14/15,"KCOM Stadium, Hull",Hull City,Chelsea,2,2,2,3,0.42,0.57,8,3,19,8,597,751,407,542,26,21,25,36,6,6,5,1,0,2,0,0,14,11,Michael Oliver
+04/04/2015,14/15,"Emirates Stadium, London",Arsenal,Liverpool,3,0,4,1,0.48,0.51,10,2,16,13,694,722,479,509,24,25,19,22,6,5,4,3,1,0,0,1,7,9,Anthony Taylor
+04/04/2015,14/15,"The Hawthorns, West Bromwich",West Brom,Queens Park Rangers,0,3,1,4,0.55,0.45,6,7,21,12,665,587,455,388,13,16,12,50,2,4,3,3,2,3,1,0,6,15,Lee Probert
+04/04/2015,14/15,"Liberty Stadium, Swansea",Swansea,Hull City,2,0,3,1,0.58,0.41,4,1,9,10,794,611,630,433,17,16,28,17,4,7,2,1,1,5,0,1,11,14,Andre Marriner
+04/04/2015,14/15,"Old Trafford, Manchester",Manchester United,Aston Villa,1,0,3,1,0.76,0.23,7,2,20,5,920,412,736,234,16,16,19,35,10,2,0,2,0,1,0,0,15,12,Roger East
+04/04/2015,14/15,"King Power Stadium, Leicester",Leicester,West Ham,1,1,2,1,0.49,0.5,7,7,20,14,574,605,358,370,14,16,36,56,7,6,3,1,0,3,0,0,12,10,Mark Clattenburg
+04/04/2015,14/15,"Goodison Park, Liverpool",Everton,Southampton,1,0,1,0,0.45,0.54,1,2,10,11,604,681,381,455,15,23,46,25,4,10,0,2,0,1,0,0,12,17,Lee Mason
+04/04/2015,14/15,"Stamford Bridge, London",Chelsea,Stoke,1,1,2,1,0.6,0.39,10,2,19,7,829,584,635,415,10,18,21,30,9,0,2,1,1,6,0,0,5,22,Jonathan Moss
+05/04/2015,14/15,"Turf Moor, Burnley",Burnley,Tottenham,0,0,0,0,0.4,0.6,4,2,15,12,541,750,330,537,20,18,31,32,5,3,4,3,2,0,0,0,9,5,Martin Atkinson
+05/04/2015,14/15,"Stadium of Light, Sunderland",Sunderland,Newcastle United,1,0,1,0,0.53,0.46,4,1,16,10,579,549,346,309,27,20,22,34,8,4,2,1,5,2,0,0,14,18,Mike Dean
+06/04/2015,14/15,"Selhurst Park, London",Crystal Palace,Man City,1,0,2,1,0.25,0.74,3,4,5,22,448,887,238,667,24,23,34,14,4,13,2,0,2,1,0,0,11,11,Michael Oliver
+07/04/2015,14/15,"Villa Park, Birmingham",Aston Villa,Queens Park Rangers,2,1,3,3,0.63,0.36,7,5,21,11,684,496,464,259,15,27,20,64,7,3,4,2,0,4,0,0,8,12,Craig Pawson
+11/04/2015,14/15,"Liberty Stadium, Swansea",Swansea,Everton,0,1,1,1,0.5,0.49,3,8,11,12,625,607,449,440,18,14,18,24,3,6,2,1,3,3,0,0,18,12,Michael Oliver
+11/04/2015,14/15,"Boleyn Ground, London",West Ham,Stoke,1,0,1,1,0.35,0.64,3,2,11,18,439,632,235,428,15,8,59,23,4,10,2,4,3,1,0,0,17,13,Roger East
+11/04/2015,14/15,"The Hawthorns, West Bromwich",West Brom,Leicester,2,1,2,3,0.45,0.54,5,4,8,12,511,577,316,355,16,23,33,26,4,6,0,3,2,2,0,0,15,14,Martin Atkinson
+11/04/2015,14/15,"White Hart Lane, London",Tottenham,Aston Villa,0,1,0,1,0.57,0.43,3,3,14,11,695,553,468,363,19,32,17,20,9,6,5,2,3,2,0,1,11,12,Lee Probert
+11/04/2015,14/15,"Stadium of Light, Sunderland",Sunderland,Crystal Palace,0,0,1,4,0.53,0.46,3,5,12,14,615,569,405,355,28,17,18,22,8,4,0,0,2,2,0,0,15,17,Anthony Taylor
+11/04/2015,14/15,"St. Mary's Stadium, Southampton",Southampton,Hull City,0,0,2,0,0.54,0.46,4,4,9,15,742,648,550,463,19,20,27,24,2,5,2,0,2,0,0,0,7,11,Kevin Friend
+11/04/2015,14/15,"Turf Moor, Burnley",Burnley,Arsenal,0,1,0,1,0.31,0.68,4,5,8,17,529,917,307,688,15,15,46,36,1,6,3,2,2,0,0,0,15,7,Mike Dean
+12/04/2015,14/15,"Loftus Road, London",Queens Park Rangers,Chelsea,0,0,0,1,0.39,0.6,4,1,15,9,527,706,304,470,25,17,45,50,5,6,4,3,2,1,0,0,12,6,Andre Marriner
+12/04/2015,14/15,"Old Trafford, Manchester",Manchester United,Man City,2,1,4,2,0.58,0.41,7,3,11,10,764,568,546,385,15,22,34,25,1,5,3,3,0,3,0,0,9,16,Mark Clattenburg
+13/04/2015,14/15,"Anfield, Liverpool",Liverpool,Newcastle United,1,0,2,0,0.61,0.38,6,3,14,10,759,549,550,329,23,21,23,26,6,6,3,2,2,0,0,1,8,17,Lee Mason
+18/04/2015,14/15,"bet365 Stadium, Stoke",Stoke,Southampton,0,1,2,1,0.48,0.51,2,6,15,12,614,653,412,447,14,25,20,29,2,5,3,2,0,4,0,0,17,17,Mark Clattenburg
+18/04/2015,14/15,"King Power Stadium, Leicester",Leicester,Swansea,1,0,2,0,0.41,0.58,6,6,18,10,572,752,355,534,32,14,18,45,6,3,0,3,0,2,0,0,6,5,Lee Probert
+18/04/2015,14/15,"Goodison Park, Liverpool",Everton,Burnley,1,0,1,0,0.65,0.34,8,1,21,10,706,447,506,263,14,8,38,36,5,6,1,0,1,2,0,1,12,15,Mike Jones
+18/04/2015,14/15,"Selhurst Park, London",Crystal Palace,West Brom,0,1,0,2,0.68,0.31,4,4,19,8,705,453,460,221,21,24,29,49,7,6,1,2,3,3,0,0,17,17,Jonathan Moss
+18/04/2015,14/15,"Stamford Bridge, London",Chelsea,Manchester United,1,0,1,0,0.29,0.7,2,2,7,15,456,882,283,664,29,21,31,24,3,7,2,3,3,1,0,0,13,11,Mike Dean
+19/04/2015,14/15,"Etihad Stadium, Manchester",Man City,West Ham,2,0,2,0,0.66,0.33,3,3,18,9,850,511,675,336,16,15,20,27,6,3,5,4,2,2,0,0,10,6,Anthony Taylor
+19/04/2015,14/15,"St. James' Park, Newcastle",Newcastle United,Tottenham,0,1,1,3,0.38,0.61,5,8,11,14,563,780,327,544,44,21,14,20,4,3,1,5,2,4,0,0,11,13,Kevin Friend
+25/04/2015,14/15,"St. Mary's Stadium, Southampton",Southampton,Tottenham,1,1,2,2,0.36,0.63,4,2,13,7,532,789,325,603,15,20,24,32,8,3,5,2,1,3,0,0,9,10,Jonathan Moss
+25/04/2015,14/15,"The Hawthorns, West Bromwich",West Brom,Liverpool,0,0,0,0,0.26,0.73,4,4,10,22,441,877,236,673,33,10,38,21,2,4,1,1,1,0,0,0,12,11,Roger East
+25/04/2015,14/15,"bet365 Stadium, Stoke",Stoke,Sunderland,1,1,1,1,0.6,0.39,8,5,23,15,646,504,415,274,19,18,20,35,9,8,2,1,2,3,0,0,14,15,Martin Atkinson
+25/04/2015,14/15,"Loftus Road, London",Queens Park Rangers,West Ham,0,0,0,0,0.53,0.46,7,2,18,8,522,514,305,269,14,20,39,71,6,6,3,4,1,0,0,0,14,12,Mike Jones
+25/04/2015,14/15,"St. James' Park, Newcastle",Newcastle United,Swansea,1,1,2,3,0.48,0.51,4,6,12,11,635,683,410,460,31,20,24,40,9,6,0,3,1,2,0,0,14,9,Neil Swarbrick
+25/04/2015,14/15,"Selhurst Park, London",Crystal Palace,Hull City,0,0,0,2,0.46,0.53,3,7,7,21,565,616,351,401,18,17,32,33,0,9,5,0,0,0,0,0,15,10,Mark Clattenburg
+25/04/2015,14/15,"Turf Moor, Burnley",Burnley,Leicester,0,0,0,1,0.59,0.4,4,4,12,8,656,486,406,273,9,19,64,45,6,4,1,2,3,0,0,0,16,16,Anthony Taylor
+25/04/2015,14/15,"Etihad Stadium, Manchester",Man City,Aston Villa,1,0,3,2,0.44,0.55,4,4,11,13,595,690,428,519,9,13,21,12,7,6,1,6,1,2,0,0,13,11,Mike Dean
+26/04/2015,14/15,"Goodison Park, Liverpool",Everton,Manchester United,2,0,3,0,0.34,0.65,7,4,9,17,506,795,307,576,23,14,22,22,7,7,1,2,0,2,0,0,6,10,Andre Marriner
+26/04/2015,14/15,"Emirates Stadium, London",Arsenal,Chelsea,0,0,0,0,0.57,0.43,1,3,11,7,772,627,568,447,16,24,20,40,6,2,0,0,4,3,0,0,17,11,Michael Oliver
+28/04/2015,14/15,"KCOM Stadium, Hull",Hull City,Liverpool,1,0,1,0,0.31,0.68,4,9,7,12,467,799,260,591,30,28,22,20,7,7,1,0,2,0,0,0,10,10,Lee Probert
+29/04/2015,14/15,"King Power Stadium, Leicester",Leicester,Chelsea,1,0,1,3,0.37,0.62,2,4,8,11,540,836,349,609,23,8,34,35,2,6,4,3,1,0,0,0,10,1,Mark Clattenburg
+02/05/2015,14/15,"King Power Stadium, Leicester",Leicester,Newcastle United,2,0,3,0,0.47,0.52,7,3,19,12,538,571,301,341,29,19,29,36,10,7,3,1,1,2,0,2,10,13,Mike Dean
+02/05/2015,14/15,"Boleyn Ground, London",West Ham,Burnley,1,0,1,0,0.6,0.39,7,2,29,9,658,524,454,307,5,10,29,43,13,3,2,2,3,2,0,1,11,7,Jonathan Moss
+02/05/2015,14/15,"Liberty Stadium, Swansea",Swansea,Stoke,0,0,2,0,0.47,0.52,4,3,17,9,625,641,413,472,12,22,21,25,6,2,1,0,1,2,0,1,9,18,Craig Pawson
+02/05/2015,14/15,"Stadium of Light, Sunderland",Sunderland,Southampton,1,1,2,1,0.43,0.56,6,2,12,11,578,673,374,481,19,20,26,12,1,1,3,3,2,2,0,1,12,13,Mike Jones
+02/05/2015,14/15,"Anfield, Liverpool",Liverpool,Queens Park Rangers,1,0,2,1,0.62,0.37,8,2,25,10,690,482,475,284,24,21,31,22,9,6,3,3,2,3,0,1,9,18,Martin Atkinson
+02/05/2015,14/15,"Villa Park, Birmingham",Aston Villa,Everton,2,0,3,2,0.5,0.49,4,5,11,9,624,607,441,429,18,14,22,24,5,3,0,3,2,1,0,0,13,12,Mark Clattenburg
+02/05/2015,14/15,"Old Trafford, Manchester",Manchester United,West Brom,0,0,0,1,0.79,0.2,9,3,26,6,928,360,720,185,15,13,12,39,9,3,3,0,1,0,0,0,10,11,Anthony Taylor
+03/05/2015,14/15,"Stamford Bridge, London",Chelsea,Crystal Palace,1,0,1,0,0.61,0.38,7,1,17,8,767,546,556,322,24,26,38,27,3,6,1,2,2,2,0,0,12,13,Kevin Friend
+03/05/2015,14/15,"White Hart Lane, London",Tottenham,Man City,0,1,0,1,0.55,0.45,5,4,21,15,728,622,488,399,20,16,33,26,8,7,2,1,3,4,0,0,6,11,Andre Marriner
+04/05/2015,14/15,"KCOM Stadium, Hull",Hull City,Arsenal,0,3,1,3,0.32,0.67,1,9,8,22,476,863,315,685,13,17,21,27,0,5,4,1,2,0,0,0,8,11,Lee Mason
+09/05/2015,14/15,"Goodison Park, Liverpool",Everton,Sunderland,0,0,0,2,0.73,0.27,4,3,22,10,801,428,595,230,15,25,18,41,15,1,2,1,2,3,0,0,10,9,Lee Probert
+09/05/2015,14/15,"bet365 Stadium, Stoke",Stoke,Tottenham,2,0,3,0,0.45,0.55,8,3,16,9,546,646,337,431,15,11,41,36,6,8,5,1,0,0,0,1,14,12,Mark Clattenburg
+09/05/2015,14/15,"St. James' Park, Newcastle",Newcastle United,West Brom,1,1,1,1,0.6,0.39,5,3,15,8,672,523,440,292,24,28,15,42,7,2,0,2,2,3,0,0,11,17,Chris Foy
+09/05/2015,14/15,"King Power Stadium, Leicester",Leicester,Southampton,2,0,2,0,0.3,0.69,3,3,10,10,487,789,255,585,21,18,36,15,4,8,0,1,1,0,0,0,12,10,Roger East
+09/05/2015,14/15,"KCOM Stadium, Hull",Hull City,Burnley,0,0,0,1,0.54,0.45,3,2,21,8,631,589,440,379,16,13,24,52,9,3,0,0,1,1,0,0,16,12,Martin Atkinson
+09/05/2015,14/15,"Villa Park, Birmingham",Aston Villa,West Ham,1,0,1,0,0.58,0.41,5,1,14,6,674,518,475,336,10,19,32,43,2,6,1,3,1,1,0,0,6,13,Lee Mason
+10/05/2015,14/15,"Etihad Stadium, Manchester",Man City,Queens Park Rangers,2,0,6,0,0.59,0.4,11,3,23,9,687,519,492,333,15,17,31,17,7,4,1,5,0,1,0,0,12,7,Mike Dean
+10/05/2015,14/15,"Stamford Bridge, London",Chelsea,Liverpool,1,1,1,1,0.47,0.52,3,4,8,15,606,668,433,468,24,18,13,24,6,4,1,3,4,3,0,0,13,11,Andre Marriner
+11/05/2015,14/15,"Emirates Stadium, London",Arsenal,Swansea,0,0,0,1,0.67,0.32,9,3,23,8,962,555,762,359,16,24,9,18,6,1,1,1,0,1,0,0,7,10,Kevin Friend
+16/05/2015,14/15,"St. Mary's Stadium, Southampton",Southampton,Aston Villa,5,1,6,1,0.35,0.64,11,4,18,9,460,719,295,547,10,7,29,25,6,3,3,1,1,1,0,0,19,7,Robert Madley
+16/05/2015,14/15,"Boleyn Ground, London",West Ham,Everton,0,0,1,2,0.45,0.54,3,5,13,21,575,660,364,446,15,23,28,39,7,8,2,2,1,4,0,0,12,14,Kevin Friend
+16/05/2015,14/15,"White Hart Lane, London",Tottenham,Hull City,0,0,2,0,0.55,0.44,3,2,10,14,706,586,524,401,18,19,34,18,6,8,0,5,3,1,0,0,10,6,Anthony Taylor
+16/05/2015,14/15,"Stadium of Light, Sunderland",Sunderland,Leicester,0,0,0,0,0.5,0.49,3,0,13,11,542,524,304,290,23,21,37,33,8,9,2,0,4,1,0,0,14,15,Martin Atkinson
+16/05/2015,14/15,"Loftus Road, London",Queens Park Rangers,Newcastle United,0,1,2,1,0.47,0.52,4,8,8,22,560,622,315,338,34,30,39,40,3,12,1,1,2,0,0,0,12,8,Lee Probert
+16/05/2015,14/15,"Turf Moor, Burnley",Burnley,Stoke,0,0,0,0,0.45,0.54,4,3,11,11,591,683,368,445,11,24,28,44,7,6,1,3,1,2,0,0,14,9,Michael Oliver
+16/05/2015,14/15,"Anfield, Liverpool",Liverpool,Crystal Palace,1,1,1,3,0.66,0.33,3,6,18,15,793,510,586,291,20,20,29,26,4,5,1,3,2,3,0,0,10,17,Jonathan Moss
+17/05/2015,14/15,"Liberty Stadium, Swansea",Swansea,Man City,1,2,2,4,0.47,0.52,9,11,13,22,683,732,463,530,20,23,18,14,11,7,0,2,0,3,0,0,8,8,Mark Clattenburg
+17/05/2015,14/15,"Old Trafford, Manchester",Manchester United,Arsenal,1,0,1,1,0.57,0.42,4,3,12,5,772,639,560,414,37,17,26,22,5,5,8,2,1,0,0,0,16,8,Mike Dean
+18/05/2015,14/15,"The Hawthorns, West Bromwich",West Brom,Chelsea,1,0,3,0,0.4,0.59,5,3,9,12,580,779,422,623,19,16,23,13,3,4,1,1,3,2,0,1,12,11,Mike Jones
+20/05/2015,14/15,"Emirates Stadium, London",Arsenal,Sunderland,0,0,0,0,0.75,0.24,8,3,28,7,1008,466,798,273,12,20,8,41,5,2,0,1,1,0,0,0,6,8,Anthony Taylor
+24/05/2015,14/15,"bet365 Stadium, Stoke",Stoke,Liverpool,5,0,6,1,0.45,0.54,9,4,15,13,637,689,431,514,18,20,23,17,3,9,1,1,4,2,0,0,13,4,Anthony Taylor
+24/05/2015,14/15,"St. James' Park, Newcastle",Newcastle United,West Ham,0,0,2,0,0.4,0.59,4,1,17,4,538,687,323,486,25,17,15,31,2,3,1,3,2,1,0,0,9,9,Martin Atkinson
+24/05/2015,14/15,"Etihad Stadium, Manchester",Man City,Southampton,1,0,2,0,0.54,0.45,6,4,15,13,670,602,475,393,16,21,29,16,8,4,0,7,1,1,0,0,13,8,Chris Foy
+24/05/2015,14/15,"King Power Stadium, Leicester",Leicester,Queens Park Rangers,2,0,5,1,0.45,0.54,7,2,22,18,565,628,350,422,16,18,25,25,5,6,3,1,0,0,0,0,7,6,Michael Oliver
+24/05/2015,14/15,"KCOM Stadium, Hull",Hull City,Manchester United,0,0,0,0,0.4,0.59,6,1,16,7,518,699,336,525,17,17,9,39,8,1,6,0,2,2,0,1,12,15,Lee Probert
+24/05/2015,14/15,"Goodison Park, Liverpool",Everton,Tottenham,0,1,0,1,0.4,0.59,1,3,9,16,588,826,409,624,15,15,20,21,3,5,2,4,1,2,0,0,12,8,Jonathan Moss
+24/05/2015,14/15,"Selhurst Park, London",Crystal Palace,Swansea,0,0,1,0,0.47,0.52,7,2,13,5,566,616,342,389,20,23,23,33,7,3,2,0,3,0,0,0,22,13,Craig Pawson
+24/05/2015,14/15,"Stamford Bridge, London",Chelsea,Sunderland,1,1,3,1,0.64,0.35,8,9,24,17,803,508,617,342,9,16,9,23,11,3,1,1,2,1,0,0,12,8,Lee Mason
+24/05/2015,14/15,"Villa Park, Birmingham",Aston Villa,Burnley,0,1,0,1,0.63,0.36,5,3,17,6,745,486,530,319,9,16,32,32,7,2,1,1,1,2,0,0,11,6,Mike Jones
+24/05/2015,14/15,"Emirates Stadium, London",Arsenal,West Brom,4,0,4,1,0.63,0.36,13,5,24,14,808,526,637,359,15,20,13,14,7,3,1,3,1,0,0,0,6,7,Robert Madley
+30/11/2014,14/15,"St. Mary's Stadium, Southampton",Southampton,Man City,0,0,0,3,0.52,0.47,4,6,13,15,660,636,468,441,15,19,12,31,8,6,5,0,1,2,0,1,10,13,Mike Jones
+26/12/2014,14/15,"Stadium of Light, Sunderland",Sunderland,Hull City,1,1,1,3,0.47,0.52,3,5,12,13,622,719,446,500,17,14,19,41,10,4,0,0,4,2,0,0,12,6,Andre Marriner
+01/01/2015,14/15,"bet365 Stadium, Stoke",Stoke,Manchester United,1,1,1,1,0.34,0.65,2,2,9,6,447,726,250,507,24,12,25,48,11,7,2,2,0,0,0,0,8,12,Michael Oliver
+14/03/2015,14/15,"Emirates Stadium, London",Arsenal,West Ham,1,0,3,0,0.67,0.32,9,1,19,7,797,502,590,272,16,18,16,52,7,5,3,3,1,1,0,0,10,9,Chris Foy
+09/05/2015,14/15,"Selhurst Park, London",Crystal Palace,Manchester United,0,1,1,2,0.37,0.62,4,4,13,13,462,682,267,477,9,26,18,48,7,6,4,1,0,1,0,0,13,12,Michael Oliver

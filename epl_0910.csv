@@ -1,0 +1,381 @@
+date,season,venue,home_team,away_team,ht_home_score,ht_away_score,home_score,away_score,home_possession_%,away_possession_%,home_shots_on_target,away_shots_on_target,home_shots,away_shots,home_touches,away_touches,home_passes,away_passes,home_tackles,away_tackles,home_clearances,away_clearances,home_corners,away_corners,home_offsides,away_offsides,home_yellow_cards,away_yellow_cards,home_red_cards,away_red_cards,home_fouls,away_fouls,referee
+01/02/2010,09/10,"Stadium of Light, Sunderland",Sunderland,Stoke,0,0,0,0,0.57,0.42,3,3,7,6,673,578,385,303,26,19,52,54,7,3,0,1,2,3,0,0,8,17,Howard Webb
+01/05/2010,09/10,"Britannia Stadium, Stoke",Stoke,Everton,0,0,0,0,0.45,0.54,3,2,14,11,561,637,329,376,18,24,24,56,6,5,1,2,0,0,0,0,10,10,Howard Webb
+01/05/2010,09/10,"Fratton Park, Portsmouth",Portsmouth,Wolverhampton Wanderers,2,1,3,1,0.44,0.55,6,9,13,20,483,545,284,351,11,13,41,20,7,9,5,2,0,1,0,0,11,13,Mike Jones
+01/05/2010,09/10,"Etihad Stadium, Manchester",Man City,Aston Villa,2,1,3,1,0.53,0.46,6,4,20,11,708,633,419,362,23,22,34,39,12,4,2,0,1,2,0,0,7,10,Mark Clattenburg
+01/05/2010,09/10,"St Andrews, Birmingham",Birmingham City,Burnley,2,0,2,1,0.52,0.47,3,4,14,13,700,619,441,379,20,15,26,29,7,8,5,0,2,1,0,0,12,12,Peter Walton
+01/05/2010,09/10,"White Hart Lane, London",Tottenham,Bolton Wanderers,1,0,1,0,0.55,0.44,6,2,20,12,712,578,376,300,21,33,42,38,11,5,5,3,0,3,0,0,13,12,Chris Foy
+01/11/2009,09/10,"St Andrews, Birmingham",Birmingham City,Man City,0,0,0,0,0.42,0.57,5,4,10,14,615,713,318,416,27,18,36,38,4,8,5,4,2,2,1,0,10,11,Mike Dean
+02/02/2010,09/10,"KCOM Stadium, Hull",Hull City,Chelsea,1,1,1,1,0.36,0.63,2,10,9,24,607,826,272,523,18,36,59,30,6,9,1,3,1,3,0,0,12,13,Mark Clattenburg
+02/05/2010,09/10,"Anfield, Liverpool",Liverpool,Chelsea,0,1,0,2,0.56,0.43,1,10,11,17,750,643,492,381,24,25,18,31,9,5,2,4,1,2,0,0,9,7,Alan Wiley
+02/05/2010,09/10,"Craven Cottage, London",Fulham,West Ham,1,0,3,2,0.49,0.5,2,5,7,8,668,716,462,490,25,29,31,40,9,3,1,3,0,0,0,0,14,17,Andre Marriner
+02/05/2010,09/10,"Stadium of Light, Sunderland",Sunderland,Manchester United,0,1,0,1,0.48,0.51,1,5,11,16,703,738,401,438,33,31,28,31,9,4,1,0,3,2,0,0,11,10,Stephen Bennett
+03/02/2010,09/10,"Craven Cottage, London",Fulham,Portsmouth,0,0,1,0,0.48,0.51,5,5,17,14,708,735,428,451,19,20,35,27,5,5,1,1,0,1,0,0,12,13,Anthony Taylor
+03/04/2010,09/10,"Turf Moor, Burnley",Burnley,Man City,0,5,1,6,0.46,0.53,4,9,17,20,667,761,403,482,15,17,27,33,6,7,2,1,0,0,0,0,8,10,Alan Wiley
+03/04/2010,09/10,"Emirates Stadium, London",Arsenal,Wolverhampton Wanderers,0,0,1,0,0.64,0.35,9,3,26,5,804,545,526,293,16,33,13,43,10,3,0,3,0,2,0,1,12,14,Andre Marriner
+03/04/2010,09/10,"Fratton Park, Portsmouth",Portsmouth,Blackburn Rovers,0,0,0,0,0.5,0.49,2,5,8,16,638,610,366,329,20,18,44,23,1,9,2,3,1,1,1,0,13,9,Stephen Bennett
+03/04/2010,09/10,"Britannia Stadium, Stoke",Stoke,Hull City,1,0,2,0,0.4,0.59,3,1,11,8,465,576,239,357,18,13,34,46,3,2,5,2,3,2,0,0,14,13,Lee Probert
+03/04/2010,09/10,"Stadium of Light, Sunderland",Sunderland,Tottenham,2,0,3,1,0.53,0.46,11,7,14,14,634,547,350,292,27,16,33,27,6,6,2,2,2,0,0,0,18,16,Lee Mason
+03/04/2010,09/10,"Old Trafford, Manchester",Manchester United,Chelsea,0,1,1,2,0.52,0.47,3,3,11,10,723,692,467,431,20,26,16,34,3,3,2,1,3,2,0,0,13,12,Mike Dean
+03/04/2010,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Aston Villa,0,1,0,1,0.52,0.47,5,5,19,16,625,624,350,317,30,15,29,57,5,8,1,4,4,1,0,0,13,14,Mike Jones
+03/05/2010,09/10,"DW Stadium, Wigan",Wigan Athletic,Hull City,1,1,2,2,0.63,0.36,3,3,14,6,832,574,561,313,21,33,17,24,8,1,1,6,2,0,0,0,11,14,Phil Dowd
+03/05/2010,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Arsenal,1,1,2,1,0.29,0.7,6,3,11,7,419,707,199,462,20,15,39,39,5,8,4,2,2,2,0,0,20,16,Martin Atkinson
+03/10/2009,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Tottenham,1,1,2,2,0.39,0.61,7,6,17,15,492,657,245,407,17,20,38,46,4,6,1,2,2,2,0,0,16,17,Mike Jones
+03/10/2009,09/10,"Old Trafford, Manchester",Manchester United,Sunderland,0,1,2,2,0.63,0.36,6,3,21,5,792,585,556,338,17,31,19,65,15,1,0,1,2,2,0,1,12,17,Alan Wiley
+03/10/2009,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Portsmouth,0,1,0,1,0.6,0.39,4,4,14,13,656,564,382,258,13,20,31,78,8,6,2,3,1,2,0,0,10,13,Howard Webb
+03/10/2009,09/10,"KCOM Stadium, Hull",Hull City,Wigan Athletic,0,0,2,1,0.25,0.74,5,5,13,13,453,848,188,595,32,23,39,27,4,2,4,0,0,2,0,0,15,11,Mark Clattenburg
+03/10/2009,09/10,"Turf Moor, Burnley",Burnley,Birmingham City,0,0,2,1,0.58,0.41,5,3,17,12,642,517,413,300,17,18,52,37,8,4,3,2,0,3,0,0,17,13,Kevin Friend
+04/04/2010,09/10,"Goodison Park, Liverpool",Everton,West Ham,1,0,2,2,0.57,0.42,2,5,12,15,705,601,449,333,29,23,25,48,2,8,2,4,2,3,0,0,7,17,Howard Webb
+04/04/2010,09/10,"Craven Cottage, London",Fulham,Wigan Athletic,0,1,2,1,0.52,0.47,5,3,8,16,739,743,446,406,33,25,38,38,6,3,2,3,1,2,0,0,13,11,Mark Clattenburg
+04/04/2010,09/10,"St Andrews, Birmingham",Birmingham City,Liverpool,0,0,1,1,0.41,0.58,3,3,10,20,650,814,382,537,21,19,37,23,4,4,1,0,2,1,0,0,15,9,Martin Atkinson
+04/10/2009,09/10,"Goodison Park, Liverpool",Everton,Stoke,0,0,1,1,0.6,0.39,11,5,25,8,682,514,413,262,17,16,50,63,11,3,0,4,1,3,0,0,8,16,Andre Marriner
+04/10/2009,09/10,"Emirates Stadium, London",Arsenal,Blackburn Rovers,3,2,6,2,0.65,0.34,16,5,24,7,809,534,518,275,17,18,36,32,8,1,4,4,1,1,0,0,11,10,Peter Walton
+04/10/2009,09/10,"Stamford Bridge, London",Chelsea,Liverpool,0,0,2,0,0.51,0.49,8,3,17,17,729,673,417,380,31,30,49,29,5,8,0,2,1,1,0,0,15,17,Martin Atkinson
+04/10/2009,09/10,"Boleyn Ground, London",West Ham,Fulham,1,0,2,2,0.64,0.35,7,6,29,11,840,569,584,317,20,13,20,52,8,4,1,1,3,2,0,1,14,15,Phil Dowd
+04/11/2009,09/10,"Boleyn Ground, London",West Ham,Aston Villa,1,0,2,1,0.54,0.45,7,8,20,19,651,590,385,297,20,19,34,42,6,14,3,3,2,3,0,1,11,16,Stephen Bennett
+05/01/2010,09/10,"Britannia Stadium, Stoke",Stoke,Fulham,3,0,3,2,0.42,0.57,8,4,15,20,588,683,303,428,19,14,48,32,8,10,5,1,1,0,0,0,13,9,Mark Clattenburg
+05/05/2010,09/10,"Craven Cottage, London",Fulham,Stoke,0,0,0,1,0.62,0.37,3,2,13,7,828,586,576,343,17,17,30,33,8,3,1,5,1,3,0,0,7,6,Peter Walton
+05/05/2010,09/10,"Etihad Stadium, Manchester",Man City,Tottenham,0,0,0,1,0.54,0.45,3,4,13,13,666,610,385,332,24,17,21,41,9,8,6,3,0,3,0,0,13,20,Stephen Bennett
+05/10/2009,09/10,"Villa Park, Birmingham",Aston Villa,Man City,1,0,1,1,0.43,0.56,1,4,12,12,665,777,364,469,33,24,32,22,6,6,2,0,1,2,0,0,12,9,Mike Dean
+05/12/2009,09/10,"DW Stadium, Wigan",Wigan Athletic,Birmingham City,1,0,2,3,0.57,0.42,6,6,18,12,646,544,391,279,24,28,29,32,2,2,1,4,2,0,0,0,14,11,Lee Probert
+05/12/2009,09/10,"Boleyn Ground, London",West Ham,Manchester United,0,1,0,4,0.42,0.57,3,5,11,16,629,773,395,526,14,17,41,18,2,7,3,2,0,1,0,0,9,16,Peter Walton
+05/12/2009,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Liverpool,0,0,0,0,0.39,0.6,2,2,10,15,578,722,324,478,21,23,34,24,0,8,4,2,1,0,0,0,15,10,Martin Atkinson
+05/12/2009,09/10,"Etihad Stadium, Manchester",Man City,Chelsea,1,1,2,1,0.48,0.52,7,6,16,12,561,588,342,379,21,18,26,28,9,6,4,7,1,6,0,0,14,17,Howard Webb
+05/12/2009,09/10,"Emirates Stadium, London",Arsenal,Stoke,1,0,2,0,0.66,0.33,7,3,15,5,934,584,645,324,22,35,41,36,10,2,1,8,0,0,0,0,4,12,Mark Clattenburg
+05/12/2009,09/10,"Fratton Park, Portsmouth",Portsmouth,Burnley,0,0,2,0,0.46,0.53,5,4,12,17,536,580,313,352,19,22,42,45,5,4,3,2,4,2,0,0,17,17,Phil Dowd
+05/12/2009,09/10,"Villa Park, Birmingham",Aston Villa,Hull City,2,0,3,0,0.47,0.52,4,0,17,8,594,620,317,360,28,26,38,35,9,3,1,1,4,3,0,0,16,17,Stuart Attwell
+05/12/2009,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Bolton Wanderers,1,0,2,1,0.45,0.54,5,8,12,21,509,578,254,325,18,11,51,44,10,10,1,3,2,1,0,0,12,16,Chris Foy
+06/02/2010,09/10,"Anfield, Liverpool",Liverpool,Everton,0,0,1,0,0.39,0.6,3,3,11,6,514,651,268,415,20,15,54,36,8,8,1,4,3,2,1,1,11,24,Martin Atkinson
+06/02/2010,09/10,"Stadium of Light, Sunderland",Sunderland,Wigan Athletic,0,1,1,1,0.54,0.45,4,3,14,16,621,580,350,310,22,19,35,47,2,2,3,2,4,5,0,0,12,17,Stuart Attwell
+06/02/2010,09/10,"Old Trafford, Manchester",Manchester United,Portsmouth,2,0,5,0,0.58,0.41,5,3,21,8,733,577,536,386,21,14,15,40,14,1,1,0,1,4,0,0,9,11,Lee Mason
+06/02/2010,09/10,"KCOM Stadium, Hull",Hull City,Man City,1,0,2,1,0.42,0.57,3,5,10,16,600,703,293,414,16,36,38,45,4,8,5,6,2,4,0,0,14,14,Phil Dowd
+06/02/2010,09/10,"Turf Moor, Burnley",Burnley,West Ham,1,0,2,1,0.5,0.49,2,8,8,23,596,608,342,338,17,19,36,31,3,5,2,4,2,1,0,0,15,14,Howard Webb
+06/02/2010,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Fulham,0,0,0,0,0.5,0.49,8,0,21,7,711,737,436,437,24,18,39,56,2,5,1,1,0,0,0,0,9,14,Mark Clattenburg
+06/02/2010,09/10,"White Hart Lane, London",Tottenham,Aston Villa,0,0,0,0,0.56,0.43,5,4,34,11,688,576,397,321,24,26,31,39,12,4,3,0,0,0,0,0,11,14,Chris Foy
+06/02/2010,09/10,"Britannia Stadium, Stoke",Stoke,Blackburn Rovers,2,0,3,0,0.49,0.5,6,1,16,9,468,451,225,243,11,15,54,58,12,7,1,2,2,2,0,1,14,20,Stephen Bennett
+06/03/2010,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Manchester United,0,0,0,1,0.45,0.54,2,4,14,16,717,784,438,520,20,25,36,35,2,4,0,1,2,1,0,0,10,8,Peter Walton
+06/03/2010,09/10,"Emirates Stadium, London",Arsenal,Burnley,1,0,3,1,0.64,0.35,10,6,28,9,831,548,537,290,22,19,18,40,8,2,2,0,0,4,0,0,9,12,Chris Foy
+06/03/2010,09/10,"Boleyn Ground, London",West Ham,Bolton Wanderers,0,2,1,2,0.58,0.41,5,5,22,17,758,615,437,302,17,27,52,58,6,3,4,1,2,4,0,1,13,24,Lee Probert
+06/12/2009,09/10,"Craven Cottage, London",Fulham,Sunderland,1,0,1,0,0.46,0.53,2,4,16,8,625,641,348,374,13,14,48,45,4,8,2,2,1,2,0,0,10,14,Mike Dean
+06/12/2009,09/10,"Goodison Park, Liverpool",Everton,Tottenham,0,0,2,2,0.53,0.46,5,8,16,21,652,609,391,328,21,22,25,50,1,6,4,3,4,4,0,0,14,19,Andre Marriner
+07/02/2010,09/10,"St Andrews, Birmingham",Birmingham City,Wolverhampton Wanderers,0,1,2,1,0.55,0.44,6,4,17,15,623,561,366,303,9,21,29,58,10,4,6,2,5,4,0,0,12,18,Lee Probert
+07/02/2010,09/10,"Stamford Bridge, London",Chelsea,Arsenal,2,0,2,0,0.41,0.58,5,2,13,14,700,815,369,519,36,29,40,17,4,8,7,1,2,2,0,0,12,15,Mike Dean
+07/03/2010,09/10,"Goodison Park, Liverpool",Everton,Hull City,2,1,5,1,0.55,0.44,7,3,21,8,664,563,447,371,17,18,37,39,4,1,1,0,0,1,0,0,12,23,Lee Mason
+07/11/2009,09/10,"White Hart Lane, London",Tottenham,Sunderland,1,0,2,0,0.5,0.49,3,7,15,18,650,631,380,361,21,22,51,31,4,4,7,5,1,2,0,0,11,19,Kevin Friend
+07/11/2009,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Arsenal,0,3,1,4,0.39,0.6,1,5,7,13,567,784,340,547,26,25,28,42,4,4,1,8,2,3,0,0,11,15,Stephen Bennett
+07/11/2009,09/10,"Villa Park, Birmingham",Aston Villa,Bolton Wanderers,2,1,5,1,0.56,0.43,12,6,22,14,694,574,368,283,27,37,50,42,8,1,2,1,1,4,0,0,16,17,Mark Clattenburg
+07/11/2009,09/10,"Etihad Stadium, Manchester",Man City,Burnley,1,2,3,3,0.53,0.46,7,4,17,8,660,587,442,396,27,14,23,34,8,3,7,1,1,3,0,0,13,11,Stuart Attwell
+07/11/2009,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Portsmouth,0,1,3,1,0.52,0.47,4,2,8,9,600,561,344,320,18,16,40,47,8,5,9,1,3,3,0,0,13,18,Andre Marriner
+08/03/2010,09/10,"DW Stadium, Wigan",Wigan Athletic,Liverpool,1,0,1,0,0.38,0.61,4,0,13,13,659,848,331,543,34,45,37,33,4,7,0,1,1,5,0,0,15,14,Andre Marriner
+08/11/2009,09/10,"DW Stadium, Wigan",Wigan Athletic,Fulham,1,1,1,1,0.57,0.42,9,4,22,11,692,566,448,327,20,20,52,34,10,6,0,5,2,1,0,0,15,15,Phil Dowd
+08/11/2009,09/10,"KCOM Stadium, Hull",Hull City,Stoke,0,1,2,1,0.56,0.43,5,3,16,8,649,549,379,294,20,14,39,41,4,2,1,0,1,3,0,1,13,16,Mike Dean
+08/11/2009,09/10,"Boleyn Ground, London",West Ham,Everton,0,1,1,2,0.59,0.4,4,5,20,11,782,626,461,318,30,31,41,61,5,4,2,0,0,5,0,0,13,19,Alan Wiley
+08/11/2009,09/10,"Stamford Bridge, London",Chelsea,Manchester United,0,0,1,0,0.47,0.52,6,2,12,18,656,671,400,453,12,17,35,26,0,7,1,2,3,3,0,0,13,15,Martin Atkinson
+09/01/2010,09/10,"Emirates Stadium, London",Arsenal,Everton,1,1,2,2,0.65,0.34,1,3,9,8,838,541,613,311,20,32,30,35,6,8,2,6,1,1,0,0,12,13,Peter Walton
+09/01/2010,09/10,"St Andrews, Birmingham",Birmingham City,Manchester United,1,0,1,1,0.37,0.62,4,3,7,21,578,789,317,523,27,27,42,34,2,12,3,5,2,1,0,1,13,13,Mark Clattenburg
+09/02/2010,09/10,"DW Stadium, Wigan",Wigan Athletic,Stoke,1,0,1,1,0.57,0.42,2,4,16,13,711,604,413,296,18,37,46,44,9,5,0,2,2,3,0,0,12,8,Andre Marriner
+09/02/2010,09/10,"Fratton Park, Portsmouth",Portsmouth,Sunderland,0,1,1,1,0.55,0.44,5,2,17,11,657,590,387,316,15,23,32,59,8,4,1,7,3,0,1,2,10,17,Kevin Friend
+09/02/2010,09/10,"Etihad Stadium, Manchester",Man City,Bolton Wanderers,1,0,2,0,0.58,0.41,3,4,10,13,727,588,462,322,16,17,42,32,6,3,6,1,0,2,0,0,12,20,Mike Jones
+09/02/2010,09/10,"Craven Cottage, London",Fulham,Burnley,2,0,3,0,0.5,0.49,8,3,17,11,749,737,463,465,34,20,25,39,6,2,6,3,1,0,0,0,12,10,Stephen Bennett
+09/03/2010,09/10,"Fratton Park, Portsmouth",Portsmouth,Birmingham City,0,2,1,2,0.51,0.49,4,4,13,13,673,674,411,417,19,18,25,46,6,5,2,4,1,2,0,0,12,15,Mike Jones
+09/03/2010,09/10,"Stadium of Light, Sunderland",Sunderland,Bolton Wanderers,1,0,4,0,0.5,0.49,8,1,13,12,689,664,385,364,38,28,55,28,2,7,4,1,2,1,0,1,14,11,Stephen Bennett
+09/05/2010,09/10,"Boleyn Ground, London",West Ham,Man City,1,1,1,1,0.35,0.64,5,4,13,18,604,887,332,607,30,24,33,12,4,3,1,3,2,0,0,0,13,7,Howard Webb
+09/05/2010,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Sunderland,1,1,2,1,0.55,0.44,7,4,18,11,649,575,388,315,19,21,24,36,4,1,1,4,1,0,0,2,13,20,Lee Mason
+09/05/2010,09/10,"KCOM Stadium, Hull",Hull City,Liverpool,0,0,0,0,0.4,0.59,3,3,11,21,593,791,333,523,25,30,34,26,2,6,3,0,1,0,0,0,16,11,Andre Marriner
+09/05/2010,09/10,"Goodison Park, Liverpool",Everton,Portsmouth,0,0,1,0,0.63,0.36,8,4,22,11,786,547,536,320,13,18,14,30,13,1,0,5,0,0,0,0,11,12,Peter Walton
+09/05/2010,09/10,"Stamford Bridge, London",Chelsea,Wigan Athletic,2,0,8,0,0.53,0.46,10,2,19,4,686,595,466,415,18,13,13,18,2,3,5,3,2,3,0,1,14,10,Martin Atkinson
+09/05/2010,09/10,"Emirates Stadium, London",Arsenal,Fulham,3,0,4,0,0.64,0.35,6,0,18,3,863,546,646,356,18,27,14,21,5,2,6,4,2,2,0,0,13,10,Mike Jones
+09/05/2010,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Birmingham City,1,0,2,1,0.41,0.58,6,7,15,14,548,670,292,432,23,7,46,23,3,6,3,3,2,5,0,0,19,17,Kevin Friend
+09/05/2010,09/10,"Old Trafford, Manchester",Manchester United,Stoke,2,0,4,0,0.6,0.39,6,6,21,7,705,535,494,320,25,17,30,32,9,2,2,3,2,0,0,0,11,5,Mark Clattenburg
+09/05/2010,09/10,"Turf Moor, Burnley",Burnley,Tottenham,1,2,4,2,0.5,0.49,7,6,16,16,653,635,394,370,18,21,42,26,5,6,1,2,0,0,0,0,12,11,Mike Dean
+09/05/2010,09/10,"Villa Park, Birmingham",Aston Villa,Blackburn Rovers,0,0,0,1,0.65,0.34,8,1,18,11,645,454,434,238,22,22,28,48,11,5,1,3,2,1,0,0,14,13,Stephen Bennett
+09/11/2009,09/10,"Anfield, Liverpool",Liverpool,Birmingham City,1,2,2,2,0.77,0.23,7,2,35,5,985,495,654,187,35,27,23,64,11,1,2,3,1,2,0,0,8,9,Peter Walton
+10/02/2010,09/10,"Goodison Park, Liverpool",Everton,Chelsea,1,1,2,1,0.38,0.61,5,3,10,21,572,792,306,515,20,19,45,28,5,6,4,1,1,2,0,0,13,16,Alan Wiley
+10/02/2010,09/10,"Villa Park, Birmingham",Aston Villa,Manchester United,1,1,1,1,0.47,0.52,2,3,10,14,629,686,426,475,27,26,19,31,1,8,3,2,0,1,0,1,9,11,Peter Walton
+10/02/2010,09/10,"Emirates Stadium, London",Arsenal,Liverpool,0,0,1,0,0.47,0.52,3,4,11,10,724,765,431,472,20,30,45,26,3,6,3,3,3,2,0,0,21,15,Howard Webb
+10/02/2010,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Hull City,1,0,1,0,0.56,0.43,6,2,18,7,630,533,350,265,16,18,40,53,6,6,4,2,1,3,0,1,14,15,Lee Probert
+10/02/2010,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Tottenham,1,0,1,0,0.41,0.58,2,3,10,13,573,709,308,436,17,20,43,42,5,6,0,4,2,1,0,0,17,13,Mark Clattenburg
+10/02/2010,09/10,"Boleyn Ground, London",West Ham,Birmingham City,1,0,2,0,0.47,0.52,8,2,14,11,629,681,355,388,25,28,47,41,3,6,3,4,1,2,0,0,14,9,Mike Dean
+10/03/2010,09/10,"Turf Moor, Burnley",Burnley,Stoke,0,1,1,1,0.54,0.45,4,2,12,10,627,564,370,311,12,15,46,41,3,4,0,3,2,0,0,0,13,11,Howard Webb
+10/04/2010,09/10,"KCOM Stadium, Hull",Hull City,Burnley,1,1,1,4,0.5,0.49,4,7,14,10,532,539,284,284,19,21,39,65,6,1,1,3,5,1,0,0,19,14,Martin Atkinson
+10/04/2010,09/10,"Boleyn Ground, London",West Ham,Sunderland,0,0,1,0,0.43,0.56,3,3,12,10,609,652,317,398,18,23,49,27,2,7,3,1,1,3,0,0,15,21,Mike Jones
+11/01/2010,09/10,"Etihad Stadium, Manchester",Man City,Blackburn Rovers,2,0,4,1,0.59,0.4,6,3,14,11,755,581,496,342,27,17,35,35,4,3,4,2,1,1,0,0,6,12,Chris Foy
+11/04/2010,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Stoke,0,0,0,0,0.58,0.41,4,1,11,14,584,473,302,208,14,19,82,44,7,6,0,1,0,0,0,0,7,6,Chris Foy
+11/04/2010,09/10,"Etihad Stadium, Manchester",Man City,Birmingham City,3,1,5,1,0.53,0.47,8,2,23,9,746,645,482,427,21,22,32,24,8,4,3,1,0,3,0,0,12,10,Phil Dowd
+11/04/2010,09/10,"Anfield, Liverpool",Liverpool,Fulham,0,0,0,0,0.65,0.34,7,1,25,3,882,585,594,322,20,27,13,46,10,1,2,0,1,3,0,0,8,19,Andre Marriner
+11/04/2010,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Manchester United,0,0,0,0,0.33,0.66,1,4,9,16,524,813,291,561,20,11,35,28,1,7,4,1,1,2,0,0,12,13,Peter Walton
+12/09/2009,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Wolverhampton Wanderers,1,0,3,1,0.53,0.46,6,3,14,10,572,510,317,272,12,22,49,46,10,6,10,0,1,2,0,0,12,18,Stephen Bennett
+12/09/2009,09/10,"DW Stadium, Wigan",Wigan Athletic,West Ham,0,0,1,0,0.53,0.47,6,5,12,13,689,652,433,364,34,21,19,32,5,7,1,3,2,1,0,0,14,13,Alan Wiley
+12/09/2009,09/10,"Stadium of Light, Sunderland",Sunderland,Hull City,1,1,4,1,0.51,0.48,4,5,10,9,527,479,290,275,21,21,59,47,6,8,3,1,2,2,0,0,20,17,Martin Atkinson
+12/09/2009,09/10,"Britannia Stadium, Stoke",Stoke,Chelsea,1,1,1,2,0.27,0.72,2,6,4,29,417,724,178,475,19,17,55,25,4,14,2,1,3,3,0,0,15,12,Mike Dean
+12/09/2009,09/10,"Fratton Park, Portsmouth",Portsmouth,Bolton Wanderers,1,2,2,3,0.62,0.37,3,5,22,17,618,472,340,197,13,25,36,56,7,5,3,1,2,0,0,0,17,16,Chris Foy
+12/09/2009,09/10,"Etihad Stadium, Manchester",Man City,Arsenal,1,0,4,2,0.39,0.6,5,7,10,23,571,729,301,454,20,28,45,24,3,12,2,2,3,2,0,0,14,12,Mark Clattenburg
+12/09/2009,09/10,"Anfield, Liverpool",Liverpool,Burnley,2,0,4,0,0.6,0.39,15,3,28,7,757,539,525,340,25,21,30,25,7,5,4,3,0,2,0,0,8,11,Lee Mason
+12/09/2009,09/10,"White Hart Lane, London",Tottenham,Manchester United,1,2,1,3,0.49,0.5,6,11,14,18,692,726,434,455,24,21,32,27,3,9,0,9,3,1,0,1,17,13,Andre Marriner
+12/12/2009,09/10,"St Andrews, Birmingham",Birmingham City,West Ham,0,0,1,0,0.47,0.52,9,3,16,15,577,626,319,362,20,9,27,47,11,7,3,3,3,2,0,1,12,15,Lee Mason
+12/12/2009,09/10,"Old Trafford, Manchester",Manchester United,Aston Villa,0,1,0,1,0.67,0.32,5,3,19,8,915,597,620,295,25,29,22,43,9,4,0,0,1,1,0,0,6,16,Martin Atkinson
+12/12/2009,09/10,"Stadium of Light, Sunderland",Sunderland,Portsmouth,1,0,1,1,0.45,0.55,4,5,18,9,627,694,323,403,28,29,40,41,9,6,3,2,4,2,0,1,13,14,Stephen Bennett
+12/12/2009,09/10,"Britannia Stadium, Stoke",Stoke,Wigan Athletic,1,1,2,2,0.4,0.59,2,6,18,19,498,628,241,357,28,24,48,30,5,3,3,1,5,1,0,0,21,11,Mike Dean
+12/12/2009,09/10,"White Hart Lane, London",Tottenham,Wolverhampton Wanderers,0,1,0,1,0.67,0.32,7,2,26,5,836,484,561,252,15,21,33,35,3,5,4,3,0,5,0,0,9,14,Stuart Attwell
+12/12/2009,09/10,"KCOM Stadium, Hull",Hull City,Blackburn Rovers,0,0,0,0,0.47,0.52,7,4,11,16,593,651,325,378,20,26,45,43,3,4,1,3,1,2,0,0,14,20,Chris Foy
+12/12/2009,09/10,"Stamford Bridge, London",Chelsea,Everton,2,2,3,3,0.64,0.35,7,4,26,14,737,515,498,271,17,20,28,65,7,1,2,0,0,1,0,0,13,19,Phil Dowd
+12/12/2009,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Man City,2,2,3,3,0.35,0.64,3,6,13,16,528,739,256,471,29,13,63,48,5,9,2,2,3,1,0,1,13,11,Mark Clattenburg
+12/12/2009,09/10,"Turf Moor, Burnley",Burnley,Fulham,0,0,1,1,0.49,0.5,7,6,14,12,657,674,421,441,13,23,47,39,7,4,1,1,0,2,0,0,13,9,Mike Jones
+13/03/2010,09/10,"White Hart Lane, London",Tottenham,Blackburn Rovers,1,0,3,1,0.55,0.44,6,1,16,12,711,576,437,346,25,17,49,31,5,6,6,1,0,0,0,0,12,8,Howard Webb
+13/03/2010,09/10,"Stamford Bridge, London",Chelsea,West Ham,1,1,4,1,0.6,0.39,9,2,32,7,844,648,558,371,29,25,16,54,11,1,2,3,0,1,0,0,13,10,Mark Clattenburg
+13/03/2010,09/10,"Britannia Stadium, Stoke",Stoke,Aston Villa,0,0,0,0,0.41,0.58,3,3,16,12,507,631,236,357,9,17,45,73,8,6,2,2,0,4,0,0,7,8,Kevin Friend
+13/03/2010,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Wigan Athletic,1,0,4,0,0.4,0.59,5,5,9,14,533,669,248,364,40,21,39,38,3,6,3,1,1,2,0,0,23,14,Mike Dean
+13/03/2010,09/10,"St Andrews, Birmingham",Birmingham City,Everton,1,2,2,2,0.48,0.51,4,6,9,14,647,692,417,425,18,13,25,36,5,4,0,4,1,1,0,0,15,12,Lee Probert
+13/03/2010,09/10,"KCOM Stadium, Hull",Hull City,Arsenal,1,1,1,2,0.32,0.67,1,4,9,18,511,792,244,511,30,22,37,19,2,8,2,2,1,2,1,0,16,13,Andre Marriner
+13/03/2010,09/10,"Turf Moor, Burnley",Burnley,Wolverhampton Wanderers,0,1,1,2,0.53,0.46,8,3,20,7,544,502,335,294,14,16,31,49,11,6,2,6,1,4,0,0,10,22,Stephen Bennett
+13/04/2010,09/10,"Stamford Bridge, London",Chelsea,Bolton Wanderers,1,0,1,0,0.61,0.38,8,0,21,12,756,518,474,277,21,28,39,24,5,2,2,3,1,4,0,0,13,22,Lee Probert
+13/09/2009,09/10,"Craven Cottage, London",Fulham,Everton,0,1,2,1,0.51,0.48,8,4,19,13,657,648,377,348,15,25,42,50,5,4,0,8,1,1,0,0,7,14,Peter Walton
+13/09/2009,09/10,"St Andrews, Birmingham",Birmingham City,Aston Villa,0,0,0,1,0.5,0.49,3,2,13,13,660,636,397,403,19,22,38,53,7,1,0,3,1,2,0,0,10,20,Howard Webb
+13/12/2009,09/10,"Anfield, Liverpool",Liverpool,Arsenal,1,0,1,2,0.48,0.51,3,4,9,9,653,696,426,453,27,19,24,34,3,4,4,2,3,3,0,0,19,16,Howard Webb
+14/03/2010,09/10,"Old Trafford, Manchester",Manchester United,Fulham,0,0,3,0,0.56,0.43,9,3,35,8,836,686,548,440,15,14,16,38,10,0,2,2,1,1,0,0,7,12,Mike Jones
+14/03/2010,09/10,"Stadium of Light, Sunderland",Sunderland,Man City,1,0,1,1,0.45,0.55,4,7,15,17,632,724,356,435,30,19,33,22,3,6,2,3,2,4,0,0,12,12,Chris Foy
+14/04/2010,09/10,"Villa Park, Birmingham",Aston Villa,Everton,0,1,2,2,0.55,0.44,4,4,15,14,643,554,428,346,18,18,32,36,7,7,3,0,2,2,0,0,11,10,Martin Atkinson
+14/04/2010,09/10,"White Hart Lane, London",Tottenham,Arsenal,1,0,2,1,0.34,0.65,5,6,15,23,602,883,291,577,27,24,46,28,4,6,4,2,3,1,0,0,13,10,Mark Clattenburg
+14/04/2010,09/10,"DW Stadium, Wigan",Wigan Athletic,Portsmouth,0,0,0,0,0.61,0.38,8,1,24,6,751,536,484,297,21,25,8,40,9,3,1,2,2,1,0,0,16,9,Mike Dean
+15/03/2010,09/10,"Anfield, Liverpool",Liverpool,Portsmouth,3,0,4,1,0.64,0.35,9,3,25,9,830,565,598,321,21,17,13,26,8,4,0,1,0,2,0,0,10,16,Stuart Attwell
+15/08/2009,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Sunderland,0,1,0,1,0.54,0.45,3,6,13,20,563,552,285,233,22,18,55,84,4,7,0,3,2,1,0,0,16,13,Andre Marriner
+15/08/2009,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Man City,0,1,0,2,0.43,0.56,6,5,18,9,523,668,287,395,24,19,21,53,5,4,3,3,2,1,0,0,12,11,Mike Dean
+15/08/2009,09/10,"Villa Park, Birmingham",Aston Villa,Wigan Athletic,0,1,0,2,0.47,0.53,3,7,12,21,533,625,274,320,33,18,34,51,4,6,1,0,2,2,0,0,14,17,Mark Clattenburg
+15/08/2009,09/10,"Goodison Park, Liverpool",Everton,Arsenal,0,3,1,6,0.45,0.54,5,9,11,18,653,750,398,470,19,20,30,45,4,9,6,4,0,0,0,0,12,14,Mark Halsey
+15/08/2009,09/10,"Stamford Bridge, London",Chelsea,Hull City,1,1,2,1,0.67,0.32,10,2,33,8,798,488,507,225,14,21,38,43,12,4,2,2,1,2,0,0,14,16,Alan Wiley
+15/08/2009,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,West Ham,0,1,0,2,0.48,0.51,5,10,19,17,604,665,360,408,17,7,26,59,7,6,1,7,0,0,0,0,9,6,Chris Foy
+15/08/2009,09/10,"Britannia Stadium, Stoke",Stoke,Burnley,2,0,2,0,0.37,0.62,4,3,13,14,427,590,226,362,15,11,43,57,3,6,3,0,2,2,0,0,16,10,Stephen Bennett
+15/08/2009,09/10,"Fratton Park, Portsmouth",Portsmouth,Fulham,0,1,0,1,0.55,0.44,2,2,17,13,648,584,415,338,26,18,22,29,6,4,1,4,3,2,0,0,11,18,Martin Atkinson
+15/12/2009,09/10,"St Andrews, Birmingham",Birmingham City,Blackburn Rovers,1,0,2,1,0.5,0.49,5,3,17,11,637,615,368,346,16,20,49,56,6,7,4,2,2,2,0,0,10,17,Mike Jones
+15/12/2009,09/10,"Macron Stadium, Bolton",Bolton Wanderers,West Ham,0,0,3,1,0.44,0.55,7,5,28,13,650,760,366,470,19,12,34,60,8,4,2,0,4,1,0,0,10,11,Andre Marriner
+15/12/2009,09/10,"Stadium of Light, Sunderland",Sunderland,Aston Villa,0,1,0,2,0.57,0.42,2,3,17,11,713,597,432,322,17,24,25,63,7,1,0,0,1,2,1,0,16,15,Kevin Friend
+15/12/2009,09/10,"Old Trafford, Manchester",Manchester United,Wolverhampton Wanderers,2,0,3,0,0.58,0.41,10,0,19,5,849,662,598,427,13,20,19,35,8,3,0,1,1,1,0,0,11,14,Stephen Bennett
+16/01/2010,09/10,"Goodison Park, Liverpool",Everton,Man City,2,0,2,0,0.49,0.5,6,4,16,10,646,639,370,392,19,25,19,40,11,3,3,1,0,0,0,0,14,15,Andre Marriner
+16/01/2010,09/10,"Britannia Stadium, Stoke",Stoke,Liverpool,0,0,1,1,0.44,0.55,2,1,10,8,577,676,314,389,11,25,50,70,10,0,0,1,1,2,0,0,13,12,Lee Mason
+16/01/2010,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Wigan Athletic,0,0,0,2,0.52,0.47,2,9,14,21,654,639,406,376,11,19,27,57,5,3,2,3,3,2,1,1,15,17,Howard Webb
+16/01/2010,09/10,"White Hart Lane, London",Tottenham,Hull City,0,0,0,0,0.62,0.37,11,0,30,9,777,562,461,276,21,26,37,47,14,1,4,1,4,2,0,0,13,12,Martin Atkinson
+16/01/2010,09/10,"Old Trafford, Manchester",Manchester United,Burnley,0,0,3,0,0.59,0.4,10,4,27,13,707,537,485,343,19,15,25,50,7,1,3,1,0,0,0,0,13,8,Lee Probert
+16/01/2010,09/10,"Stamford Bridge, London",Chelsea,Sunderland,4,0,7,2,0.69,0.3,11,3,29,6,927,530,658,285,15,23,26,44,15,1,1,1,0,1,0,0,4,10,Chris Foy
+16/02/2010,09/10,"Britannia Stadium, Stoke",Stoke,Man City,0,0,1,1,0.36,0.63,3,1,10,10,474,670,238,413,25,20,36,38,3,3,1,1,3,3,1,0,21,15,Alan Wiley
+16/03/2010,09/10,"DW Stadium, Wigan",Wigan Athletic,Aston Villa,1,1,1,2,0.54,0.46,3,7,13,20,586,556,345,293,23,26,49,53,7,8,1,5,2,1,0,0,10,19,Stephen Bennett
+16/08/2009,09/10,"Old Trafford, Manchester",Manchester United,Birmingham City,1,0,1,0,0.63,0.37,11,2,30,7,868,628,587,344,25,26,23,34,12,2,2,0,1,1,0,0,13,9,Lee Mason
+16/08/2009,09/10,"White Hart Lane, London",Tottenham,Liverpool,1,0,2,1,0.47,0.52,7,3,20,9,645,698,383,424,33,22,27,34,6,5,2,2,3,3,0,0,12,17,Phil Dowd
+16/12/2009,09/10,"Turf Moor, Burnley",Burnley,Arsenal,1,1,1,1,0.46,0.53,2,7,9,19,643,671,367,430,18,34,44,40,3,6,8,4,2,0,0,0,11,12,Mike Dean
+16/12/2009,09/10,"White Hart Lane, London",Tottenham,Man City,1,0,3,0,0.48,0.51,3,3,21,11,717,705,420,448,18,26,34,23,5,6,8,4,2,3,0,0,10,10,Alan Wiley
+16/12/2009,09/10,"Anfield, Liverpool",Liverpool,Wigan Athletic,1,0,2,1,0.55,0.44,8,4,20,11,696,648,423,358,30,26,19,50,13,0,1,0,1,1,0,0,12,11,Phil Dowd
+16/12/2009,09/10,"Stamford Bridge, London",Chelsea,Portsmouth,1,0,2,1,0.6,0.39,8,2,27,8,794,608,517,341,21,22,23,41,11,2,4,4,0,0,0,0,10,11,Mark Clattenburg
+17/01/2010,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Fulham,1,0,2,0,0.4,0.59,6,4,11,16,629,787,347,496,15,22,58,39,3,5,3,5,1,3,0,0,16,10,Kevin Friend
+17/01/2010,09/10,"Villa Park, Birmingham",Aston Villa,West Ham,0,0,0,0,0.57,0.42,3,1,19,9,716,622,434,341,35,18,23,40,15,4,2,3,1,3,0,0,9,13,Mike Jones
+17/01/2010,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Arsenal,0,1,0,2,0.41,0.58,4,5,16,15,663,848,374,534,29,20,27,40,2,4,3,2,1,2,0,0,13,8,Phil Dowd
+17/02/2010,09/10,"DW Stadium, Wigan",Wigan Athletic,Bolton Wanderers,0,0,0,0,0.51,0.48,1,1,10,10,668,611,351,324,21,40,61,38,5,9,1,1,0,1,0,0,6,9,Howard Webb
+17/04/2010,09/10,"Etihad Stadium, Manchester",Man City,Manchester United,0,0,0,1,0.43,0.56,4,3,9,15,628,701,339,441,19,31,38,22,7,5,2,3,2,1,0,0,8,12,Martin Atkinson
+17/04/2010,09/10,"Stadium of Light, Sunderland",Sunderland,Burnley,2,0,2,1,0.49,0.5,9,2,17,10,579,587,304,332,17,23,47,45,3,3,3,1,3,2,0,0,14,18,Howard Webb
+17/04/2010,09/10,"Britannia Stadium, Stoke",Stoke,Bolton Wanderers,1,0,1,2,0.47,0.52,4,3,11,13,557,577,286,325,23,22,34,54,5,1,2,0,1,2,0,0,11,5,Stuart Attwell
+17/04/2010,09/10,"Craven Cottage, London",Fulham,Wolverhampton Wanderers,0,0,0,0,0.56,0.43,0,1,14,9,684,571,427,322,14,12,41,46,5,9,2,2,1,0,0,0,10,10,Mike Dean
+17/04/2010,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Everton,0,1,2,3,0.37,0.62,6,5,19,12,461,703,253,435,16,22,32,62,4,2,3,0,3,2,0,0,15,13,Andre Marriner
+17/04/2010,09/10,"St Andrews, Birmingham",Birmingham City,Hull City,0,0,0,0,0.49,0.5,2,3,13,12,624,652,369,386,22,17,37,38,8,1,0,3,0,0,0,0,12,13,Mark Clattenburg
+17/04/2010,09/10,"White Hart Lane, London",Tottenham,Chelsea,2,0,2,1,0.4,0.59,8,4,23,12,591,756,322,496,25,25,28,27,13,4,5,1,2,3,0,1,11,17,Phil Dowd
+17/10/2009,09/10,"Goodison Park, Liverpool",Everton,Wolverhampton Wanderers,0,0,1,1,0.55,0.44,4,4,14,12,717,613,419,337,22,16,70,54,6,5,2,2,1,2,0,1,8,16,Stuart Attwell
+17/10/2009,09/10,"Old Trafford, Manchester",Manchester United,Bolton Wanderers,2,0,2,1,0.58,0.41,7,6,15,18,717,561,488,344,22,24,39,40,12,1,4,1,0,1,0,0,15,10,Mark Clattenburg
+17/10/2009,09/10,"Fratton Park, Portsmouth",Portsmouth,Tottenham,0,2,1,2,0.49,0.5,8,3,24,13,602,579,292,302,28,32,34,47,10,9,6,1,2,3,1,1,18,16,Phil Dowd
+17/10/2009,09/10,"Britannia Stadium, Stoke",Stoke,West Ham,1,1,2,1,0.38,0.61,3,5,12,13,544,746,296,467,30,19,34,45,5,6,1,3,3,3,0,0,17,13,Martin Atkinson
+17/10/2009,09/10,"Emirates Stadium, London",Arsenal,Birmingham City,2,1,3,1,0.63,0.37,10,2,24,3,935,617,628,362,19,29,27,31,7,3,2,2,1,2,0,0,9,17,Lee Probert
+17/10/2009,09/10,"Stadium of Light, Sunderland",Sunderland,Liverpool,1,0,1,0,0.32,0.68,3,4,15,19,548,774,224,504,27,28,68,28,1,8,4,0,2,1,0,0,21,18,Mike Jones
+17/10/2009,09/10,"Villa Park, Birmingham",Aston Villa,Chelsea,1,1,2,1,0.34,0.65,3,7,9,21,536,823,255,544,33,19,34,27,6,9,4,3,2,1,0,0,19,13,Kevin Friend
+18/04/2010,09/10,"DW Stadium, Wigan",Wigan Athletic,Arsenal,0,1,3,2,0.49,0.5,8,7,19,12,683,680,395,397,33,28,11,28,8,3,2,2,2,1,0,0,15,16,Lee Mason
+18/04/2010,09/10,"Fratton Park, Portsmouth",Portsmouth,Aston Villa,1,1,1,2,0.42,0.57,6,9,19,13,630,756,346,450,25,24,30,26,7,6,3,1,0,0,0,0,5,12,Lee Probert
+18/08/2009,09/10,"DW Stadium, Wigan",Wigan Athletic,Wolverhampton Wanderers,0,1,0,1,0.64,0.35,4,2,20,9,715,487,485,260,12,20,29,40,4,4,5,3,0,3,0,0,8,25,Mike Jones
+18/08/2009,09/10,"Stadium of Light, Sunderland",Sunderland,Chelsea,1,0,1,3,0.26,0.73,1,6,4,27,448,918,224,658,23,13,39,35,1,14,3,1,2,2,0,0,15,11,Stephen Bennett
+18/10/2009,09/10,"DW Stadium, Wigan",Wigan Athletic,Man City,1,0,1,1,0.56,0.43,7,4,16,6,677,574,442,333,21,20,30,42,6,6,1,2,2,0,0,1,15,12,Alan Wiley
+18/10/2009,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Burnley,3,1,3,2,0.46,0.54,6,4,13,11,553,609,318,369,28,23,46,35,3,2,3,1,3,3,0,0,20,14,Chris Foy
+19/04/2010,09/10,"Anfield, Liverpool",Liverpool,West Ham,2,0,3,0,0.65,0.34,6,2,22,5,829,533,579,304,32,33,15,34,8,2,2,1,0,2,0,0,9,13,Peter Walton
+19/08/2009,09/10,"St Andrews, Birmingham",Birmingham City,Portsmouth,0,0,1,0,0.47,0.52,5,3,14,10,637,683,344,389,20,19,37,47,4,5,0,4,0,5,0,0,11,20,Lee Probert
+19/08/2009,09/10,"KCOM Stadium, Hull",Hull City,Tottenham,1,3,1,5,0.41,0.58,6,8,10,18,525,702,305,440,12,17,22,38,6,5,2,5,3,2,0,0,24,13,Chris Foy
+19/08/2009,09/10,"Anfield, Liverpool",Liverpool,Stoke,2,0,4,0,0.75,0.24,14,3,21,6,790,397,562,176,15,14,33,40,11,5,0,3,0,1,0,0,11,9,Peter Walton
+19/08/2009,09/10,"Turf Moor, Burnley",Burnley,Manchester United,1,0,1,0,0.33,0.66,3,3,9,19,520,777,292,569,9,15,73,14,1,13,0,3,2,1,0,0,8,12,Alan Wiley
+19/09/2009,09/10,"Turf Moor, Burnley",Burnley,Sunderland,1,1,3,1,0.5,0.49,3,4,9,9,590,570,361,345,21,20,42,30,4,4,0,5,0,3,0,0,4,15,Chris Foy
+19/09/2009,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Stoke,0,0,1,1,0.51,0.48,4,4,12,10,571,552,321,297,12,18,48,60,4,7,1,4,2,2,0,0,10,11,Mark Clattenburg
+19/09/2009,09/10,"Villa Park, Birmingham",Aston Villa,Portsmouth,2,0,2,0,0.49,0.51,3,6,6,17,509,565,302,323,12,19,18,30,7,5,2,2,2,0,0,0,17,13,Stuart Attwell
+19/09/2009,09/10,"Emirates Stadium, London",Arsenal,Wigan Athletic,1,0,4,0,0.61,0.38,9,5,26,13,732,532,449,279,25,31,15,30,6,4,2,1,2,2,0,0,8,20,Mike Jones
+19/09/2009,09/10,"Boleyn Ground, London",West Ham,Liverpool,2,2,2,3,0.42,0.57,3,5,12,19,646,776,359,506,23,33,38,13,4,4,2,2,3,3,0,0,15,17,Andre Marriner
+19/09/2009,09/10,"KCOM Stadium, Hull",Hull City,Birmingham City,0,0,0,1,0.44,0.55,3,8,17,15,615,684,312,407,17,17,65,49,10,8,0,2,0,2,0,0,15,13,Phil Dowd
+19/10/2009,09/10,"Craven Cottage, London",Fulham,Hull City,1,0,2,0,0.59,0.4,8,0,20,8,765,582,520,356,16,13,40,41,7,4,5,3,1,1,0,0,15,15,Andre Marriner
+19/12/2009,09/10,"Emirates Stadium, London",Arsenal,Hull City,1,0,3,0,0.64,0.35,4,3,20,9,885,614,606,324,28,25,31,22,8,0,0,4,1,5,0,0,9,17,Stephen Bennett
+19/12/2009,09/10,"Fratton Park, Portsmouth",Portsmouth,Liverpool,1,0,2,0,0.45,0.54,3,1,15,8,661,728,373,447,36,22,51,23,8,9,1,3,2,3,0,1,8,13,Lee Mason
+19/12/2009,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Tottenham,0,1,0,2,0.44,0.56,7,2,13,7,657,785,389,500,19,29,18,47,5,0,1,2,0,1,0,0,9,11,Peter Walton
+19/12/2009,09/10,"Craven Cottage, London",Fulham,Manchester United,1,0,3,0,0.41,0.58,6,2,11,16,708,873,429,620,20,26,45,23,5,2,3,1,0,1,0,0,10,9,Howard Webb
+19/12/2009,09/10,"Etihad Stadium, Manchester",Man City,Sunderland,3,2,4,3,0.55,0.44,6,5,14,10,666,565,426,333,16,20,34,21,6,4,5,5,2,2,0,1,14,8,Andre Marriner
+19/12/2009,09/10,"Villa Park, Birmingham",Aston Villa,Stoke,0,0,1,0,0.53,0.47,5,0,18,15,657,579,381,340,18,18,61,19,3,4,0,0,0,1,0,0,10,16,Lee Probert
+20/01/2010,09/10,"Anfield, Liverpool",Liverpool,Tottenham,1,0,2,0,0.44,0.55,5,3,14,10,617,699,344,424,26,20,32,39,2,3,2,5,2,3,0,0,11,17,Howard Webb
+20/01/2010,09/10,"Emirates Stadium, London",Arsenal,Bolton Wanderers,1,2,4,2,0.62,0.37,13,4,21,12,795,535,510,293,14,23,40,38,9,3,4,1,1,2,0,0,22,15,Alan Wiley
+20/02/2010,09/10,"Boleyn Ground, London",West Ham,Hull City,1,0,3,0,0.56,0.43,9,2,22,8,689,568,421,317,21,16,43,29,9,1,3,2,1,0,0,1,13,13,Martin Atkinson
+20/02/2010,09/10,"Emirates Stadium, London",Arsenal,Sunderland,1,0,2,0,0.67,0.32,7,3,24,7,845,512,559,259,18,23,27,44,7,1,2,3,1,5,0,0,9,12,Stephen Bennett
+20/02/2010,09/10,"Fratton Park, Portsmouth",Portsmouth,Stoke,1,0,1,2,0.57,0.42,3,4,16,14,633,538,363,283,18,18,40,35,7,7,2,4,2,0,0,1,12,10,Mike Dean
+20/02/2010,09/10,"Goodison Park, Liverpool",Everton,Manchester United,1,1,3,1,0.46,0.53,5,2,12,13,623,681,352,413,17,22,54,39,4,12,3,0,5,1,0,0,12,11,Howard Webb
+20/02/2010,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Chelsea,0,1,0,2,0.42,0.57,5,2,12,8,609,728,350,477,14,20,44,34,1,5,1,1,0,1,0,0,12,14,Kevin Friend
+20/03/2010,09/10,"DW Stadium, Wigan",Wigan Athletic,Burnley,0,0,1,0,0.55,0.44,5,3,21,13,631,539,318,267,25,18,39,53,5,3,1,0,1,3,0,0,11,14,Mike Jones
+20/03/2010,09/10,"Villa Park, Birmingham",Aston Villa,Wolverhampton Wanderers,1,2,2,2,0.53,0.46,3,3,19,8,608,547,364,340,18,16,51,52,7,5,0,0,1,2,0,0,11,14,Mark Clattenburg
+20/03/2010,09/10,"Emirates Stadium, London",Arsenal,West Ham,1,0,2,0,0.55,0.44,4,3,11,10,788,678,525,414,30,35,10,32,4,2,1,2,1,4,1,0,10,27,Martin Atkinson
+20/03/2010,09/10,"Goodison Park, Liverpool",Everton,Bolton Wanderers,0,0,2,0,0.66,0.33,6,3,21,9,793,514,512,259,17,25,26,52,6,1,0,1,1,1,0,1,15,17,Alan Wiley
+20/03/2010,09/10,"Fratton Park, Portsmouth",Portsmouth,Hull City,1,1,3,2,0.59,0.41,3,2,19,9,703,565,455,310,10,16,20,31,11,1,2,6,1,1,0,0,7,9,Phil Dowd
+20/03/2010,09/10,"Britannia Stadium, Stoke",Stoke,Tottenham,0,0,1,2,0.42,0.57,2,6,10,18,556,710,300,411,22,17,23,44,6,7,0,1,1,2,1,0,7,9,Mike Dean
+20/03/2010,09/10,"Stadium of Light, Sunderland",Sunderland,Birmingham City,2,0,3,1,0.43,0.56,7,9,16,26,612,709,312,420,27,21,45,22,6,10,2,0,0,1,0,0,8,9,Peter Walton
+20/09/2009,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Fulham,1,0,2,1,0.44,0.55,3,4,13,8,622,706,370,446,8,16,48,59,3,3,3,4,2,1,0,0,16,11,Kevin Friend
+20/09/2009,09/10,"Old Trafford, Manchester",Manchester United,Man City,1,1,4,3,0.61,0.39,8,4,24,11,719,593,480,326,15,27,11,51,12,1,0,1,2,2,0,0,15,16,Martin Atkinson
+20/09/2009,09/10,"Stamford Bridge, London",Chelsea,Tottenham,1,0,3,0,0.49,0.5,10,3,28,9,620,622,373,393,17,16,19,34,11,3,2,2,0,2,0,0,8,10,Howard Webb
+20/09/2009,09/10,"Goodison Park, Liverpool",Everton,Blackburn Rovers,1,0,3,0,0.57,0.43,9,4,21,8,689,532,408,304,18,14,61,26,6,2,3,2,1,2,0,0,15,18,Lee Mason
+20/12/2009,09/10,"Goodison Park, Liverpool",Everton,Birmingham City,1,1,1,1,0.58,0.42,3,1,24,6,776,615,491,361,14,19,28,44,6,4,7,0,0,3,0,0,8,10,Stuart Attwell
+20/12/2009,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Burnley,1,0,2,0,0.47,0.52,9,5,13,12,605,645,370,408,28,18,41,44,5,4,1,1,2,1,0,0,18,8,Martin Atkinson
+20/12/2009,09/10,"Boleyn Ground, London",West Ham,Chelsea,1,0,1,1,0.41,0.58,5,5,8,24,631,783,341,505,23,22,36,26,5,5,4,1,4,3,0,0,19,15,Mike Dean
+21/02/2010,09/10,"DW Stadium, Wigan",Wigan Athletic,Tottenham,0,1,0,3,0.5,0.49,3,10,8,13,667,663,388,378,21,34,21,34,3,2,2,1,3,4,0,0,17,14,Alan Wiley
+21/02/2010,09/10,"Etihad Stadium, Manchester",Man City,Liverpool,0,0,0,0,0.44,0.55,1,1,5,7,667,764,400,514,19,25,29,31,8,6,3,2,1,6,0,0,9,15,Peter Walton
+21/02/2010,09/10,"Craven Cottage, London",Fulham,Birmingham City,0,1,2,1,0.57,0.43,6,5,13,10,766,606,526,399,17,19,48,28,3,1,2,0,1,1,0,0,10,17,Phil Dowd
+21/02/2010,09/10,"Villa Park, Birmingham",Aston Villa,Burnley,1,1,5,2,0.47,0.52,9,4,19,13,608,649,351,401,17,15,28,35,9,5,4,2,0,3,0,0,7,15,Stuart Attwell
+21/02/2010,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Bolton Wanderers,1,0,3,0,0.41,0.59,7,5,13,12,541,632,235,348,21,27,48,38,8,3,4,2,0,1,0,0,16,12,Chris Foy
+21/03/2010,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Chelsea,0,1,1,1,0.39,0.6,4,3,8,16,552,710,298,446,24,18,48,33,3,11,2,2,0,1,0,0,11,12,Stephen Bennett
+21/03/2010,09/10,"Craven Cottage, London",Fulham,Man City,0,2,1,2,0.54,0.45,3,8,13,17,827,748,563,490,17,18,21,39,4,2,5,1,0,0,0,0,8,13,Lee Probert
+21/03/2010,09/10,"Old Trafford, Manchester",Manchester United,Liverpool,1,1,2,1,0.55,0.44,5,2,12,5,776,658,535,428,25,29,14,18,1,2,1,3,2,3,0,0,11,17,Howard Webb
+21/04/2010,09/10,"KCOM Stadium, Hull",Hull City,Aston Villa,0,1,0,2,0.49,0.5,5,5,15,11,621,636,364,375,15,25,16,46,11,9,2,3,2,2,0,0,8,8,Mike Dean
+21/11/2009,09/10,"KCOM Stadium, Hull",Hull City,West Ham,3,2,3,3,0.54,0.45,3,9,12,16,605,578,372,311,26,22,31,63,5,3,0,0,0,4,1,0,11,21,Mark Clattenburg
+21/11/2009,09/10,"Old Trafford, Manchester",Manchester United,Everton,1,0,3,0,0.65,0.34,5,5,18,12,940,634,674,354,24,30,16,49,13,4,1,3,2,2,0,0,5,10,Stephen Bennett
+21/11/2009,09/10,"St Andrews, Birmingham",Birmingham City,Fulham,1,0,1,0,0.34,0.66,2,2,3,14,539,805,276,541,16,16,39,35,0,5,4,1,1,0,0,0,7,13,Chris Foy
+21/11/2009,09/10,"Turf Moor, Burnley",Burnley,Aston Villa,1,0,1,1,0.47,0.52,4,2,12,11,553,586,324,356,17,24,46,27,5,8,2,3,0,3,0,0,7,14,Howard Webb
+21/11/2009,09/10,"Stamford Bridge, London",Chelsea,Wolverhampton Wanderers,3,0,4,0,0.64,0.35,8,1,26,8,872,569,618,327,18,20,26,34,5,6,2,2,0,2,0,0,5,14,Lee Mason
+21/11/2009,09/10,"Stadium of Light, Sunderland",Sunderland,Arsenal,0,0,1,0,0.35,0.64,2,2,8,12,579,833,291,533,29,15,33,36,2,6,3,1,2,1,0,0,10,11,Alan Wiley
+21/11/2009,09/10,"Anfield, Liverpool",Liverpool,Man City,0,0,2,2,0.57,0.42,4,4,17,9,752,632,506,379,22,17,22,35,7,3,1,4,2,0,0,0,10,13,Phil Dowd
+22/08/2009,09/10,"Stadium of Light, Sunderland",Sunderland,Blackburn Rovers,1,1,2,1,0.53,0.46,3,4,9,25,537,462,292,249,20,16,62,34,0,10,1,3,2,1,0,0,12,19,Alan Wiley
+22/08/2009,09/10,"DW Stadium, Wigan",Wigan Athletic,Manchester United,0,0,0,5,0.48,0.51,5,11,18,20,624,671,372,393,30,31,23,28,2,5,0,4,2,2,0,0,11,9,Howard Webb
+22/08/2009,09/10,"St Andrews, Birmingham",Birmingham City,Stoke,0,0,0,0,0.56,0.43,2,1,11,16,614,501,343,251,16,19,65,53,3,3,4,1,0,3,0,0,10,16,Chris Foy
+22/08/2009,09/10,"Emirates Stadium, London",Arsenal,Portsmouth,2,1,4,1,0.59,0.4,12,3,23,10,868,618,596,393,18,21,15,18,8,4,5,2,1,0,0,0,9,12,Stephen Bennett
+22/08/2009,09/10,"Etihad Stadium, Manchester",Man City,Wolverhampton Wanderers,1,0,1,0,0.56,0.43,7,2,17,12,697,557,437,322,18,24,32,34,5,6,6,3,0,1,0,0,9,12,Lee Mason
+22/08/2009,09/10,"KCOM Stadium, Hull",Hull City,Bolton Wanderers,0,0,1,0,0.46,0.53,4,5,12,23,533,570,271,298,18,24,68,39,4,10,3,0,3,2,0,0,19,19,Mike Jones
+22/11/2009,09/10,"Britannia Stadium, Stoke",Stoke,Portsmouth,0,0,1,0,0.41,0.58,3,5,10,18,488,563,226,317,22,18,44,39,4,4,2,2,1,2,0,0,16,14,Kevin Friend
+22/11/2009,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Blackburn Rovers,0,1,0,2,0.41,0.58,2,6,19,17,527,639,259,370,33,21,46,62,7,7,0,1,3,1,0,0,15,13,Mike Dean
+22/11/2009,09/10,"White Hart Lane, London",Tottenham,Wigan Athletic,1,0,9,1,0.54,0.45,15,4,27,12,686,582,417,350,26,18,21,33,10,5,5,3,1,0,0,0,9,10,Peter Walton
+23/01/2010,09/10,"Old Trafford, Manchester",Manchester United,Hull City,1,0,4,0,0.59,0.4,10,2,25,8,796,653,516,348,15,25,32,35,12,8,2,3,1,1,0,0,6,10,Stephen Bennett
+23/02/2010,09/10,"Old Trafford, Manchester",Manchester United,West Ham,1,0,3,0,0.53,0.46,10,4,16,13,798,713,522,452,20,25,31,15,6,7,3,0,0,1,0,0,13,15,Alan Wiley
+23/03/2010,09/10,"Boleyn Ground, London",West Ham,Wolverhampton Wanderers,0,1,1,3,0.55,0.44,9,3,21,5,674,615,417,350,18,22,40,50,7,5,2,1,0,2,0,0,9,24,Phil Dowd
+23/08/2009,09/10,"Craven Cottage, London",Fulham,Chelsea,0,1,0,2,0.39,0.6,1,4,6,16,601,830,362,574,15,15,33,31,4,7,2,5,0,0,0,0,11,11,Andre Marriner
+23/08/2009,09/10,"Boleyn Ground, London",West Ham,Tottenham,0,0,1,2,0.46,0.53,5,6,19,22,586,633,332,368,19,24,37,32,4,8,1,2,2,1,0,0,16,11,Mark Clattenburg
+23/08/2009,09/10,"Turf Moor, Burnley",Burnley,Everton,1,0,1,0,0.4,0.59,3,1,12,23,509,650,284,413,18,18,52,31,3,7,2,1,1,0,0,0,13,14,Phil Dowd
+24/03/2010,09/10,"Etihad Stadium, Manchester",Man City,Everton,0,1,0,2,0.59,0.4,4,3,17,10,763,578,500,334,15,21,21,49,7,4,5,1,3,2,0,0,11,13,Peter Walton
+24/03/2010,09/10,"Fratton Park, Portsmouth",Portsmouth,Chelsea,0,1,0,5,0.4,0.59,0,9,9,18,542,725,326,497,14,16,29,22,1,7,1,3,3,2,0,0,11,14,Lee Mason
+24/03/2010,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Birmingham City,1,0,2,1,0.41,0.58,3,2,9,9,544,659,304,423,13,17,46,26,5,6,3,0,2,1,0,0,18,10,Mark Clattenburg
+24/03/2010,09/10,"Villa Park, Birmingham",Aston Villa,Sunderland,1,1,1,1,0.48,0.52,4,3,16,10,608,647,325,370,20,21,38,50,6,7,4,4,0,0,0,0,8,7,Mike Dean
+24/04/2010,09/10,"Old Trafford, Manchester",Manchester United,Tottenham,0,0,3,1,0.56,0.43,6,3,19,9,714,588,436,336,23,16,32,37,4,4,4,1,1,0,0,0,14,10,Andre Marriner
+24/04/2010,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Blackburn Rovers,0,1,1,1,0.59,0.41,2,8,15,13,654,508,377,253,14,21,43,54,4,4,4,4,0,1,0,0,12,10,Mark Clattenburg
+24/04/2010,09/10,"Boleyn Ground, London",West Ham,Wigan Athletic,2,1,3,2,0.45,0.54,6,5,11,14,583,631,337,404,32,23,37,30,4,5,1,1,1,2,0,0,13,12,Alan Wiley
+24/04/2010,09/10,"KCOM Stadium, Hull",Hull City,Sunderland,0,1,0,1,0.54,0.45,5,5,15,11,632,569,346,280,30,20,35,56,3,6,1,2,1,3,1,1,14,17,Lee Probert
+24/04/2010,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Portsmouth,2,0,2,2,0.54,0.45,10,5,16,16,648,593,360,314,28,21,22,30,12,5,1,1,1,1,0,0,17,14,Howard Webb
+24/04/2010,09/10,"Emirates Stadium, London",Arsenal,Man City,0,0,0,0,0.59,0.4,4,1,13,3,778,621,498,348,20,32,10,39,4,1,2,3,4,2,0,0,14,14,Mike Dean
+24/08/2009,09/10,"Anfield, Liverpool",Liverpool,Aston Villa,0,2,1,3,0.67,0.32,11,4,24,8,799,509,563,262,21,23,26,48,10,4,1,3,3,2,0,0,14,11,Martin Atkinson
+24/10/2009,09/10,"St Andrews, Birmingham",Birmingham City,Sunderland,1,0,2,1,0.44,0.55,7,3,21,17,610,670,293,359,23,30,61,45,6,8,5,1,3,1,0,0,10,15,Martin Atkinson
+24/10/2009,09/10,"White Hart Lane, London",Tottenham,Stoke,0,0,0,1,0.63,0.36,9,1,21,11,705,504,463,266,11,23,32,38,6,1,1,2,0,3,0,0,10,19,Lee Probert
+24/10/2009,09/10,"KCOM Stadium, Hull",Hull City,Portsmouth,0,0,0,0,0.43,0.56,1,2,8,11,504,614,267,354,15,15,39,52,6,6,2,1,2,1,0,0,16,25,Stuart Attwell
+24/10/2009,09/10,"Turf Moor, Burnley",Burnley,Wigan Athletic,1,1,1,3,0.48,0.51,5,6,12,14,628,657,401,439,25,33,31,29,6,4,2,1,2,0,0,0,12,11,Lee Mason
+24/10/2009,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Aston Villa,0,0,1,1,0.48,0.51,2,3,12,10,561,608,295,313,18,23,45,49,7,3,2,3,1,2,0,0,12,17,Peter Walton
+24/10/2009,09/10,"Stamford Bridge, London",Chelsea,Blackburn Rovers,1,0,5,0,0.68,0.31,13,2,28,9,783,450,566,255,10,19,29,40,8,0,1,5,0,1,0,0,8,12,Alan Wiley
+25/04/2010,09/10,"Stamford Bridge, London",Chelsea,Stoke,3,0,7,0,0.7,0.29,14,0,33,3,793,431,549,215,16,15,15,24,7,0,0,2,0,3,0,0,15,13,Stephen Bennett
+25/04/2010,09/10,"Goodison Park, Liverpool",Everton,Fulham,0,1,2,1,0.55,0.44,7,3,17,8,753,630,513,426,21,29,35,46,10,3,1,0,0,1,0,0,7,15,Lee Mason
+25/04/2010,09/10,"Turf Moor, Burnley",Burnley,Liverpool,0,0,0,4,0.45,0.54,4,7,16,15,694,750,379,448,24,34,38,41,4,5,1,1,2,1,0,0,14,13,Phil Dowd
+25/04/2010,09/10,"Villa Park, Birmingham",Aston Villa,Birmingham City,0,0,1,0,0.5,0.49,6,7,12,16,594,561,322,309,25,31,42,19,6,5,0,1,1,4,0,0,14,17,Martin Atkinson
+25/10/2009,09/10,"Anfield, Liverpool",Liverpool,Manchester United,0,0,2,0,0.43,0.56,5,3,16,8,658,769,360,476,32,25,41,29,5,1,1,3,1,2,1,1,20,13,Andre Marriner
+25/10/2009,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Everton,2,1,3,2,0.43,0.56,5,5,13,18,493,626,262,357,18,13,41,66,5,4,2,2,3,1,0,0,15,16,Phil Dowd
+25/10/2009,09/10,"Boleyn Ground, London",West Ham,Arsenal,0,2,2,2,0.46,0.53,3,6,16,17,622,691,351,403,18,27,42,36,6,8,5,2,2,2,1,0,19,16,Chris Foy
+25/10/2009,09/10,"Etihad Stadium, Manchester",Man City,Fulham,0,0,2,2,0.57,0.42,6,5,24,13,735,621,482,368,14,20,20,38,14,2,3,3,0,2,0,0,14,13,Kevin Friend
+25/11/2009,09/10,"KCOM Stadium, Hull",Hull City,Everton,3,0,3,2,0.43,0.56,6,2,8,6,517,602,302,390,11,26,42,37,3,4,1,1,1,4,0,0,19,23,Martin Atkinson
+25/11/2009,09/10,"Craven Cottage, London",Fulham,Blackburn Rovers,1,0,3,0,0.46,0.53,4,3,13,13,604,672,371,442,16,13,47,33,3,3,1,4,0,0,0,0,9,13,Stuart Attwell
+26/01/2010,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Liverpool,0,0,0,0,0.46,0.53,1,1,6,8,698,762,425,467,18,18,39,42,0,7,2,2,0,1,0,0,9,9,Peter Walton
+26/01/2010,09/10,"Fratton Park, Portsmouth",Portsmouth,West Ham,0,0,1,1,0.5,0.49,8,6,17,16,682,711,409,406,19,28,27,43,6,4,1,2,3,1,0,0,17,11,Andre Marriner
+26/01/2010,09/10,"White Hart Lane, London",Tottenham,Fulham,1,0,2,0,0.5,0.49,5,3,16,11,732,729,467,488,17,20,32,35,11,3,2,5,1,1,0,0,13,17,Mike Dean
+26/01/2010,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Burnley,1,0,1,0,0.42,0.57,3,1,18,11,541,634,286,388,18,21,54,47,4,7,3,2,3,2,0,0,12,10,Martin Atkinson
+26/09/2009,09/10,"DW Stadium, Wigan",Wigan Athletic,Chelsea,1,0,3,1,0.46,0.53,10,2,16,16,634,672,371,419,20,23,26,13,4,7,5,3,1,2,0,1,12,15,Phil Dowd
+26/09/2009,09/10,"Craven Cottage, London",Fulham,Arsenal,0,0,0,1,0.49,0.5,8,4,20,16,714,767,417,437,28,20,36,52,3,6,4,2,4,0,0,0,15,13,Martin Atkinson
+26/09/2009,09/10,"St Andrews, Birmingham",Birmingham City,Bolton Wanderers,0,1,1,2,0.62,0.37,4,4,14,12,702,543,442,272,14,17,39,62,8,4,4,3,2,1,0,0,11,17,Stephen Bennett
+26/09/2009,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Aston Villa,1,1,2,1,0.47,0.52,4,4,22,8,526,532,292,312,14,20,30,46,6,5,4,2,1,2,1,0,15,13,Mark Clattenburg
+26/09/2009,09/10,"Anfield, Liverpool",Liverpool,Hull City,2,1,6,1,0.63,0.36,8,2,25,10,722,506,491,295,21,24,33,48,13,2,2,2,1,4,0,0,11,5,Peter Walton
+26/09/2009,09/10,"Britannia Stadium, Stoke",Stoke,Manchester United,0,0,0,2,0.31,0.68,1,3,3,14,484,799,252,548,14,16,54,32,0,8,1,4,1,1,0,0,12,8,Howard Webb
+26/09/2009,09/10,"White Hart Lane, London",Tottenham,Burnley,2,0,5,0,0.51,0.48,10,5,19,12,624,587,416,391,23,12,38,31,2,7,8,7,1,2,0,0,10,13,Mike Dean
+26/09/2009,09/10,"Fratton Park, Portsmouth",Portsmouth,Everton,0,1,0,1,0.51,0.48,3,6,19,13,618,612,342,313,26,22,35,54,5,6,0,3,0,3,0,0,15,17,Alan Wiley
+26/12/2009,09/10,"Craven Cottage, London",Fulham,Tottenham,0,0,0,0,0.51,0.48,6,2,16,9,689,633,432,394,19,18,34,26,4,2,1,2,1,0,0,0,19,13,Stephen Bennett
+26/12/2009,09/10,"St Andrews, Birmingham",Birmingham City,Chelsea,0,0,0,0,0.37,0.63,2,7,14,30,534,757,259,438,25,12,35,51,7,11,4,3,1,1,0,1,6,17,Peter Walton
+26/12/2009,09/10,"Anfield, Liverpool",Liverpool,Wolverhampton Wanderers,0,0,2,0,0.66,0.33,8,1,18,5,818,513,585,293,18,22,14,34,7,1,3,0,0,0,0,1,9,10,Andre Marriner
+26/12/2009,09/10,"Etihad Stadium, Manchester",Man City,Stoke,2,0,2,0,0.62,0.37,6,2,13,8,779,556,529,303,16,15,45,35,7,6,0,4,0,2,0,0,13,11,Lee Mason
+26/12/2009,09/10,"Stadium of Light, Sunderland",Sunderland,Everton,1,0,1,1,0.38,0.61,5,1,11,15,550,723,288,439,19,13,52,31,4,12,2,1,1,3,0,0,22,20,Martin Atkinson
+26/12/2009,09/10,"Boleyn Ground, London",West Ham,Portsmouth,1,0,2,0,0.5,0.5,6,3,17,14,667,651,366,353,26,20,45,39,6,4,2,4,0,3,0,0,9,21,Lee Probert
+26/12/2009,09/10,"DW Stadium, Wigan",Wigan Athletic,Blackburn Rovers,0,1,1,1,0.56,0.43,5,3,15,8,674,556,377,297,29,23,47,35,7,2,2,4,1,4,0,0,10,20,Mark Clattenburg
+26/12/2009,09/10,"Turf Moor, Burnley",Burnley,Bolton Wanderers,0,1,1,1,0.59,0.4,4,4,18,11,669,532,447,314,16,16,29,50,8,2,5,3,0,0,0,0,10,19,Chris Foy
+27/01/2010,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Wigan Athletic,1,0,2,1,0.44,0.55,4,2,13,11,557,622,288,357,24,23,45,52,5,5,5,1,3,1,0,0,20,15,Lee Mason
+27/01/2010,09/10,"Goodison Park, Liverpool",Everton,Sunderland,2,0,2,0,0.54,0.45,6,3,11,8,725,649,427,350,26,23,48,47,3,8,1,2,0,1,0,0,12,19,Phil Dowd
+27/01/2010,09/10,"Stamford Bridge, London",Chelsea,Birmingham City,2,0,3,0,0.57,0.42,9,1,29,6,865,688,601,442,22,19,16,35,8,3,1,2,0,1,0,0,11,11,Stephen Bennett
+27/01/2010,09/10,"Villa Park, Birmingham",Aston Villa,Arsenal,0,0,0,0,0.48,0.51,1,3,11,15,636,649,359,392,21,11,41,38,7,7,5,1,2,2,0,0,16,16,Lee Probert
+27/02/2010,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Wolverhampton Wanderers,1,0,1,0,0.44,0.55,8,2,17,8,638,704,316,393,25,18,63,55,5,11,3,1,0,2,0,0,11,6,Andre Marriner
+27/02/2010,09/10,"Stamford Bridge, London",Chelsea,Man City,1,1,2,4,0.56,0.43,12,6,27,9,672,580,448,348,11,21,4,35,3,2,1,3,2,1,2,0,22,14,Mike Dean
+27/02/2010,09/10,"St Andrews, Birmingham",Birmingham City,Wigan Athletic,1,0,1,0,0.48,0.52,5,2,12,12,650,667,363,388,26,23,47,41,2,7,2,2,1,3,0,0,16,18,Anthony Taylor
+27/02/2010,09/10,"Turf Moor, Burnley",Burnley,Portsmouth,1,1,1,2,0.47,0.52,6,6,16,15,629,669,353,394,20,14,32,36,3,3,2,5,1,1,0,1,13,13,Mark Clattenburg
+27/02/2010,09/10,"Britannia Stadium, Stoke",Stoke,Arsenal,1,1,1,3,0.35,0.64,2,6,8,19,506,763,267,491,26,18,42,28,3,7,0,2,0,1,1,0,14,8,Peter Walton
+27/03/2010,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Everton,0,0,0,0,0.53,0.46,0,10,10,24,665,597,398,327,19,15,51,56,3,7,1,3,1,1,0,0,14,12,Mike Jones
+27/03/2010,09/10,"Boleyn Ground, London",West Ham,Stoke,0,0,0,1,0.54,0.45,4,3,17,13,593,542,326,254,19,20,69,58,6,7,1,4,0,2,0,0,16,16,Andre Marriner
+27/03/2010,09/10,"White Hart Lane, London",Tottenham,Portsmouth,2,0,2,0,0.52,0.47,5,3,20,9,679,626,401,386,35,22,27,24,11,2,4,1,0,1,0,0,7,10,Kevin Friend
+27/03/2010,09/10,"KCOM Stadium, Hull",Hull City,Fulham,1,0,2,0,0.38,0.61,5,4,10,15,483,673,272,450,12,18,39,42,6,8,2,1,2,4,0,0,11,19,Chris Foy
+27/03/2010,09/10,"St Andrews, Birmingham",Birmingham City,Arsenal,0,0,1,1,0.43,0.56,4,8,9,15,630,711,347,431,32,21,32,20,2,6,6,2,3,2,0,0,14,14,Howard Webb
+27/03/2010,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Manchester United,0,1,0,4,0.45,0.54,5,6,18,13,575,677,365,433,20,17,34,54,11,6,0,2,0,0,0,0,15,16,Martin Atkinson
+27/03/2010,09/10,"Stamford Bridge, London",Chelsea,Aston Villa,2,1,7,1,0.6,0.39,9,2,17,10,778,588,513,331,25,20,20,35,8,6,4,3,3,2,0,0,13,9,Peter Walton
+27/09/2009,09/10,"Stadium of Light, Sunderland",Sunderland,Wolverhampton Wanderers,1,0,5,2,0.47,0.52,8,5,12,20,529,550,284,321,17,29,48,44,8,9,2,2,1,3,0,0,21,13,Lee Mason
+27/12/2009,09/10,"KCOM Stadium, Hull",Hull City,Manchester United,0,1,1,3,0.4,0.59,4,6,14,20,561,675,311,466,16,23,38,37,5,7,0,1,0,2,0,0,14,18,Alan Wiley
+27/12/2009,09/10,"Emirates Stadium, London",Arsenal,Aston Villa,0,0,3,0,0.61,0.38,9,2,21,10,774,586,503,309,14,30,24,36,10,4,1,5,1,3,0,0,15,20,Phil Dowd
+28/02/2010,09/10,"Anfield, Liverpool",Liverpool,Blackburn Rovers,2,1,2,1,0.54,0.45,3,8,13,14,663,587,401,332,21,16,48,46,4,5,2,1,1,5,0,0,11,25,Alan Wiley
+28/02/2010,09/10,"White Hart Lane, London",Tottenham,Everton,2,0,2,1,0.47,0.52,8,5,17,15,717,722,409,437,25,21,44,29,6,9,1,1,1,4,0,0,9,19,Stephen Bennett
+28/02/2010,09/10,"Stadium of Light, Sunderland",Sunderland,Fulham,0,0,0,0,0.43,0.56,4,0,12,4,621,773,390,519,14,12,26,50,2,2,1,3,3,3,0,0,18,16,Martin Atkinson
+28/03/2010,09/10,"Turf Moor, Burnley",Burnley,Blackburn Rovers,0,1,0,1,0.59,0.4,1,4,5,13,609,533,381,260,14,17,41,61,8,2,1,6,3,2,0,0,15,13,Mike Dean
+28/03/2010,09/10,"Anfield, Liverpool",Liverpool,Sunderland,2,0,3,0,0.63,0.36,9,2,29,7,838,585,534,314,22,34,20,44,9,2,1,0,0,1,0,0,11,9,Phil Dowd
+28/09/2009,09/10,"Etihad Stadium, Manchester",Man City,West Ham,2,1,3,1,0.52,0.47,10,5,21,14,732,663,459,412,25,20,26,25,11,5,3,1,1,1,0,0,18,17,Chris Foy
+28/11/2009,09/10,"Etihad Stadium, Manchester",Man City,Hull City,1,0,1,1,0.55,0.44,5,2,19,10,702,583,428,338,19,25,26,31,8,2,2,1,1,3,0,0,15,12,Lee Probert
+28/11/2009,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Stoke,0,0,0,0,0.57,0.42,3,4,13,9,631,534,391,299,13,13,39,61,9,2,0,1,1,2,0,0,12,13,Howard Webb
+28/11/2009,09/10,"Craven Cottage, London",Fulham,Bolton Wanderers,0,1,1,1,0.63,0.36,5,1,18,5,851,609,588,324,17,16,29,53,8,5,1,4,1,6,0,0,8,20,Stephen Bennett
+28/11/2009,09/10,"Fratton Park, Portsmouth",Portsmouth,Manchester United,1,1,1,4,0.4,0.59,8,5,24,14,547,699,322,472,17,19,34,22,4,8,1,2,5,3,0,0,16,13,Mike Dean
+28/11/2009,09/10,"Boleyn Ground, London",West Ham,Burnley,3,0,5,3,0.41,0.58,7,6,12,16,536,634,307,422,37,18,42,29,1,6,6,2,2,1,0,1,9,16,Chris Foy
+28/11/2009,09/10,"Villa Park, Birmingham",Aston Villa,Tottenham,1,0,1,1,0.36,0.63,1,7,13,25,588,822,312,549,17,28,47,29,5,9,0,1,0,1,0,0,13,10,Phil Dowd
+28/11/2009,09/10,"DW Stadium, Wigan",Wigan Athletic,Sunderland,0,0,1,0,0.48,0.51,7,0,17,9,649,652,357,362,23,19,41,32,5,8,0,2,0,3,0,0,12,14,Martin Atkinson
+28/12/2009,09/10,"Britannia Stadium, Stoke",Stoke,Birmingham City,0,0,0,1,0.5,0.49,2,4,14,14,541,557,272,295,15,19,48,64,10,7,1,1,2,3,0,0,16,15,Martin Atkinson
+28/12/2009,09/10,"Ewood Park, Blackburn",Blackburn Rovers,Sunderland,0,0,2,2,0.55,0.44,5,6,22,14,633,549,362,289,17,21,48,38,4,4,3,2,1,4,0,0,7,20,Mike Dean
+28/12/2009,09/10,"White Hart Lane, London",Tottenham,West Ham,1,0,2,0,0.54,0.46,4,2,24,5,787,698,502,436,18,23,27,33,9,3,3,1,2,3,0,0,9,15,Chris Foy
+28/12/2009,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Man City,0,1,0,3,0.52,0.47,3,4,14,16,709,687,466,446,13,16,19,53,8,3,3,4,3,2,0,0,16,11,Mike Jones
+28/12/2009,09/10,"Goodison Park, Liverpool",Everton,Burnley,0,0,2,0,0.61,0.38,9,7,26,15,647,483,412,266,17,19,28,45,10,6,2,0,1,4,0,1,8,21,Howard Webb
+28/12/2009,09/10,"Stamford Bridge, London",Chelsea,Fulham,0,1,2,1,0.65,0.34,7,3,22,5,792,516,558,288,16,26,27,53,10,6,2,3,1,1,0,0,12,15,Andre Marriner
+29/03/2010,09/10,"Etihad Stadium, Manchester",Man City,Wigan Athletic,0,0,3,0,0.59,0.4,6,2,13,11,775,602,496,341,29,33,14,26,3,4,8,0,3,2,0,1,13,13,Stuart Attwell
+29/08/2009,09/10,"Ewood Park, Blackburn",Blackburn Rovers,West Ham,0,0,0,0,0.46,0.53,6,1,19,14,611,693,356,416,22,16,22,54,5,2,2,2,1,3,0,0,14,18,Phil Dowd
+29/08/2009,09/10,"Stamford Bridge, London",Chelsea,Burnley,1,0,3,0,0.6,0.4,15,0,33,4,820,590,570,384,25,32,17,24,10,1,3,1,0,1,0,0,9,5,Mark Clattenburg
+29/08/2009,09/10,"Old Trafford, Manchester",Manchester United,Arsenal,0,1,2,1,0.51,0.48,3,3,14,12,634,645,424,405,31,19,23,25,6,4,7,4,3,6,0,0,22,16,Mike Dean
+29/08/2009,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Hull City,0,1,1,1,0.54,0.45,6,3,24,5,621,570,330,278,12,18,62,63,8,2,3,5,0,2,0,0,11,15,Stuart Attwell
+29/08/2009,09/10,"White Hart Lane, London",Tottenham,Birmingham City,0,0,2,1,0.59,0.4,9,5,26,13,761,603,491,333,16,13,36,39,6,3,2,4,2,2,0,0,12,10,Peter Walton
+29/08/2009,09/10,"Britannia Stadium, Stoke",Stoke,Sunderland,1,0,1,0,0.45,0.54,5,3,14,9,546,583,279,334,16,15,66,43,10,10,2,2,0,2,0,0,11,8,Mike Jones
+29/08/2009,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Liverpool,1,1,2,3,0.22,0.77,3,9,9,30,407,887,155,612,25,15,47,31,5,11,0,1,2,1,1,0,15,8,Alan Wiley
+29/11/2009,09/10,"Emirates Stadium, London",Arsenal,Chelsea,0,2,0,3,0.56,0.43,2,4,12,10,718,633,480,380,33,35,21,41,4,3,3,6,2,2,0,0,17,14,Andre Marriner
+29/11/2009,09/10,"Molineux Stadium, Wolverhampton",Wolverhampton Wanderers,Birmingham City,0,1,0,1,0.56,0.43,1,5,11,13,610,582,354,268,18,17,41,80,6,5,1,8,2,1,0,0,16,10,Mark Clattenburg
+29/11/2009,09/10,"Goodison Park, Liverpool",Everton,Liverpool,0,1,0,2,0.46,0.53,6,5,16,11,666,692,392,467,22,36,44,47,6,4,6,1,1,0,0,0,15,12,Alan Wiley
+29/12/2009,09/10,"Villa Park, Birmingham",Aston Villa,Liverpool,0,0,0,1,0.43,0.56,4,4,9,15,634,748,332,450,30,32,39,29,8,10,0,1,1,1,0,0,13,11,Lee Probert
+29/12/2009,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Hull City,1,0,2,2,0.46,0.54,5,5,19,14,548,620,293,338,19,16,42,41,8,8,2,4,1,2,0,0,17,21,Phil Dowd
+30/01/2010,09/10,"Turf Moor, Burnley",Burnley,Chelsea,0,1,1,2,0.36,0.63,2,4,5,18,512,759,324,550,24,26,34,21,2,9,1,4,1,1,0,0,12,12,Phil Dowd
+30/01/2010,09/10,"St Andrews, Birmingham",Birmingham City,Tottenham,0,0,1,1,0.52,0.47,3,3,14,22,686,635,396,353,19,19,60,33,5,8,1,1,4,2,0,0,13,10,Stuart Attwell
+30/01/2010,09/10,"Craven Cottage, London",Fulham,Aston Villa,0,2,0,2,0.54,0.45,4,6,19,13,737,668,464,384,21,19,33,38,9,3,5,1,0,2,0,0,10,16,Lee Mason
+30/01/2010,09/10,"KCOM Stadium, Hull",Hull City,Wolverhampton Wanderers,1,0,2,2,0.5,0.49,5,3,10,13,546,555,308,316,16,27,49,60,4,7,2,1,2,0,0,0,16,11,Mike Dean
+30/01/2010,09/10,"DW Stadium, Wigan",Wigan Athletic,Everton,0,0,0,1,0.53,0.46,2,6,8,11,634,601,396,335,29,22,35,34,4,7,2,5,0,2,0,0,19,12,Lee Probert
+30/01/2010,09/10,"Boleyn Ground, London",West Ham,Blackburn Rovers,0,0,0,0,0.56,0.43,3,3,10,10,691,557,400,307,15,23,63,54,10,7,3,1,0,1,0,0,18,17,Peter Walton
+30/01/2010,09/10,"Anfield, Liverpool",Liverpool,Bolton Wanderers,1,0,2,0,0.65,0.35,4,1,19,8,684,483,459,241,14,19,27,47,11,3,2,0,1,3,0,0,12,13,Stephen Bennett
+30/08/2009,09/10,"Fratton Park, Portsmouth",Portsmouth,Man City,0,1,0,1,0.5,0.5,1,7,12,14,681,689,397,393,41,22,37,33,3,11,3,1,2,1,0,0,13,10,Howard Webb
+30/08/2009,09/10,"Villa Park, Birmingham",Aston Villa,Fulham,1,0,2,0,0.44,0.55,2,0,10,8,600,710,400,530,24,17,26,27,9,4,5,1,1,2,0,0,12,9,Stephen Bennett
+30/08/2009,09/10,"Goodison Park, Liverpool",Everton,Wigan Athletic,0,0,2,1,0.56,0.43,8,3,33,14,638,559,363,293,22,27,39,47,12,5,3,1,1,6,0,0,11,24,Lee Probert
+30/12/2009,09/10,"Old Trafford, Manchester",Manchester United,Wigan Athletic,3,0,5,0,0.62,0.37,11,3,23,11,870,643,613,374,20,26,15,46,7,3,3,0,0,1,0,0,7,13,Lee Mason
+30/12/2009,09/10,"Fratton Park, Portsmouth",Portsmouth,Arsenal,0,2,1,4,0.34,0.65,4,5,12,19,565,857,324,619,21,27,38,30,2,10,5,4,2,0,0,0,16,3,Alan Wiley
+31/01/2010,09/10,"Etihad Stadium, Manchester",Man City,Portsmouth,2,0,2,0,0.55,0.44,5,4,13,13,747,623,499,393,19,14,25,29,10,7,2,5,1,3,0,0,9,16,Martin Atkinson
+31/01/2010,09/10,"Emirates Stadium, London",Arsenal,Manchester United,0,2,1,3,0.53,0.46,3,4,20,13,801,696,485,425,18,36,26,31,8,5,0,0,1,0,0,0,9,12,Chris Foy
+31/10/2009,09/10,"Turf Moor, Burnley",Burnley,Hull City,1,0,2,0,0.59,0.4,4,3,13,8,617,494,402,277,17,21,37,41,8,1,1,5,1,2,0,1,13,15,Mike Jones
+31/10/2009,09/10,"Fratton Park, Portsmouth",Portsmouth,Wigan Athletic,2,0,4,0,0.48,0.51,8,0,25,8,644,646,357,374,32,24,25,43,7,4,5,1,0,1,0,0,10,10,Alan Wiley
+31/10/2009,09/10,"Britannia Stadium, Stoke",Stoke,Wolverhampton Wanderers,2,0,2,2,0.43,0.56,4,4,10,11,507,592,269,351,21,16,39,48,4,3,2,2,0,3,0,0,14,17,Chris Foy
+31/10/2009,09/10,"Stadium of Light, Sunderland",Sunderland,West Ham,1,2,2,2,0.56,0.43,7,8,21,17,719,605,403,312,34,21,20,59,7,3,2,0,3,2,1,1,13,17,Andre Marriner
+31/10/2009,09/10,"Emirates Stadium, London",Arsenal,Tottenham,2,0,3,0,0.52,0.48,8,4,18,10,781,715,481,444,24,33,27,21,6,2,4,3,1,1,0,0,14,11,Mark Clattenburg
+31/10/2009,09/10,"Craven Cottage, London",Fulham,Liverpool,1,1,3,1,0.35,0.64,6,1,13,10,575,855,356,637,19,16,32,21,2,2,3,2,1,0,0,2,10,13,Lee Mason
+31/10/2009,09/10,"Goodison Park, Liverpool",Everton,Aston Villa,1,0,1,1,0.47,0.52,2,4,11,15,551,572,302,329,16,14,50,37,3,4,1,1,1,2,1,1,18,18,Lee Probert
+31/10/2009,09/10,"Macron Stadium, Bolton",Bolton Wanderers,Chelsea,0,1,0,4,0.34,0.65,2,14,15,33,510,823,249,521,22,13,38,38,8,9,0,4,1,1,1,0,11,7,Peter Walton
+31/10/2009,09/10,"Old Trafford, Manchester",Manchester United,Blackburn Rovers,0,0,2,0,0.65,0.34,6,1,25,3,795,500,553,287,17,16,24,48,7,2,3,2,0,2,0,0,11,21,Phil Dowd
